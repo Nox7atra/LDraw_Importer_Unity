@@ -1,0 +1,23 @@
+0 Door  1 x  3 x  1 Right with Thin "POLICE" Pattern
+0 Name: 3821p02.dat
+0 Author: Michael Heidemann [mikeheide]
+0 !LDRAW_ORG Part UPDATE 2009-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CW
+0 !KEYWORDS Town
+0 !CMDLINE -c15
+
+0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
+
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3822s01.dat
+1 16 0 0 0 0 0 -1 0 1 0 1 0 0 stud.dat
+1 16 -10 11 18 0 1 0 0 0 -0.6299 -0.88 0 0 s\3069bs18.dat
+4 16 -10 24 50 -10 14 46 -10 14 34 -10 24 34
+4 16 -10 24 32.96 -10 24 34 -10 0 34 -10 0 32.96
+4 16 -10 0 34 -10 10 34 -10 10 46 -10 0 50
+4 16 -10 0 50 -10 10 46 -10 14 46 -10 24 50
+4 16 -10 7.8505 3.04 -10 7.8505 32.96 -10 0 32.96 -10 0 0
+4 16 -10 24 0 -10 14.15 3.04 -10 7.8505 3.04 -10 0 0
+4 16 -10 24 32.96 -10 14.15 32.96 -10 14.15 3.04 -10 24 0
+0

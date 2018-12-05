@@ -1,0 +1,16 @@
+0 Tile  2 x  2 with Fabuland '5' on Orange/Green Background Pattern
+0 Name: 3068bpfd.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2017-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 3068pb33, Ticket, Amusement Park
+
+0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3068bs01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3068bpfds01.dat
+1 25 0 0 0 1 0 0 0 1 0 0 0 1 s\3068bpfds02.dat
+1 2 0 0 0 1 0 0 0 1 0 0 0 1 s\3068bpfds03.dat

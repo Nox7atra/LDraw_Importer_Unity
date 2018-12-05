@@ -1,0 +1,13 @@
+0 ~Train Wheel Spoked with Straight Hub and Steel Axle 96 LDU
+0 Name: 243c02.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Shortcut UPDATE 2011-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+
+1 494 0 0 0 1 0 0 0 1 0 0 0 1 u9183.dat
+1 16 50 0 0 0 0 -1 0 1 0 1 0 0 243.dat
+1 16 -50 0 0 0 0 1 0 1 0 -1 0 0 243.dat

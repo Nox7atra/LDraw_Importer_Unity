@@ -1,0 +1,20 @@
+0 Brick  1 x  6 with "ROYAL MAIL" White Pattern
+0 Name: 3009pta.dat
+0 Author: J.C. Tchang [tchang]
+0 !LDRAW_ORG Part UPDATE 2012-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3009s01.dat
+0 //
+4 16 -60 24 -10 -45.675 22.538 -10 -45.675 2.062 -10 -60 0 -10
+4 16 45.675 2.062 -10 45.675 22.538 -10 60 24 -10 60 0 -10
+4 16 -45.675 2.062 -10 45.675 2.062 -10 60 0 -10 -60 0 -10
+4 16 45.675 22.538 -10 -45.675 22.538 -10 -60 24 -10 60 24 -10
+0 //
+1 15 0 -0.3 0 1.05 0 0 0 1.05 0 0 0 1 s\3009pt9a.dat
+1 16 0 -0.3 0 1.05 0 0 0 1.05 0 0 0 1 s\3009pt9b.dat
+

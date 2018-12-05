@@ -1,0 +1,30 @@
+0 Wedge  2 x  3 with Brick  2 x  4 with MTron Logo Pattern
+0 Name: 2336p68.dat
+0 Author: John Van Zwieten [jvan]
+0 !LDRAW_ORG Part UPDATE 2014-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 1998-09-15 [PTadmin] Official Update 1998-08
+0 !HISTORY 2007-05-04 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2009-05-31 [nielsk] Made BFC compliant, made use of subfile, gaps in pattern fixed
+0 !HISTORY 2012-08-09 [PTadmin] Official Update 2012-02
+0 !HISTORY 2014-11-01 [Darats] Use subpart, Correct Logo Location
+0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2336s01.dat
+
+1 16 0 -17.697 -18.706 0.75 0 0 0 0.919145 -0.29544 0 0.393919 0.689359 s\3068p68a.dat
+
+4 16 -20 -24 -4 -13.875 -23.1629 -5.95318 0 -23.1629 -5.95318 20 -24 -4
+3 16 20 -24 -4 0 -23.1629 -5.95318 13.875 -23.1629 -5.95318
+3 16 20 -24 -4 13.875 -23.1629 -5.95318 13.875 -17.6973 -18.7063
+3 16 20 -24 -4 13.875 -17.6973 -18.7063 13.875 -12.2317 -31.4595
+3 16 20 -24 -4 13.875 -12.2317 -31.4595 10 1.52409e-005 -60
+4 16 10 1.52409e-005 -60 13.875 -12.2317 -31.4595 0 -12.2317 -31.4595 -10 1.52409e-005 -60
+3 16 0 -12.2317 -31.4595 -13.875 -12.2317 -31.4595 -10 1.52409e-005 -60
+3 16 -20 -24 -4 -10 1.52409e-005 -60 -13.875 -12.2317 -31.4595
+3 16 -20 -24 -4 -13.875 -12.2317 -31.4595 -13.875 -17.6973 -18.7063
+3 16 -20 -24 -4 -13.875 -17.6973 -18.7063 -13.875 -23.1629 -5.95318

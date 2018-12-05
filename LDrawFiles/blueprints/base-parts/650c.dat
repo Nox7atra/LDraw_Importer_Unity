@@ -1,0 +1,13 @@
+0 Hinge Plate  2 x  7 with 3L Bendable Coupling Nylon - Middle
+0 Name: 650c.dat
+0 Author: Steffen [Steffen]
+0 !LDRAW_ORG Subpart UPDATE 2013-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HELP this file is intended for LSYNTH
+
+0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
+1 16 0 2.25 1 1.5 0 0 0 1 0 0 0 -2.25 box4o8a.dat

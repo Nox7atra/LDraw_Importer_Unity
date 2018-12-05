@@ -1,0 +1,47 @@
+0 Minifig Torso with Red/Peach Quarters Shield Pattern
+0 Name: 973p4t.dat
+0 Author: Andy Westrate [westrate]
+0 !LDRAW_ORG Part UPDATE 2015-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Castle, LEGOLAND Castle, Knight, Tournament
+0 !CMDLINE -C0
+
+0 !HISTORY 2003-03-12 [PTadmin] Official Update 2003-01
+0 !HISTORY 2007-07-29 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2014-11-21 [roland]  Auto-corrected with libfix version of LDCad 1.4
+0 !HISTORY 2015-01-21 [MagFors] Made bfc compliant, corrected peach colour, removed T-junctions, inlined pattern subfiles
+0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+
+0 // Torso
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
+4 16 -19 29 10 19 29 10 19 32 10 -19 32 10
+4 16 19 29 10 -19 29 10 -14.345 2 10 14.345 2 10
+4 16 14.345 2 10 -14.345 2 10 -12 0 10 12 0 10
+1 15 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
+0 // Pattern
+4 92 0 14 -10 -10.0666 14.0178 -10 -9 18 -10 -6.5 22.5 -10
+3 92 0 14 -10 -6.5 22.5 -10 0 27.1 -10
+4 92 0 14 -10 10.0666 14.0178 -10 10.5 12.4 -10 0 4.9 -10
+3 92 10.5 4.9 -10 0 4.9 -10 10.5 12.4 -10
+4 4 9 18 -10 10.0666 14.0178 -10 0 14 -10 6.5 22.5 -10
+3 4 0 14 -10 0 27.1 -10 6.5 22.5 -10
+4 4 -10.5 12.4 -10 -10.0666 14.0178 -10 0 14 -10 0 4.9 -10
+3 4 0 4.9 -10 -10.5 4.9 -10 -10.5 12.4 -10
+4 16 -10.5 12.4 -10 -10.5 4.9 -10 -14.345 2 -10 -19 29 -10
+4 16 14.345 2 -10 10.5 4.9 -10 10.5 12.4 -10 19 29 -10
+4 16 0 27.1 -10 -6.5 22.5 -10 -19 29 -10 -19 32 -10
+3 16 -9 18 -10 -19 29 -10 -6.5 22.5 -10
+4 16 19 29 -10 6.5 22.5 -10 0 27.1 -10 19 32 -10
+3 16 9 18 -10 6.5 22.5 -10 19 29 -10
+3 16 10.5 12.4 -10 10.0666 14.0178 -10 19 29 -10
+3 16 10.0666 14.0178 -10 9 18 -10 19 29 -10
+3 16 -10.5 12.4 -10 -19 29 -10 -10.0666 14.0178 -10
+3 16 -10.0666 14.0178 -10 -19 29 -10 -9 18 -10
+4 16 -14.345 2 -10 -10.5 4.9 -10 0 4.9 -10 -12 0 -10
+3 16 0 27.1 -10 -19 32 -10 19 32 -10
+4 16 12 0 -10 -12 0 -10 0 4.9 -10 14.345 2 -10
+3 16 14.345 2 -10 0 4.9 -10 10.5 4.9 -10

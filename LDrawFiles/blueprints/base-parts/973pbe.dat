@@ -1,0 +1,20 @@
+0 Minifig Torso with Iron Man Armoured Suit Mark XVII Pattern
+0 Name: 973pbe.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Part UPDATE 2013-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+0 !KEYWORDS Heartbreaker
+
+0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
+1 15 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
+
+0 // frontside
+1 16 0 0 -10 1 0 0 0 1 0 0 0 1 s\973pbea.dat
+1 16 0 0 -10 -1 0 0 0 1 0 0 0 1 s\973pbea.dat
+0 // backside
+1 16 0 0 10 -1 0 0 0 1 0 0 0 -1 s\973pbeb.dat
+1 16 0 0 10 1 0 0 0 1 0 0 0 -1 s\973pbeb.dat

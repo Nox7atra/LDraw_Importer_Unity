@@ -1,0 +1,54 @@
+0 Technic Bush 1/2 Type 2
+0 Name: 4265b.dat
+0 Author: James Jessiman
+0 !LDRAW_ORG Part UPDATE 2005-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+0 !KEYWORDS small pulley, half-bushing, half bushing, cross-axle
+
+0 !HISTORY 1999-04-09 [sbliss] Modified to newer type
+0 !HISTORY 1999-07-05 [PTadmin] Official Update 1999-05
+0 !HISTORY 2004-06-20 [guyvivan] Made BFC compliant, use Torus and axlehol6 primitive
+0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
+0 !HISTORY 2007-07-04 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+1 16 0 0 -5 0 0 1 1 0 0 0 8 0 axlehol6.dat
+1 16 0 0 -5 0 0 -1 -1 0 0 0 8 0 axlehol6.dat
+1 16 0 0 -5 0 0 -6 6 0 0 0 1 0 1-4edge.dat
+1 16 0 0 -5 0 0 6 -6 0 0 0 1 0 1-4edge.dat
+2 24 5.58 2 3 4.26 4.26 3
+2 24 4.26 4.26 3 2 5.58 3
+2 24 -5.58 -2 3 -4.26 -4.26 3
+2 24 -4.26 -4.26 3 -2 -5.58 3
+0 BFC INVERTNEXT
+1 16 0 0 -5 0 0 6 -6 0 0 0 8 0 4-4cyli.dat
+2 24 -6 0 -5 -5.58 -2 -5
+2 24 0 -6 -5 -2 -5.58 -5
+2 24 6 0 -5 5.58 2 -5
+2 24 0 6 -5 2 5.58 -5
+1 16 0 0 -5 9 0 0 0 0 9 0 1 0 4-4edge.dat
+1 16 0 0 -5 3 0 0 0 0 3 0 1 0 ring2.dat
+1 16 0 0 -5 9 0 0 0 0 9 0 2.5 0 4-4cyli.dat
+1 16 0 0 -2.5 9 0 0 0 0 9 0 1 0 4-4edge.dat
+1 16 0 0 2.5 9 0 0 0 0 9 0 1 0 4-4edge.dat
+1 16 0 0 2.5 9 0 0 0 0 9 0 0.5 0 4-4cyli.dat
+1 16 0 0 3 -1 0 0 0 0 1 0 1 0 bushloc2.dat
+0 BFC INVERTNEXT
+1 16 0 0 0 9 0 0 0 0 -9 0 10 0 t04i2500.dat
+0 BFC INVERTNEXT
+1 16 0 0 0 0 0 -9 -9 0 0 0 10 0 t04i2500.dat
+0 BFC INVERTNEXT
+1 16 0 0 0 -9 0 0 0 0 9 0 10 0 t04i2500.dat
+0 BFC INVERTNEXT
+1 16 0 0 0 0 0 9 9 0 0 0 10 0 t04i2500.dat
+0 BFC INVERTNEXT
+1 16 0 0 0 -9 0 0 0 0 -9 0 -10 0 t04i2500.dat
+0 BFC INVERTNEXT
+1 16 0 0 0 0 0 9 -9 0 0 0 -10 0 t04i2500.dat
+0 BFC INVERTNEXT
+1 16 0 0 0 9 0 0 0 0 9 0 -10 0 t04i2500.dat
+0 BFC INVERTNEXT
+1 16 0 0 0 0 0 -9 9 0 0 0 -10 0 t04i2500.dat
+0

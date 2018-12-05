@@ -1,0 +1,43 @@
+0 ~Electric Mindstorms EV3 Screen Shield with Black Frame Pattern
+0 Name: 99148p01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2013-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2012-05-20 {LEGO MINDSTORMS Team} Original part shape
+0 !HISTORY 2012-06-23 [Philo] Complete rebuild for LDraw Parts Tracker
+0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\99148s01.dat
+
+1 16 50 3 30 5 0 0 0 -3 0 0 0 5 1-4chrd.dat
+1 16 -50 3 30 -5 0 0 0 -3 0 0 0 5 1-4chrd.dat
+1 16 50 3 -30 5 0 0 0 -3 0 0 0 -5 1-4chrd.dat
+1 16 -50 3 -30 -5 0 0 0 -3 0 0 0 -5 1-4chrd.dat
+4 16 55 3 -30 -55 3 -30 -55 3 30 55 3 30
+4 16 55 3 30 -55 3 30 -50 3 35 50 3 35
+4 16 50 3 -35 -50 3 -35 -55 3 -30 55 3 -30
+0 BFC NOCLIP
+1 0 60 3 34 5 0 0 0 -3 0 0 0 5 1-4chrd.dat
+1 0 50 3 30 5 0 0 0 -3 0 0 0 5 1-4ndis.dat
+1 0 -50 3 30 -5 0 0 0 -3 0 0 0 5 1-4ndis.dat
+1 0 50 3 -30 5 0 0 0 -3 0 0 0 -5 1-4ndis.dat
+1 0 -50 3 -30 -5 0 0 0 -3 0 0 0 -5 1-4ndis.dat
+1 0 60 3 -34 0 0 5 0 -3 0 -5 0 0 1-4chrd.dat
+1 0 -60 3 34 -5 0 0 0 -3 0 0 0 5 1-4chrd.dat
+1 0 -60 3 -34 0 0 -5 0 -3 0 -5 0 0 1-4chrd.dat
+4 0 65 3 34 55 3 30 55 3 35 60 3 39
+3 0 60 3 39 55 3 35 50 3 35
+4 0 60 3 -39 55 3 -35 55 3 -30 65 3 -34
+4 0 50 3 -35 55 3 -35 60 3 -39 2.5 3 -39
+4 0 50 3 35 -50 3 35 -60 3 39 60 3 39
+4 0 65 3 34 65 3 -34 55 3 -30 55 3 30
+4 0 -60 3 39 -55 3 35 -55 3 30 -65 3 34
+3 0 -50 3 35 -55 3 35 -60 3 39
+4 0 -65 3 -34 -55 3 -30 -55 3 -35 -60 3 -39
+4 0 -2.5 3 -39 -50 3 -35 50 3 -35 2.5 3 -39
+4 0 -60 3 -39 -55 3 -35 -50 3 -35 -2.5 3 -39
+4 0 -55 3 30 -55 3 -30 -65 3 -34 -65 3 34
+1 0 0 3 -49 0 0 2.5 0 -1 0 10 0 0 rect2p.dat

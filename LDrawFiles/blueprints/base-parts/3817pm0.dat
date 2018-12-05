@@ -1,0 +1,15 @@
+0 Minifig Leg Left with LOTR Leather Armor Pattern
+0 Name: 3817pm0.dat
+0 Author: Howard Lande [HowardLande]
+0 !LDRAW_ORG Part UPDATE 2012-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Lord of the Rings, Uruk-Hai
+
+0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
+
+0 // Mirror of right leg
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 3816pm0.dat
+

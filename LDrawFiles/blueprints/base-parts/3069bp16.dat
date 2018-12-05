@@ -1,0 +1,17 @@
+0 Tile  1 x  2 with Black "POLICE" and Red Line Pattern
+0 Name: 3069bp16.dat
+0 Author: Michael Heidemann [mikeheide]
+0 !LDRAW_ORG Part UPDATE 2010-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3069bs01.dat
+1 16 0 10 7 0.6032 0 0 0 0 1 0 -0.6032 0 s\3009p17a.dat
+4 16 -20 0 10 -20 0 -10 -18.6992 0 -5.3656 -18.6992 0 5.7936
+4 16 19.3024 0 5.7936 19.3024 0 -5.3656 20 0 -10 20 0 10
+4 16 19.3024 0 -5.3656 -18.6992 0 -5.3656 -20 0 -10 20 0 -10
+4 16 20 0 10 -20 0 10 -18.6992 0 5.7936 19.3024 0 5.7936
+0

@@ -1,0 +1,12 @@
+0 Cylinder Closed 1.0 without Edges and Conditional Lines
+0 Name: 4-4cylc2.dat
+0 Author: Steffen [Steffen]
+0 !LDRAW_ORG Primitive UPDATE 2011-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 4-4disc.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 4-4cyli2.dat

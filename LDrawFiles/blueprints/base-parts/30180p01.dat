@@ -1,0 +1,16 @@
+0 Slope Brick 45 10 x  2 x  2 Double w/ Black/Yellow Stripes Patt.
+0 Name: 30180p01.dat
+0 Author: Michael Heidemann [mikeheide]
+0 !LDRAW_ORG Part UPDATE 2012-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+0 !KEYWORDS Police
+
+0 !HISTORY 2012-08-09 [PTadmin] Official Update 2012-02
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30180s01.dat
+1 16 10 0 -40 0 0 -1 0 1 0 1 0 0 s\30180p1s.dat
+1 16 10 0 40 0 0 -1 0 1 0 1 0 0 s\30180p1s.dat
+4 16 20 0 -20 20 24 -20 20 24 20 20 0 20
+0

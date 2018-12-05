@@ -1,0 +1,22 @@
+0 Brick  2 x  2 with Two Black Rectangles Pattern
+0 Name: 3003pe6.dat
+0 Author: Damien Roux [Darats]
+0 !LDRAW_ORG Part UPDATE 2014-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3003s01.dat
+4 0 -12 23 -20 -4 23 -20 -4 1 -20 -12 1 -20
+4 0 4 23 -20 12 23 -20 12 1 -20 4 1 -20
+3 16 -20 0 -20 -12 1 -20 -4 1 -20
+4 16 -20 0 -20 -4 1 -20 4 1 -20 20 0 -20
+3 16 20 0 -20 4 1 -20 12 1 -20
+3 16 -4 23 -20 -12 23 -20 -20 24 -20
+4 16 4 23 -20 -4 23 -20 -20 24 -20 20 24 -20
+3 16 12 23 -20 4 23 -20 20 24 -20
+4 16 12 1 -20 12 23 -20 20 24 -20 20 0 -20
+4 16 -20 24 -20 -12 23 -20 -12 1 -20 -20 0 -20
+4 16 -4 23 -20 4 23 -20 4 1 -20 -4 1 -20

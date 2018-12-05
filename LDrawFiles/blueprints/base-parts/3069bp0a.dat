@@ -1,0 +1,22 @@
+0 Tile  1 x  2 with Partial White Stripes Pattern
+0 Name: 3069bp0a.dat
+0 Author: Tim Gould [timgould]
+0 !LDRAW_ORG Part UPDATE 2009-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CW
+0 !KEYWORDS tile, pattern, partial, stripes, director
+
+0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3069bs01.dat
+4 16 -20 0 0 -20 0 10 20 0 10 20 0 0
+0 Stripes
+4 15 -20 0 0 -13.333 0 0 -6.666 0 -10 -13.333 0 -10
+4 15 -6.666 0 0 0 0 0 6.666 0 -10 0 0 -10
+4 15 6.666 0 0 13.333 0 0 20 0 -10 13.333 0 -10
+0 Filler
+3 16 -20 0 0 -13.333 0 -10 -20 0 -10
+4 16 -13.333 0 0 -6.666 0 0 0 0 -10 -6.666 0 -10
+4 16 0 0 0 6.666 0 0 13.333 0 -10 6.666 0 -10
+3 16 13.333 0 0 20 0 0 20 0 -10

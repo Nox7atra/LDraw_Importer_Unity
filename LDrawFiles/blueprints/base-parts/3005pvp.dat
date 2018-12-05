@@ -1,0 +1,30 @@
+0 Brick  1 x  1 with Lightblue "P" Pattern
+0 Name: 3005pvp.dat
+0 Author: Tore Eriksson [Tore_Eriksson]
+0 !LDRAW_ORG Part UPDATE 2004-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CW
+0 !KEYWORDS letters, numbers
+
+0 !HISTORY 2004-11-06 [PTadmin] Official Update 2004-04
+0 !HISTORY 2007-05-11 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3005s01.dat
+
+4 9 -5 6 -10 -1.5 9 -10 -1.5 20 -10 -5 20 -10 
+1 16 0.75 10.25 -10 0 0 1.25 1.25 0 0 0 1 0 2-4disc.dat
+1 9 0.75 10.25 -10 0 0 1.25 1.25 0 0 0 1 0 2-4ring1.dat
+1 9 0.75 10.25 -10 0 0 2.125 2.125 0 0 0 1 0 2-4ring1.dat
+1 16 0.75 10.25 -10 0 0 4.25 4.25 0 0 0 1 0 2-4ndis.dat
+
+4 9 -5 6 -10 0.75 6 -10 0.75 9 -10 -1.5 9 -10 
+4 9 -1.5 11.5 -10 0.75 11.5 -10 0.75 14.5 -10 -1.5 14.5 -10 
+4 16 -1.5 11.5 -10 -1.5 9 -10 0.75 9 -10 0.75 11.5 -10 
+4 16 10 24 -10 -1.5 20 -10 -1.5 14.5 -10 5 14.5 -10 
+4 16 10 24 -10 5 14.5 -10 5 6 -10 10 0 -10 
+4 16 -10 24 -10 -5 20 -10 -1.5 20 -10 10 24 -10 
+4 16 -10 0 -10 -5 6 -10 -5 20 -10 -10 24 -10 
+4 16 -10 0 -10 10 0 -10 5 6 -10 -5 6 -10 
+0

@@ -1,0 +1,13 @@
+0 _Minifig Hips and Legs (Complete) Green
+0 Name: 74040.dat
+0 Author: [PTadmin]
+0 !LDRAW_ORG Part Physical_Colour UPDATE 2009-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CW
+
+0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
+
+0 // colouring of the part (Green).
+1 2 0 0 0 1 0 0 0 1 0 0 0 1 970c00.dat
+0

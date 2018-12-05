@@ -1,0 +1,14 @@
+0 Brick  1 x  6 without Centre Studs with Red "Shell" on White Background Pattern
+0 Name: 3067apt1.dat
+0 Author: Michael Heidemann [mikeheide]
+0 !LDRAW_ORG Part UPDATE 2018-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
+0 !HISTORY 2017-12-05 [PTadmin] Renamed from 3067pt1
+0 !HISTORY 2018-01-30 [PTadmin] Official Update 2018-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3067s01.DAT
+1 15 0 0 0 1 0 0 0 1 0 0 0 1 s\3009pt1s01.dat

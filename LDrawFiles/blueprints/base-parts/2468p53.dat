@@ -1,0 +1,22 @@
+0 Panel  3 x  3 x  6 Corner Convex with Space Police Left Pattern
+0 Name: 2468p53.dat
+0 Author: Carsten Schmitz [Deckard]
+0 !LDRAW_ORG Part UPDATE 2013-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Space Police I Logo
+
+0 !HISTORY 2004-09-15 [PTadmin] Official Update 2004-03
+0 !HISTORY 2007-05-13 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2013-02-24 [MagFors] BFC'd, color corrections, used subfiles
+0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2468s01.dat
+4 16 13.8 38.7 -46.2 46.2 38.7 -13.8 50 34 -10 10 34 -50
+4 16 10 34 -50 10 90 -50 13.8 84.3 -46.2 13.8 38.7 -46.2
+4 16 46.2 38.7 -13.8 46.2 84.3 -13.8 50 90 -10 50 34 -10
+4 16 10 90 -50 50 90 -10 46.2 84.3 -13.8 13.8 84.3 -46.2
+1 16 30 61.5 -30 0 0 -0.81 -1.14 0 0 0 1 -0.81 s\3298p53c.dat

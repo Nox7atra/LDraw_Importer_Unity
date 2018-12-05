@@ -1,0 +1,13 @@
+0 Ring  1 x 0.0625
+0 Name: 1-16rin1.dat
+0 Author: Niels Karsdorp [nielsk]
+0 !LDRAW_ORG Primitive UPDATE 2009-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
+
+4 16 1 0 0 2 0 0 1.8478 0 .7654 .9239 0 .3827
+0
+

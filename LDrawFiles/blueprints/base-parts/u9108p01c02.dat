@@ -1,0 +1,22 @@
+0 _Figure Fabuland Cat  1 Orange with Body Blue/Blue/Yellow
+0 Name: u9108p01c02.dat
+0 Author: Steffen [Steffen]
+0 !LDRAW_ORG Shortcut Physical_Colour UPDATE 2011-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+0 !KEYWORDS Set 3701
+0 !KEYWORDS Charlie Cat, Charlie le chat, Gato Minino
+0 !KEYWORDS Charly Kater, Tony il gatto, Victor
+
+0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
+
+0 // needs work: head color not yet confirmed to be correct: should it be color 191 or 366 or 462 or a new one?
+
+1 462 0 -67 4 1 0 0 0 1 0 0 0 1 u9108p01c01.dat
+1 1 0 -37 4 1 0 0 0 1 0 0 0 1 u9102.dat
+1 1 23 -63 4 1 0 0 0 1 0 0 0 1 u9101.dat
+1 1 -23 -63 4 -1 0 0 0 1 0 0 0 -1 u9101.dat
+1 14 -10 -37 4 1 0 0 0 1 0 0 0 1 u9100.dat
+1 14 10 -37 4 1 0 0 0 1 0 0 0 1 u9100.dat
+1 4 0 -37 4 1 0 0 0 1 0 0 0 1 u9103.dat

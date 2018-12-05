@@ -1,0 +1,23 @@
+0 Plate  1 x  1 Round with Chrome Gold Pattern
+0 Name: 6141p01.dat
+0 Author: Sven Moritz Hein [smhltec]
+0 !LDRAW_ORG Part UPDATE 2010-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2010-05-26 [mikeheide] Changed colour coding; rationalised primitives
+0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
+
+0 BFC INVERTNEXT
+1 16 0 3 0 6 0 0 0 5 0 0 0 6 4-4cylc.dat
+1 334 0 3 0 8 0 0 0 5 0 0 0 8 4-4cyli.dat
+1 334 0 8 0 8 0 0 0 1 0 0 0 8 4-4edge.dat
+1 334 0 3 0 8 0 0 0 1 0 0 0 8 4-4edge.dat
+1 334 0 0 0 10 0 0 0 3 0 0 0 10 4-4cylc.dat
+1 16 0 8 0 1.5 0 0 0 -1 0 0 0 -1.5 4-4ring4.dat
+1 334 0 0 0 1 0 0 0 1 0 0 0 1 stud.dat
+1 334 0 8 0 0.5 0 0 0 -1 0 0 0 -0.5 4-4RIN15.DAT
+1 334 0 3 0 2 0 0 0 -1 0 0 0 -2 4-4ring4.dat
+0 //
+0 //

@@ -1,0 +1,20 @@
+0 _Figure Fabuland Bear  1 with Body Blue/Blue/Red
+0 Name: u9107p01c02.dat
+0 Author: Steffen [Steffen]
+0 !LDRAW_ORG Shortcut Physical_Colour UPDATE 2010-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+0 !KEYWORDS Set 329
+0 !KEYWORDS Bernard Bear, Pataud l'ours, Bernardo el oso
+
+0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
+
+1 450 0 -67 4 1 0 0 0 1 0 0 0 1 u9107p01c01.dat
+1 1 0 -37 4 1 0 0 0 1 0 0 0 1 u9102.dat
+1 1 23 -63 4 1 0 0 0 1 0 0 0 1 u9101.dat
+1 1 -23 -63 4 -1 0 0 0 1 0 0 0 -1 u9101.dat
+1 4 -10 -37 4 1 0 0 0 1 0 0 0 1 u9100.dat
+1 4 10 -37 4 1 0 0 0 1 0 0 0 1 u9100.dat
+1 4 0 -37 4 1 0 0 0 1 0 0 0 1 u9103.dat
+

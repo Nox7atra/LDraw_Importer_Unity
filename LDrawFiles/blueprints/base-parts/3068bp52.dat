@@ -1,0 +1,31 @@
+0 Tile  2 x  2 with Red Cross Pattern
+0 Name: 3068bp52.dat
+0 Author: Chris Dee [cwdee]
+0 !LDRAW_ORG Part UPDATE 2009-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2001-04-18 [sbliss] cleaned up pattern, to not collide with background.
+0 !HISTORY 2002-02-15 [BrickCaster] groove
+0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04
+0 !HISTORY 2007-06-13 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2009-10-15 [anathema] BFC'd
+0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3068bs01.dat
+4 4 -13.5 0 -4.5 -4.5 0 -4.5 -4.5 0 4.5 -13.5 0 4.5
+4 4 -4.5 0 -4.5 4.5 0 -4.5 4.5 0 4.5 -4.5 0 4.5
+4 4 4.5 0 -4.5 13.5 0 -4.5 13.5 0 4.5 4.5 0 4.5
+4 4 -4.5 0 -4.5 -4.5 0 -13.5 4.5 0 -13.5 4.5 0 -4.5
+4 4 4.5 0 4.5 4.5 0 13.5 -4.5 0 13.5 -4.5 0 4.5
+4 16 20 0 20 4.5 0 13.5 4.5 0 4.5 13.5 0 4.5
+4 16 20 0 20 13.5 0 4.5 13.5 0 -4.5 20 0 -20
+4 16 20 0 -20 13.5 0 -4.5 4.5 0 -4.5 4.5 0 -13.5
+4 16 20 0 -20 4.5 0 -13.5 -4.5 0 -13.5 -20 0 -20
+4 16 -20 0 -20 -4.5 0 -13.5 -4.5 0 -4.5 -13.5 0 -4.5
+4 16 -20 0 -20 -13.5 0 -4.5 -13.5 0 4.5 -20 0 20
+4 16 -20 0 20 -13.5 0 4.5 -4.5 0 4.5 -4.5 0 13.5
+4 16 -20 0 20 -4.5 0 13.5 4.5 0 13.5 20 0 20
+0

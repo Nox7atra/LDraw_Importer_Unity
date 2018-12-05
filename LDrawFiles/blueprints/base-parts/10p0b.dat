@@ -1,0 +1,95 @@
+0 Baseplate 24 x 32 with Set 361 Dots Pattern
+0 Name: 10p0b.dat
+0 Author: Michael Heidemann [mikeheide]
+0 !LDRAW_ORG Part UPDATE 2013-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
+0 !HISTORY 2013-02-03 [MMR1988] updated and reworked studgroups, changed winding
+0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\10s01.dat
+
+1 16 -260 0 230 1 0 0 0 1 0 0 0 1 stug-1x4.dat
+1 16 -230 0 180 1 0 0 0 1 0 0 0 1 stug-4x1.dat
+1 16 -280 0 100 1 0 0 0 1 0 0 0 1 stug-4x4.dat
+1 16 -280 0 180 1 0 0 0 1 0 0 0 1 stug-4x4.dat
+1 16 -160 0 180 1 0 0 0 1 0 0 0 1 stug-6x6.dat
+1 16 -60 0 200 1 0 0 0 1 0 0 0 1 stug-4x4.dat
+1 16 20 0 200 1 0 0 0 1 0 0 0 1 stug-4x4.dat
+1 16 100 0 200 1 0 0 0 1 0 0 0 1 stug-4x4.dat
+1 16 190 0 190 1 0 0 0 1 0 0 0 1 stug-5x5.dat
+1 16 270 0 230 1 0 0 0 1 0 0 0 1 stug-1x3.dat
+1 16 280 0 180 1 0 0 0 1 0 0 0 1 stug-4x4.dat
+1 16 280 0 100 1 0 0 0 1 0 0 0 1 stug-4x4.dat
+1 16 220 0 130 1 0 0 0 1 0 0 0 1 stug-1x2.dat
+1 16 220 0 70 1 0 0 0 1 0 0 0 1 stug-1x2.dat
+1 16 -130 0 90 1 0 0 0 1 0 0 0 1 stug-3x3.dat
+1 16 -190 0 90 1 0 0 0 1 0 0 0 1 stug-3x3.dat
+1 16 -210 0 50 1 0 0 0 1 0 0 0 1 stug-1x11.dat
+1 16 -230 0 -50 1 0 0 0 1 0 0 0 1 stug-9x9.dat
+1 16 -50 0 -50 1 0 0 0 1 0 0 0 1 stug-9x9.dat
+1 16 130 0 -50 1 0 0 0 1 0 0 0 1 stug-9x9.dat
+1 16 270 0 10 1 0 0 0 1 0 0 0 1 stug-5x5.dat
+1 16 270 0 -90 1 0 0 0 1 0 0 0 1 stug-5x5.dat
+1 16 180 0 50 1 0 0 0 1 0 0 0 1 stug-1x4.dat
+1 16 -40 0 100 1 0 0 0 1 0 0 0 1 stug-4x4.dat
+1 16 90 0 70 1 0 0 0 1 0 0 0 1 stug-3x3.dat
+1 16 30 0 90 1 0 0 0 1 0 0 0 1 stug-3x3.dat
+1 16 60 0 130 1 0 0 0 1 0 0 0 1 stug-1x6.dat
+1 16 120 0 110 1 0 0 0 1 0 0 0 1 stug-1x6.dat
+1 16 150 0 90 1 0 0 0 1 0 0 0 1 stug-1x3.dat
+1 16 -310 0 -180 1 0 0 0 1 0 0 0 1 stug-4x1.dat
+1 16 310 0 -180 1 0 0 0 1 0 0 0 1 stug-4x1.dat
+1 16 -250 0 -190 1 0 0 0 1 0 0 0 1 stug-5x5.dat
+1 16 -150 0 -190 1 0 0 0 1 0 0 0 1 stug-5x5.dat
+1 16 -50 0 -190 1 0 0 0 1 0 0 0 1 stug-5x5.dat
+1 16 50 0 -190 1 0 0 0 1 0 0 0 1 stug-5x5.dat
+1 16 150 0 -190 1 0 0 0 1 0 0 0 1 stug-5x5.dat
+1 16 250 0 -190 1 0 0 0 1 0 0 0 1 stug-5x5.dat
+
+1 16 -90 0 150 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16 -70 0 150 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16 -50 0 150 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16 -30 0 150 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16 -10 0 150 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16 10 0 150 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16 30 0 150 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16 50 0 150 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16 70 0 150 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16 90 0 150 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16 110 0 150 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16 130 0 150 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16 130 0 130 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16 150 0 130 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16 170 0 130 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16 190 0 130 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16 -230 0 130 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16 -230 0 110 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16 -230 0 90 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16 -230 0 70 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16 -90 0 130 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16 -90 0 110 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16 -90 0 90 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16 -90 0 70 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16 -90 0 50 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16 -70 0 50 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16 -50 0 50 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16 -30 0 50 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16 -10 0 50 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16 10 0 50 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16 30 0 50 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16 50 0 50 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16 130 0 50 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16 150 0 70 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16 170 0 70 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16 190 0 70 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16 130 0 70 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16 190 0 90 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16 210 0 90 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16 230 0 90 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16 190 0 110 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16 210 0 110 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16 230 0 110 1 0 0 0 1 0 0 0 1 studp01.dat

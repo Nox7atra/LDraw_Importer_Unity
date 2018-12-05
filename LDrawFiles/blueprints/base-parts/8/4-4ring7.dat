@@ -1,0 +1,19 @@
+0 Ring  7 x 1.0
+0 Name: 8\4-4ring7.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG 8_Primitive UPDATE 2016-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+
+4 16 8 0 0 5.6568 0 5.6568 4.9497 0 4.9497 7 0 0
+4 16 5.6568 0 5.6568 0 0 8 0 0 7 4.9497 0 4.9497
+4 16 0 0 8 -5.6568 0 5.6568 -4.9497 0 4.9497 0 0 7
+4 16 -5.6568 0 5.6568 -8 0 0 -7 0 0 -4.9497 0 4.9497
+4 16 -8 0 0 -5.6568 0 -5.6568 -4.9497 0 -4.9497 -7 0 0
+4 16 -5.6568 0 -5.6568 0 0 -8 0 0 -7 -4.9497 0 -4.9497
+4 16 0 0 -8 5.6568 0 -5.6568 4.9497 0 -4.9497 0 0 -7
+4 16 5.6568 0 -5.6568 8 0 0 7 0 0 4.9497 0 -4.9497
+0 // Build by Primitive Generator 2

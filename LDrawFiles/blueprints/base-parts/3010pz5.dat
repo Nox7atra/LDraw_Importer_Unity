@@ -1,0 +1,15 @@
+0 Brick  1 x  4 with Silver Star and  2 Belt Buckles Pattern
+0 Name: 3010pz5.dat
+0 Author: Damien Roux [Darats]
+0 !LDRAW_ORG Part UPDATE 2017-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS BrickLink 3010pb207, Set 41589, Brickheadz, Captain America
+
+0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3010s01.dat
+1 16 0 0 -10 1 0 0 0 1 0 0 0 1 s\3010pz5s01.dat
+1 16 0 0 -10 -1 0 0 0 1 0 0 0 1 s\3010pz5s01.dat

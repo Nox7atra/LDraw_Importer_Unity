@@ -1,0 +1,33 @@
+0 Tile  1 x  1 with TV Logo Pattern
+0 Name: 3070p1k.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LDRAW_ORG Part UPDATE 2004-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CW
+0 !KEYWORDS News, Crisis, 6553, Television, Helicopter, Cameraman, Reporter, Van
+
+0 !HISTORY 2004-11-06 [PTadmin] Official Update 2004-04
+0 !HISTORY 2007-10-13 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3070bs01.dat
+
+0 Subpart TV Logo Pattern
+1 1 0 0 0 0.343 0 0 0 1 0 0 0 0.343 s\71472s01.dat 
+
+0 Border
+4 1 -9.5 0 9.5 9.5 0 9.5 7.098 0 6.313 -7.098 0 6.313 
+4 1 -9.5 0 -9.5 -9.5 0 9.5 -7.098 0 6.313 -7.098 0 -6.313
+4 1 9.5 0 -9.5 -9.5 0 -9.5 -7.098 0 -6.313 7.098 0 -6.313  
+4 1 9.5 0 9.5 9.5 0 -9.5 7.098 0 -6.313 7.098 0 6.313   
+4 16 -10 0 10 10 0 10 9.5 0 9.5 -9.5 0 9.5 
+4 16 -10 0 -10 -10 0 10 -9.5 0 9.5 -9.5 0 -9.5 
+4 16 10 0 -10 -10 0 -10 -9.5 0 -9.5 9.5 0 -9.5 
+4 16 10 0 10 10 0 -10 9.5 0 -9.5 9.5 0 9.5 
+0
+
+
+
+
+

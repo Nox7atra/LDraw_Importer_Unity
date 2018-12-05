@@ -1,0 +1,16 @@
+0 Brick  1 x  2 x  2 w/ Center Stud w/ Train Point Right Pattern
+0 Name: 3245ap01.dat
+0 Author: Steffen [Steffen]
+0 !LDRAW_ORG Part UPDATE 2010-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+0 !KEYWORDS Train, Arrow, Circle, Direction
+0 !CMDLINE -c15
+
+0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3245ap1s.dat
+1 16 -10 0 0 1 0 0 0 1 0 0 0 1 stud.dat
+1 16 10 0 0 1 0 0 0 1 0 0 0 1 stud.dat
+0

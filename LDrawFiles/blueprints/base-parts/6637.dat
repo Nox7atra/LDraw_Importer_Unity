@@ -1,0 +1,26 @@
+0 Electric Technic Fiber Optics Element
+0 Name: 6637.dat
+0 Author: Remco Braak
+0 !LDRAW_ORG Part UPDATE 1999-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 1997-09-29 [PTadmin] Official Update 1997-15
+0 !HISTORY 1999-02-01 [PTadmin] Official Update 1999-01
+0 !HISTORY 2007-07-18 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+1 16 0 24 0 1 0 0 0 1 0 0 0 1 6637a.dat
+1 16 0 24 0 1 0 0 0 1 0 0 0 1 6637b.dat
+1 16 0 24 0 -1 0 0 0 1 0 0 0 1 6637b.dat
+1 16 0 24 0 1 0 0 0 1 0 0 0 -1 6637b.dat
+1 16 0 24 0 -1 0 0 0 1 0 0 0 -1 6637b.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 6637c.dat
+1 16 0 0 0 .7 -.7 0 0.7 .7 0 0 0 1 6637c.dat
+1 16 0 0 0 0 -1 0 1 0 0 0 0 1 6637c.dat
+1 16 0 0 0 -.7 -.7 0 .7 -.7 0 0 0 1 6637c.dat
+1 16 0 0 0 -1 0 0 0 -1 0 0 0 1 6637c.dat
+1 16 0 0 0 -.7 .7 0 -.7 -.7 0 0 0 1 6637c.dat
+1 16 0 0 0 0 1 0 -1 0 0 0 0 1 6637c.dat
+1 16 0 0 0 .7 .7 0 -.7 .7 0 0 0 1 6637c.dat
+1 16 0 24 0 1 0 0 0 1 0 0 0 1 6637d.dat
+0

@@ -1,0 +1,15 @@
+0 Flag  2 x  2 Square with Crossed Cannons over Red Stripes, Black Outline Pattern
+0 Name: 2335p31.dat
+0 Author: Stan Isachenko [angmarec]
+0 !LDRAW_ORG Part UPDATE 2015-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Pirates, Imperial Guards
+
+0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2335s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2335p31s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\2335p31s01.dat

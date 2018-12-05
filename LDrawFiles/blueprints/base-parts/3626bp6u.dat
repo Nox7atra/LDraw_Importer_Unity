@@ -1,0 +1,19 @@
+0 Minifig Head with Gold Paint and Slanted Eyes Pattern
+0 Name: 3626bp6u.dat
+0 Author: Nils Schmidt [BlackBrick89]
+0 !LDRAW_ORG Part UPDATE 2011-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+0 !KEYWORDS Space, UFO, Invaders
+
+0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bs02.dat
+1 16 0 4 0 13 0 0 0 13 0 0 0 13 2-4cyli.dat
+1 16 0 4 0 0 0 8 0 -6.4 0 8 0 0 t04o6250.dat
+1 16 0 4 0 -8 0 0 0 -6.4 0 0 0 8 t04o6250.dat
+1 16 0 17 0 0 0 -8 0 6.4 0 8 0 0 t04o6250.dat
+1 16 0 17 0 8 0 0 0 6.4 0 0 0 8 t04o6250.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bp6ua.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3626bp6ua.dat

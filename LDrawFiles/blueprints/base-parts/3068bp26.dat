@@ -1,0 +1,23 @@
+0 Tile  2 x  2 with White V Pattern
+0 Name: 3068bp26.dat
+0 Author: J.C. Tchang [tchang]
+0 !LDRAW_ORG Part UPDATE 2012-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Set 1528, Race, Dragster
+
+0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3068bs01.dat
+0 //
+4 15 -20 0 13.9 -1.8 0 -20 0 0 -12 -17.4 0 20
+3 15 -17.4 0 20 -20 0 20 -20 0 13.9
+3 15 0 0 -12 -1.8 0 -20 1.8 0 -20
+4 15 17.4 0 20 0 0 -12 1.8 0 -20 20 0 13.9
+3 15 20 0 13.9 20 0 20 17.4 0 20
+0 //
+3 16 17.4 0 20 -17.4 0 20 0 0 -12
+3 16 20 0 13.9 1.8 0 -20 20 0 -20
+3 16 -20 0 13.9 -20 0 -20 -1.8 0 -20

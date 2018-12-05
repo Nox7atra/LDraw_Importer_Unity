@@ -1,0 +1,22 @@
+0 Tile  2 x  2 Round with Red Rings Pattern
+0 Name: 4150pf0.dat
+0 Author: Niels Karsdorp [nielsk]
+0 !LDRAW_ORG Part UPDATE 2004-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CW
+
+0 !HISTORY 2003-07-28 [Steffen] made use of s\4150s01.dat, reworked pattern with ring primitives
+0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
+0 !HISTORY 2007-07-01 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4150s01.dat
+1 16 0 0 0 3 0 0 0 1 0 0 0 3 4-4disc.dat
+1 4 0 0 0 3 0 0 0 1 0 0 0 3 ring1.dat
+1 4 0 0 0 4.625 0 0 0 1 0 0 0 4.625 ring1.dat
+1 16 0 0 0 1.15625 0 0 0 1 0 0 0 1.15625 4-4ring8.dat
+1 16 0 0 0 2.5 0 0 0 1 0 0 0 2.5 ring4.dat
+1 4 0 0 0 3.125 0 0 0 1 0 0 0 3.125 ring4.dat
+1 4 0 0 0 5 0 0 0 1 0 0 0 5 ring3.dat
+0

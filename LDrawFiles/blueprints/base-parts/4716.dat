@@ -1,0 +1,44 @@
+0 Technic Worm Gear
+0 Name: 4716.dat
+0 Author: Remco Braak
+0 !LDRAW_ORG Part UPDATE 2009-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 1997-09-29 [PTadmin] Official Update 1997-15
+0 !HISTORY 2007-07-08 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2008-07-07 [technog] added BFC, corrected for update of 4716b.dat (2003-12-26)
+0 !HISTORY 2008-07-08 [technog] corrected for rename of 4716b.dat to s\4716s01.dat (2004-01-05)
+0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
+
+1 16 0 0 -20 1 0 0 0 0 1 0 40 0 axlehole.dat
+1 16 0 0 -20 1 0 0 0 0 1 0 1 0 axlehol2.dat
+1 16 0 0 20 1 0 0 0 0 1 0 1 0 axlehol2.dat
+1 16 0 0 -16 1 0 0 0 1 0 0 0 1 s\4716s01.dat
+1 16 0 0 -8 1 0 0 0 1 0 0 0 1 s\4716s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4716s01.dat
+1 16 0 0 8 1 0 0 0 1 0 0 0 1 s\4716s01.dat
+1 16 0 0 16 1 0 0 0 1 0 0 0 1 s\4716s01.dat
+1 16 0 0 -20 0 0 -7 7 0 0 0 1 0 1-4edge.DAT
+1 16 0 0 -20 0 0 12.7 -12.7 0 0 0 1 0 1-4edge.DAT
+1 16 0 0 20 0 0 -7 7 0 0 0 1 0 1-4edge.DAT
+1 16 0 0 20 0 0 12.7 -12.7 0 0 0 1 0 1-4edge.DAT
+2 24 10.4168 4.3148 20 12.7 0 20
+2 24 6.9651 6.9651 20 10.4168 4.3148 20
+2 24 3.2241 7.7837 20 6.9651 6.9651 20
+2 24 0 7 20 3.2241 7.7837 20
+2 24 -4.3148 -10.4168 20 0 -12.7 20
+2 24 -6.9651 -6.9651 20 -4.3148 -10.4168 20
+2 24 -7.7837 -3.2241 20 -6.9651 -6.9651 20
+2 24 -7 0 20 -7.7837 -3.2241 20
+2 24 10.4168 4.3148 -20 12.7 0 -20
+2 24 6.9651 6.9651 -20 10.4168 4.3148 -20
+2 24 3.2241 7.7837 -20 6.9651 6.9651 -20
+2 24 0 7 -20 3.2241 7.7837 -20
+2 24 -4.3148 -10.4168 -20 0 -12.7 -20
+2 24 -6.9651 -6.9651 -20 -4.3148 -10.4168 -20
+2 24 -7.7837 -3.2241 -20 -6.9651 -6.9651 -20
+2 24 -7 0 -20 -7.7837 -3.2241 -20
+0

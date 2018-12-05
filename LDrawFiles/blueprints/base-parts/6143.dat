@@ -1,0 +1,15 @@
+0 Brick  2 x  2 Round Type 2
+0 Name: 6143.dat
+0 Author: Steve Bliss [sbliss]
+0 !LDRAW_ORG Part UPDATE 2002-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 2002-02-18 [PTadmin] Official Update 2002-01
+0 !HISTORY 2007-07-16 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // This part differs from part 3941 by the edges around the axlehole.  The  
+0 // edges on 6143 are noticeably rounded.  This rounding is on the edge 
+0 // of the size limit for modelling in LDraw.
+ 1 16 0 0 0 1 0 0 0 1 0 0 0 1 3941.dat
+0

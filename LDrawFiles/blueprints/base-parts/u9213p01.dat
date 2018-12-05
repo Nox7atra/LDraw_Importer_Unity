@@ -1,0 +1,29 @@
+0 Fabuland Tree with Apples Pattern
+0 Name: u9213p01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2015-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Plant
+
+0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\u9213s01.dat
+1 16 0 0 -3 1 0 0 0 1 0 0 0 1 s\u9213p01s01.dat
+1 16 0 0 3 1 0 0 0 1 0 0 0 -1 s\u9213p01s01.dat
+1 4 -1 -146 3 0.28 0 0 0 0 0.28 0 -1 0 4-4rin50.dat
+1 4 44.4 -146.2 3 0.28 0 0 0 0 0.28 0 -1 0 4-4rin50.dat
+1 4 21.6 -180.8 3 0.28 0 0 0 0 0.28 0 -1 0 4-4rin50.dat
+1 4 -24.6 -180.2 3 0.28 0 0 0 0 0.28 0 -1 0 4-4rin50.dat
+1 4 -46.8 -145.4 3 0.28 0 0 0 0 0.28 0 -1 0 4-4rin50.dat
+1 4 -23.8 -110.6 3 0.28 0 0 0 0 0.28 0 -1 0 4-4rin50.dat
+1 4 22.2 -111.2 3 0.28 0 0 0 0 0.28 0 -1 0 4-4rin50.dat
+1 4 -1 -146 -3 0.28 0 0 0 0 0.28 0 1 0 4-4rin50.dat
+1 4 44.4 -146.2 -3 0.28 0 0 0 0 0.28 0 1 0 4-4rin50.dat
+1 4 21.6 -180.8 -3 0.28 0 0 0 0 0.28 0 1 0 4-4rin50.dat
+1 4 -24.6 -180.2 -3 0.28 0 0 0 0 0.28 0 1 0 4-4rin50.dat
+1 4 -46.8 -145.4 -3 0.28 0 0 0 0 0.28 0 1 0 4-4rin50.dat
+1 4 -23.8 -110.6 -3 0.28 0 0 0 0 0.28 0 1 0 4-4rin50.dat
+1 4 22.2 -111.2 -3 0.28 0 0 0 0 0.28 0 1 0 4-4rin50.dat

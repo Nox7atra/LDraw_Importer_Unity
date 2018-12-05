@@ -1,0 +1,15 @@
+0 Hi-Res Ring 19 x 0.0625
+0 Name: 48\1-16ring19.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG 48_Primitive UPDATE 2014-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
+
+4 16 20 0 0 19.828 0 2.61 18.8366 0 2.4795 19 0 0
+4 16 19.828 0 2.61 19.318 0 5.176 18.3521 0 4.9172 18.8366 0 2.4795
+4 16 19.318 0 5.176 18.478 0 7.654 17.5541 0 7.2713 18.3521 0 4.9172
+0 // Build by Primitive Generator 2

@@ -1,0 +1,44 @@
+0 Minifig Torso with Tri-Coloured Shield and Gold Trim Pattern
+0 Name: 973p4s.dat
+0 Author: Damien Guichard [BrickCaster]
+0 !LDRAW_ORG Part UPDATE 2005-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CW
+
+0 !HISTORY 2004-09-15 [PTadmin] Official Update 2004-03
+0 !HISTORY 2004-12-09 [cwdee] Description change only
+0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
+0 !HISTORY 2007-07-29 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
+
+0 Neck mark
+1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
+
+0 Plain back
+4 16 -19 32 10 19 32 10 19 29 10 -19 29 10
+4 16 -19 29 10 19 29 10 14.345 2 10 -14.345 2 10
+4 16 12 0 10 -12 0 10 -14.345 2 10 14.345 2 10
+
+0 Decoration
+4 16 -14 32 -10 -19 32 -10 -19 29 -10 -14 29 -10
+4 16 19 32 -10 14 32 -10 14 29 -10 19 29 -10
+4 16 11 29 -10 -11 29 -10 -11 21 -10 11 21 -10
+4 16 11 4 -10 -11 4 -10 -11 2 -10 11 2 -10
+4 16 11 21 -10 0 21 -10 4 17 -10 11 17 -10
+4 16 11 17 -10 4 17 -10 6 14 -10 11 14 -10
+4 16 11 14 -10 6 14 -10 8 4 -10 11 4 -10
+4 16 0 21 -10 -11 21 -10 -11 17 -10 -4 17 -10
+4 16 -4 17 -10 -11 17 -10 -11 14 -10 -6 14 -10
+4 16 -6 14 -10 -11 14 -10 -11 4 -10 -8 4 -10
+4 16 -14 29 -10 -19 29 -10 -14.345 2 -10 -14 2 -10
+4 16 19 29 -10 14 29 -10 14 2 -10 14.345 2 -10
+4 16 -12 0 -10 12 0 -10 14.345 2 -10 -14.345 2 -10
+4 13 0 21 -10 0 10 -10 6 14 -10 4 17 -10
+4 13 0 21 -10 -4 17 -10 -6 14 -10 0 10 -10
+4 1 6 14 -10 0 10 -10 0 4 -10 8 4 -10
+4 6 0 10 -10 -6 14 -10 -8 4 -10 0 4 -10
+1 334 0 0 0 1 0 0 0 1 0 0 0 1 s\973p4sa.dat
+0

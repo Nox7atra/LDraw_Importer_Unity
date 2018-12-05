@@ -1,0 +1,15 @@
+0 Hi-Res Ring 39 x 0.0833
+0 Name: 48\1-12ring39.dat
+0 Author: Max Martin Richter [MMR1988]
+0 !LDRAW_ORG 48_Primitive UPDATE 2014-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
+
+4 16 40 0 0 39.656 0 5.22 38.6646 0 5.0895 39 0 0
+4 16 39.656 0 5.22 38.636 0 10.352 37.6701 0 10.0932 38.6646 0 5.0895
+4 16 38.636 0 10.352 36.956 0 15.308 36.0321 0 14.9253 37.6701 0 10.0932
+4 16 36.956 0 15.308 34.64 0 20 33.774 0 19.5 36.0321 0 14.9253
+0 // Build by Primitive Generator 2

@@ -1,0 +1,14 @@
+0 Panel 10 x 10 x  2.333 Quarter Saucer with Left UFO Pattern
+0 Name: 30117p6u.dat
+0 Author: Nils Schmidt [BlackBrick89]
+0 !LDRAW_ORG Part UPDATE 2011-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30117s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30117p6ua.dat
+1 16 10 0 -70 1 0 0 0 1 0 0 0 1 stud.dat
+1 16 70 0 -10 1 0 0 0 1 0 0 0 1 stud.dat

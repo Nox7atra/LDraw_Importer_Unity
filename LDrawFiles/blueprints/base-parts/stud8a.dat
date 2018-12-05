@@ -1,0 +1,16 @@
+0 Stud Duplo Tube without Base Edge
+0 Name: stud8a.dat
+0 Author: Michael Heidemann [mikeheide]
+0 !LDRAW_ORG Primitive UPDATE 2013-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+
+1 16 0 -4 0 14 0 0 0 1 0 0 0 14 4-4edge.dat
+1 16 0 -4 0 16 0 0 0 1 0 0 0 16 4-4edge.dat
+0 BFC INVERTNEXT
+1 16 0 -4 0 14 0 0 0 4 0 0 0 14 4-4cyli.dat
+1 16 0 -4 0 16 0 0 0 4 0 0 0 16 4-4cyli.dat
+1 16 0 -4 0 2 0 0 0 1 0 0 0 2 4-4ring7.dat

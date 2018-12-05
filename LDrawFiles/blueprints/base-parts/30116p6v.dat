@@ -1,0 +1,22 @@
+0 Panel 14 x 14 x  2.667 Quarter Saucer with Right UFO Pattern
+0 Name: 30116p6v.dat
+0 Author: Nils Schmidt [BlackBrick89]
+0 !LDRAW_ORG Part UPDATE 2011-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+0 !KEYWORDS dome, quarter dome
+
+0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30116s01.dat
+1 16 0 0 0 0 0 -1 0 1 0 -1 0 0 s\30116p6ua.dat
+1 16 160 48 -160 1 0 0 0 1 0 0 0 1 stug-2x2.dat
+1 16 90 8 -10 1 0 0 0 1 0 0 0 1 stud.dat
+1 16 90 8 -30 1 0 0 0 1 0 0 0 1 stud.dat
+1 16 70 8 -50 1 0 0 0 1 0 0 0 1 stud.dat
+1 16 110 0 -10 1 0 0 0 1 0 0 0 1 stud.dat
+1 16 10 8 -90 1 0 0 0 1 0 0 0 1 stud.dat
+1 16 30 8 -90 1 0 0 0 1 0 0 0 1 stud.dat
+1 16 50 8 -70 1 0 0 0 1 0 0 0 1 stud.dat
+1 16 10 0 -110 1 0 0 0 1 0 0 0 1 stud.dat

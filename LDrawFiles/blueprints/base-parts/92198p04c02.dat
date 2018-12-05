@@ -1,0 +1,15 @@
+0 _Figure Friends Andrea with Light Aqua Layered Skirt, Lime Halter Neck Top
+0 Name: 92198p04c02.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Shortcut Physical_Colour UPDATE 2014-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+0 !KEYWORDS set 3938
+
+0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
+
+1 323 0 0 0 1 0 0 0 1 0 0 0 1 92250p05c01.dat
+1 84 0 -64 0 1 0 0 0 1 0 0 0 1 92241p03c01.dat
+1 84 0 -110 3.9 1 0 0 0 1 0 0 0 1 92198p04.dat
+1 308 0 -110 0.9 1 0 0 0 1 0 0 0 1 93352.dat

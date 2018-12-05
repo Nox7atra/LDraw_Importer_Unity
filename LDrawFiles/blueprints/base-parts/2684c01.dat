@@ -1,0 +1,32 @@
+0 Monorail Motor (Complete)
+0 Name: 2684c01.dat
+0 Author: Bernd Broich [bbroich]
+0 !LDRAW_ORG Shortcut UPDATE 2002-05
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
+0 !HISTORY 2007-05-18 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // Switch
+0 // from -6 to +6 LDU at z-axis
+1 16 0 111.5 0 1 0 0 0 1 0 0 0 1 2682.dat
+
+0 Top
+1 15 0 0 0 1 0 0 0 1 0 0 0 1 2683.dat
+
+0 Gear
+1 334 0 135 -14 1 0 0 0 1 0 0 0 1 s\2684s01.dat
+
+0 Bottom
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 2684.dat
+
+0 Connector
+0 rotates from -8 to +8 degrees around z-axis
+1 16 -18 128.75 0 -1 0 0 0 1 0 0 0 1 2685.dat
+1 16 18 128.75 0 1 0 0 0 1 0 0 0 1 2685.dat
+
+0 Wheels
+1 16 -39 124 0 1 0 0 0 1 0 0 0 1 2688.dat
+1 16 39 124 0 1 0 0 0 1 0 0 0 1 2688.dat
+0

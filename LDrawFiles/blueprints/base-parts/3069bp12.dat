@@ -1,0 +1,20 @@
+0 Tile  1 x  2 with Arrow Long Black Pattern
+0 Name: 3069bp12.dat
+0 Author: James Jessiman
+0 !LDRAW_ORG Part UPDATE 2009-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2007-06-13 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2009-07-16 [PTadmin] Renamed from 3069p12
+0 !HISTORY 2009-07-16 [arezey] BFC'd
+0 !HISTORY 2009-08-19 [anathema] Rewrote using subparts
+0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3069bs01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3069p06a.dat
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 s\3069p06b.dat
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 s\3069p06c.dat
+0

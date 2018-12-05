@@ -1,0 +1,30 @@
+0 Minifig Torso with Palm Tree Pattern
+0 Name: 973p2h.dat
+0 Author: Damien Roux [Darats]
+0 !LDRAW_ORG Part UPDATE 2015-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Town, Paradisa
+
+0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+0 !HISTORY 2015-11-01 [Darats] Use Subfile for Pattern
+0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
+0 // Plain back
+4 16 19 29 10 19 32 10 -19 32 10 -19 29 10
+4 16 14.345 2 10 19 29 10 -19 29 10 -14.345 2 10
+4 16 -14.345 2 10 -12 0 10 12 0 10 14.345 2 10
+0 // Neck mark
+1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
+0 // Pattern
+1 16 5 6 -10 0.4 0 0 0 0.4 0 0 0 1 s\4864ap04s01.dat
+4 16 12 0 -10 -12 0 -10 -3 6 -10 13 6 -10
+3 16 12 0 -10 13 6 -10 14.345 2 -10
+4 16 14.345 2 -10 13 6 -10 13 25.2 -10 19 29 -10
+4 16 19 32 -10 19 29 -10 13 25.2 -10 -3 25.2 -10
+4 16 -19 32 -10 19 32 -10 -3 25.2 -10 -19 29 -10
+4 16 -19 29 -10 -3 25.2 -10 -3 6 -10 -14.345 2 -10
+3 16 -12 0 -10 -14.345 2 -10 -3 6 -10

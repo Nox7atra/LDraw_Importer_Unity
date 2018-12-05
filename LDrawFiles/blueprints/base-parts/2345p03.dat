@@ -1,0 +1,16 @@
+0 Panel Wall  3 x  3 x  6 Corner with Light Grey Stones Pattern
+0 Name: 2345p03.dat
+0 Author: Chris Dee [cwdee]
+0 !LDRAW_ORG Part UPDATE 2009-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CW
+
+0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2345s01.dat
+0 Surround
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2345p02a.dat
+0 Stones
+1 7 0 0 0 1 0 0 0 1 0 0 0 1 s\2345p02b.dat
+0

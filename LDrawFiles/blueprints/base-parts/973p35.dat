@@ -1,0 +1,31 @@
+0 ~Minifig Torso with Imperial Guard Pattern (Obsolete)
+0 Name: 973p35.dat
+0 Author: Chris Dee [cwdee]
+0 !LDRAW_ORG Part UPDATE 2013-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CW
+
+0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
+0 !HISTORY 2000-11-05 [cwdee] Moved neck mark from s\973s01.dat
+0 !HISTORY 2001-10-26 [PTadmin] Official Update 2001-01
+0 !HISTORY 2002-07-23 [cwdee] Separated pattern to make true colour parts; Replaced by 973p3n, 973p3q
+0 !HISTORY 2003-03-12 [PTadmin] Official Update 2003-01
+0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
+0 !HISTORY 2007-07-28 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2012-04-08 [BlackBrick89] Colour cleanup
+0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
+0 !HISTORY 2013-03-13 [cwdee] Standardsise (Obsolete) syntax
+0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+
+1 15 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
+1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
+4 15 -19 29 10 -19 32 10 19 32 10 19 29 10
+4 15 -14.345 2 10 -19 29 10 19 29 10 14.345 2 10
+4 15 14.345 2 10 12 0 10 -12 0 10 -14.345 2 10
+
+1 366 0 0 0 1 0 0 0 1 0 0 0 1 s\973p35a.dat
+1 80 0 0 0 1 0 0 0 1 0 0 0 1 s\973p35b.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973p35c.dat
+1 15 0 0 0 1 0 0 0 1 0 0 0 1 s\973p35d.dat

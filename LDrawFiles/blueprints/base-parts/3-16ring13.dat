@@ -1,0 +1,16 @@
+0 Ring 13 x 0.1875
+0 Name: 3-16ring13.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Primitive UPDATE 2014-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+0 !HISTORY 2014-08-13 [PTadmin] Renamed from 3-16ri13
+0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
+
+4 16 14 0 0 12.9346 0 5.3578 12.0107 0 4.9751 13 0 0
+4 16 12.9346 0 5.3578 9.8994 0 9.8994 9.1923 0 9.1923 12.0107 0 4.9751
+4 16 9.8994 0 9.8994 5.3578 0 12.9346 4.9751 0 12.0107 9.1923 0 9.1923
+0 // Build by Primitive Generator 2

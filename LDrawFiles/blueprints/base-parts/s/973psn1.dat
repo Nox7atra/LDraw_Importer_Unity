@@ -1,0 +1,23 @@
+0 ~Minifig Torso with SW Imperial Shuttle Pilot - Silver Detail
+0 Name: s\973psn1.dat
+0 Author: Franklin W. Cain [fwcain]
+0 !LDRAW_ORG Subpart UPDATE 2002-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04
+0 !HISTORY 2007-09-14 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+ 4 16 11 4 -10 13 4 -10 13 6 -10 11 6 -10
+ 4 16 12 6 -10 13 6 -10 13 8 -10 12 8 -10
+0
+ 1 16 0 29 -10 0.25 0 0 0 0 0.25 0 1 0 ring3.dat
+ 1 16 0 29 -10 1.25 0 0 0 0 1.25 0 1 0 4-4ndis.dat
+0
+ 4 16 -5 26 -10 5 26 -10 5 27.750 -10 -5 27.750 -10
+ 4 16 -5 32 -10 5 32 -10 5 30.250 -10 -5  30.250 -10
+ 4 16 -5 27.750 -10 -5 30.250 -10 -1.250 30.250 -10 -1.250 27.750 -10
+ 4 16 5 27.750 -10 5 30.250 -10 1.250 30.250 -10 1.250 27.750 -10
+0
+ 1 16 8 29 -10 0.75 0 0 0 0 0.75 0 1 0 4-4disc.dat
+0

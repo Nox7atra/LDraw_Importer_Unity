@@ -1,0 +1,15 @@
+0 _Technic Turntable  5 x  5 (Complete) Blue
+0 Name: 4128503.dat
+0 Author: Chris Dee [cwdee]
+0 !LDRAW_ORG Shortcut Physical_Colour UPDATE 2010-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CW
+
+0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
+
+0 // This file is a "shortcut" with the correct number for the actual
+0 // colouring of the part (Blue).
+
+1 1 0 0 0 1 0 0 0 1 0 0 0 1 76421.dat
+0

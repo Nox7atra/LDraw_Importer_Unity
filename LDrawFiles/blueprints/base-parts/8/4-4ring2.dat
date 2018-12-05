@@ -1,0 +1,19 @@
+0 Ring  2 x 1.0
+0 Name: 8\4-4ring2.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG 8_Primitive UPDATE 2016-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+
+4 16 3 0 0 2.1213 0 2.1213 1.4142 0 1.4142 2 0 0
+4 16 2.1213 0 2.1213 0 0 3 0 0 2 1.4142 0 1.4142
+4 16 0 0 3 -2.1213 0 2.1213 -1.4142 0 1.4142 0 0 2
+4 16 -2.1213 0 2.1213 -3 0 0 -2 0 0 -1.4142 0 1.4142
+4 16 -3 0 0 -2.1213 0 -2.1213 -1.4142 0 -1.4142 -2 0 0
+4 16 -2.1213 0 -2.1213 0 0 -3 0 0 -2 -1.4142 0 -1.4142
+4 16 0 0 -3 2.1213 0 -2.1213 1.4142 0 -1.4142 0 0 -2
+4 16 2.1213 0 -2.1213 3 0 0 2 0 0 1.4142 0 -1.4142
+0 // Build by Primitive Generator 2

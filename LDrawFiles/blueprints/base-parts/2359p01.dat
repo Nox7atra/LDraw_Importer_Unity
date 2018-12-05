@@ -1,0 +1,52 @@
+0 Baseplate 32 x 32 Road 7-Stud Curve with Road Pattern
+0 Name: 2359p01.dat
+0 Author: Steve Bliss [sbliss]
+0 !LDRAW_ORG Part UPDATE 2010-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS roadplate, curved
+
+0 !HISTORY 1999-03-23 [sbliss] 2359.dat + 607P01.dat pattern + Mods = 2359P01.dat
+0 !HISTORY 1999-05-24 [PTadmin] Official Update 1999-04
+0 !HISTORY 2007-07-01 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2009-08-08 [anathema] Used subpart; BFC'd; removed edge-lines from pattern
+0 !HISTORY 2010-04-09 [mikeheide] Moved portions from subpart, deleted one wrong keyword (7-Stud)
+0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2359s01.dat
+1 15 -320 0 -320 2 0 0 0 1 0 0 0 2 48\1-4rin71.dat
+1 15 -320 0 -320 6 0 0 0 1 0 0 0 6 48\1-4rin24.dat
+1 16 -320 0 -320 71 0 0 0 1 0 0 0 71 48\1-4ring1.dat
+4 16 -320 0 -316 -316 0 -316 -260 0 -260 -320 0 -240
+4 16 -240 0 -320 -260 0 -260 -316 0 -316 -316 0 -320
+1 16 -320 0 -320 30 0 0 0 1 0 0 0 30 48\1-4ring5.dat
+1 16 -320 0 -320 4 0 0 0 1 0 0 0 4 48\1-4rin45.dat
+1 2 -320 0 -320 8 0 0 0 1 0 0 0 8 48\1-4rin23.dat
+1 2 -320 0 -320 4 0 0 0 1 0 0 0 4 48\1-4rin48.dat
+1 16 -320 0 -320 98 0 0 0 1 0 0 0 98 48\1-4ring2.dat
+1 16 -320 0 -320 9 0 0 0 1 0 0 0 9 48\1-4rin32.dat
+1 16 -320 0 -320 21 0 0 0 1 0 0 0 21 48\1-4rin14.dat
+1 15 -320 0 -320 5 0 0 0 1 0 0 0 5 48\1-4rin63.dat
+1 15 -320 0 -320 5 0 0 0 1 0 0 0 5 48\1-4rin64.dat
+1 2 -320 0 -320 12 0 0 0 1 0 0 0 12 48\1-4rin37.dat
+1 16 -320 0 -320 12 0 0 0 1 0 0 0 12 48\1-4rin38.dat
+1 16 -320 0 -320 17 0 0 0 1 0 0 0 17 48\1-4rin27.dat
+1 16 -320 0 -320 14 0 0 0 1 0 0 0 14 48\1-4rin34.dat
+1 15 -320 0 -320 6 0 0 0 1 0 0 0 6 48\1-4rin82.dat
+1 15 -320 0 -320 7 0 0 0 1 0 0 0 7 48\1-4rin70.dat
+1 16 -320 0 -320 22 0 0 0 1 0 0 0 22 48\1-4rin18.dat
+1 16 -320 0 -320 66 0 0 0 1 0 0 0 66 48\1-4ring5.dat
+1 16 -320 0 -320 5 0 0 0 1 0 0 0 5 48\1-4rin65.dat
+1 16 -320 0 -320 37 0 0 0 1 0 0 0 37 48\1-4rin11.dat
+1 16 -320 0 -320 498 0 0 0 1 0 0 0 498 48\1-4ndis.dat
+4 16 178 0 -320 316 0 -320 316 0 316 178 0 316
+4 16 -316 0 316 316 0 316 316 0 320 -316 0 320
+4 16 -320 0 178 178 0 178 178 0 320 -320 0 320
+1 16 316 0 316 4 0 0 0 1 0 0 0 4 1-4disc.dat
+1 16 316 0 -316 0 0 4 0 1 0 -4 0 0 1-4disc.dat
+1 16 -316 0 -316 -4 0 0 0 1 0 0 0 -4 1-4disc.dat
+1 16 -316 0 316 0 0 -4 0 1 0 4 0 0 1-4disc.dat
+4 16 316 0 -316 320 0 -316 320 0 316 316 0 316

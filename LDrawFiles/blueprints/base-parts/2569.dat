@@ -1,0 +1,32 @@
+0 Antenna  8H Whip
+0 Name: 2569.dat
+0 Author: James Jessiman
+0 !LDRAW_ORG Part UPDATE 2004-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CW
+
+0 !HISTORY 1998-06-20 [PTadmin] Official Update 1998-06
+0 !HISTORY 1999-05-17 [PTadmin] Official Update 1999-03
+0 !HISTORY 2004-09-15 [PTadmin] Official Update 2004-03
+0 !HISTORY 2007-05-17 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // Note: One or more STUD references in this file have been purposely 
+0 // capitalized to ensure that the stud is fully visible in LEdit.
+
+ 1 16 0 4 0 1 0 0 0 -1 0 0 0 1 STUD4A.DAT
+1 16 0 4 0 6 0 0 0 1 0 0 0 6 4-4edge.dat
+1 16 0 0 0 8 0 0 0 1 0 0 0 8 4-4edge.dat
+1 16 0 0 0 4 0 0 0 1 0 0 0 4 4-4edge.dat
+1 16 0 -24 0 4 0 0 0 1 0 0 0 4 4-4edge.dat
+1 16 0 -24 0 2 0 0 0 1 0 0 0 2 4-4edge.dat
+1 16 0 -176.6 0 2 0 0 0 1 0 0 0 2 4-4edge.dat
+ 1 16 0 -180 0 4 0 0 0 4 0 0 0 4 8-8sphe.dat
+1 16 0 -24 0 2 0 0 0 -152.6 0 0 0 2 4-4cyli.dat
+1 16 0 -24 0 2 0 0 0 1 0 0 0 2 ring1.dat
+1 16 0 -24 0 4 0 0 0 24 0 0 0 4 4-4cyli.dat
+1 16 0 0 0 4 0 0 0 1 0 0 0 4 ring1.dat
+ 1 16 0 0 0 8 0 0 0 4 0 0 0 8 4-4cyli.dat
+1 16 0 4 0 -6 0 0 0 -1 0 0 0 6 4-4disc.dat
+0

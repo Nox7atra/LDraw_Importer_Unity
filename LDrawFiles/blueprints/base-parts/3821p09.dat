@@ -1,0 +1,26 @@
+0 Door  1 x  3 x  1 Right with Fire Logo Pattern
+0 Name: 3821p09.dat
+0 Author: John Riley [jriley]
+0 !LDRAW_ORG Part UPDATE 2012-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+0 !KEYWORDS car, flame, rescue
+
+0 !HISTORY 2004-03-02 [PTadmin] Official Update 2004-01
+0 !HISTORY 2007-06-29 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2009-10-19 [anathema] Updated due to subpart changes
+0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
+
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3822s01.dat
+1 16 -10 12 18 0 1 0 0 0 -0.085 -0.085 0 0 s\4209s01.dat
+4 16 -10 22.455 28.455 -10 24 50 -10 24 0 -10 22.455 7.545
+4 16 -10 0 50 -10 1.545 28.455 -10 1.545 7.545 -10 0 0
+4 16 -10 1.545 7.545 -10 22.455 7.545 -10 24 0 -10 0 0
+4 16 -10 10 34 -10 14 34 -10 22.455 28.455 -10 1.545 28.455
+4 16 -10 0 50 -10 10 46 -10 10 34 -10 1.545 28.455
+4 16 -10 0 50 -10 24 50 -10 14 46 -10 10 46
+4 16 -10 14 46 -10 24 50 -10 22.455 28.455 -10 14 34
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 stud.dat
+0

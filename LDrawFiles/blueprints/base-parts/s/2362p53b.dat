@@ -1,0 +1,12 @@
+0 ~Panel  1 x  2 x  3 with Space Police I - Brown-Red Details
+0 Name: s\2362p53b.dat
+0 Author: Carsten Schmitz [Deckard]
+0 !LDRAW_ORG Subpart UPDATE 2003-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 2003-03-12 [PTadmin] Official Update 2003-01
+0 !HISTORY 2007-08-28 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+4 16 -15.5056 6 10 -8.76404 9.42857 10 -8.76404 62.5714 10 -15.5056 65.5714 10
+4 16 8.76404 9.42857 10 15.5056 6 10 15.5056 65.5714 10 8.76404 62.5714 10

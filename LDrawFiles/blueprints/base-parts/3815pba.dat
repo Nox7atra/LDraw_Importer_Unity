@@ -1,0 +1,16 @@
+0 Minifig Hips with Harlequin Black Square Pattern
+0 Name: 3815pba.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Part UPDATE 2013-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Harley Quinn, set 7886, Batman, 2006
+
+0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+
+1 16 -2 12 0 0 4 0 -6.364 0 6.364 -6.364 0 -6.364 5-16cyli.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3815s01.dat
+4 0 18 6 -10 18 0 -10 0 0 -10 0 6 -10
+4 16 0 6 -10 0 0 -10 -18 0 -10 -18 6 -10

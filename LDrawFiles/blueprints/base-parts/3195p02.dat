@@ -1,0 +1,28 @@
+0 Door  1 x  5 x  4 Left with Blue Fish and "Transport" Pattern
+0 Name: 3195p02.dat
+0 Author: Jan Folkersma [Stinky]
+0 !LDRAW_ORG Part UPDATE 2015-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2007-01-10 [mikeheide] use subfile
+0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
+0 !HISTORY 2014-11-21 [roland] Auto-corrected with libfix version of LDCad 1.4
+0 !HISTORY 2014-12-26 [Philo] Rebuilt and subparted pattern
+0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3195s01.dat
+1 16 0 0 0 10 0 0 0 96 0 0 0 -10 1-4cyli.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 stud.dat
+4 16 10 43 82 10 53 82 10 96 90 10 0 90
+4 16 10 43 78 10 43 82 10 0 90 10 28 67
+4 16 10 56 1 10 28 1 10 0 0 10 96.1 0
+3 16 10 56 1 10 96.1 0 10 73 1
+4 16 10 73 67 10 73 1 10 96.1 0 10 96 90
+4 16 10 73 67 10 96 90 10 53 82 10 53 78
+4 16 10 56 67 10 73 67 10 53 78 10 43 78
+3 16 10 28 67 10 56 67 10 43 78
+4 16 10 28 67 10 0 90 10 0 0 10 28 1
+1 16 10 0 0 1 0 0 0 1 0 0 0 1 s\3195p02s01.dat
+1 16 10 0 0 1 0 0 0 1 0 0 0 1 s\3195p02s02.dat

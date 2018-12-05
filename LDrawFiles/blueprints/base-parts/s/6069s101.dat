@@ -1,0 +1,17 @@
+0 ~Wedge  4 x  4 Triple w/ SW X-wing Nose Pattern
+0 Name: s\6069s101.dat
+0 Author: John Van Zwieten [jvan]
+0 !LDRAW_ORG Subpart UPDATE 1999-06
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 1999-12-31 [PTadmin] Official Update 1999-06
+0 !HISTORY 2007-09-10 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+ 4 16 -11.5 15.667 -57 -19.5 15.667 -57 -19.5 12.0 -46 -11.5 12.0 -46
+ 4 16 11.5 15.667 -57 19.5 15.667 -57 19.5 12.0 -46 11.5 12.0 -46
+ 4 16 -9.5 15.667 -57 -9.5 12.667 -48 9.5 12.667 -48 9.5 15.667 -57
+ 4 16 -9.5 11.333 -44 -9.5 12.0 -46 9.5 12.0 -46 9.5 11.333 -44
+ 4 16 -9.5 8.667 -36 -9.5 8.333 -35 9.5 8.333 -35 9.5 8.667 -36
+ 4 16 -9.5 3.333 -20 -9.5 4.0 -22 9.5 4.0 -22 9.5 3.333 -20
+0

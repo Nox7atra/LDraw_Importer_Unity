@@ -1,0 +1,44 @@
+0 Plate  2 x  2 with Wheels Holder Plane
+0 Name: 4870.dat
+0 Author: James Jessiman
+0 !LDRAW_ORG Part UPDATE 2010-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2007-07-09 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2008-07-07 [WilliamH] BFCed; Used new wpin primitive (2006-06-26)
+0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
+0 !HISTORY 2010-01-31 [PTadmin] Moved from incorrect 4860 
+0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
+
+1 16 2 29 16 0 1 0 6 0 0 0 0 6 4-4edge.dat
+1 16 -2 29 16 0 1 0 6 0 0 0 0 6 4-4edge.dat
+1 16 2 29 16 0 -1 0 6 0 0 0 0 6 4-4disc.dat
+1 16 -2 29 16 0 1 0 6 0 0 0 0 6 4-4disc.dat
+1 16 2 29 16 0 -4 0 6 0 0 0 0 6 4-4cyli.dat
+1 16 2 29 16 0 -1 0 0 0 1 1 0 0 wpin.dat
+1 16 -2 29 16 0 1 0 0 0 1 1 0 0 wpin.dat
+2 24 1.5 24.5953 20 1.5 23.4566 18.2962
+2 24 1.5 23.46 18.28 1.5 23 16
+1 16 1.5 29 16 0 1 0 -6 0 0 0 0 -6 1-4edge.dat
+2 24 1.5 29 10 1.5 4 0
+2 24 -1.5 24.5953 20 -1.5 23.4566 18.2962
+2 24 -1.5 23.46 18.28 -1.5 23 16
+1 16 -1.5 29 16 0 1 0 -6 0 0 0 0 -6 1-4edge.dat
+2 24 -1.5 29 10 -1.5 4 0
+1 16 0 14.2877 20 1.5 0 0 0 0 10.2877 0 -1 0 rect3.dat
+4 16 -1.5 4 20 -1.5 25.6 20 -1.5 29 10 -1.5 4 0
+4 16 -1.5 4 0 -1.5 29 10 1.5 29 10 1.5 4 0
+2 24 -1.5 29 10 1.5 29 10
+4 16 1.5 4 0 1.5 29 10 1.5 25.6 20 1.5 4 20
+2 24 20 4 20 1.5 4 20
+2 24 1.5 4 20 1.5 4 0
+2 24 1.5 4 0 -1.5 4 0
+2 24 -1.5 4 0 -1.5 4 20
+2 24 -1.5 4 20 -20 4 20
+1 16 0 4 0 20 0 0 0 -1 0 0 0 -20 rect3.dat
+1 16 0 4 0 20 0 0 0 -4 0 0 0 -20 box5-4a.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 stug2a.dat
+0

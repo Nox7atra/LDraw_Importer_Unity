@@ -1,0 +1,19 @@
+0 Stud Underside Cross without Edge Around Base (Fast-Draw)
+0 Name: 8\stud12a.dat
+0 Author: Steffen [Steffen]
+0 !LDRAW_ORG 8_Primitive UPDATE 2016-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+
+1 16 3.232 0 -3.232 0.707107 0 2.525 0 -4 0 0.707107 0 -2.525 box4-7a.dat
+1 16 3.232 0 3.232 -0.707107 0 2.525 0 -4 0 0.707107 0 2.525 box4-7a.dat
+1 16 -3.232 0 3.232 -0.707107 0 -2.525 0 -4 0 -0.707107 0 2.525 box4-7a.dat
+1 16 -3.232 0 -3.232 0.707107 0 -2.525 0 -4 0 -0.707107 0 -2.525 box4-7a.dat
+4 16 -1.41421 -4 0 0 -4 -1.41421 1.41421 -4 0 0 -4 1.41421
+2 24 0 0 -1.41421 0 -4 -1.41421
+2 24 1.41421 0 0 1.41421 -4 0
+2 24 0 0 1.41421 0 -4 1.41421
+2 24 -1.41421 0 0 -1.41421 -4 0

@@ -1,0 +1,35 @@
+0 Panel 10 x  6 x 11 with Blacktron I Logo Pattern
+0 Name: 2408p02.dat
+0 Author: Tore Eriksson [Tore_Eriksson]
+0 !LDRAW_ORG Part UPDATE 2010-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CW
+0 !CMDLINE -c0
+
+0 !HISTORY 2001-11-30 [PTadmin] Official Update 2001-02
+0 !HISTORY 2003-01-09 [hmick] Reworked with s\2408s01 subfile.
+0 !HISTORY 2003-08-01 [PTadmin] Official Update 2003-02
+0 !HISTORY 2007-05-12 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2008-07-07 [nielsk] BFC'd (2006-01-04)
+0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2408s01.dat
+
+4 16 -60 264 -170 -60 144 -170 60 144 -170 60 264 -170
+4 16 -60 48 -110 -60 0 -30 60 0 -30 60 48 -110
+
+4 16 60 48 -110 36 60 -117.5 -36 60 -117.5 -60 48 -110
+3 16 60 144 -170 36 60 -117.5 60 48 -110
+3 16 -60 48 -110 -36 60 -117.5 -60 144 -170
+3 16 60 144 -170 18 96 -140 36 60 -117.5
+3 16 -36 60 -117.5 -18 96 -140 -60 144 -170
+3 16 60 144 -170 0 132 -162.5 18 96 -140
+3 16 -18 96 -140 0 132 -162.5 -60 144 -170
+3 16 -60 144 -170 0 132 -162.5 60 144 -170
+3 16 0 60 -117.5 18 96 -140 -18 96 -140
+3 14 0 60 -117.5 36 60 -117.5 18 96 -140
+3 14 -18 96 -140 -36 60 -117.5 0 60 -117.5
+3 14 0 132 -162.5 -18 96 -140 18 96 -140
+0

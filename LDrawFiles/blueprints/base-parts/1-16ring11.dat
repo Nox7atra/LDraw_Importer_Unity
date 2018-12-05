@@ -1,0 +1,12 @@
+0 Ring 11 x 0.0625
+0 Name: 1-16ring11.dat
+0 Author: Kevin Roach [KROACH]
+0 !LDRAW_ORG Primitive UPDATE 2014-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
+
+4 16 12 0 0 11.0868 0 4.5924 10.1629 0 4.2097 11 0 0
+0 // Build by Primitive Generator 2

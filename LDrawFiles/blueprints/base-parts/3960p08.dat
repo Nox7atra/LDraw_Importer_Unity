@@ -1,0 +1,22 @@
+0 Dish  4 x  4 Inverted with Green Cross Pattern
+0 Name: 3960p08.dat
+0 Author: Steffen [Steffen]
+0 !LDRAW_ORG Part UPDATE 2014-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS cockpit, window, glass
+0 !CMDLINE -c40
+
+0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3960s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3960p08s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\3960p08s01.dat
+1 16 0 0 0 0 0 1 0 1 0 -1 0 0 s\3960p08s01.dat
+1 16 0 0 0 0 0 -1 0 1 0 -1 0 0 s\3960p08s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\3960p08s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3960p08s01.dat
+1 16 0 0 0 0 0 -1 0 1 0 1 0 0 s\3960p08s01.dat
+1 16 0 0 0 0 0 1 0 1 0 1 0 0 s\3960p08s01.dat

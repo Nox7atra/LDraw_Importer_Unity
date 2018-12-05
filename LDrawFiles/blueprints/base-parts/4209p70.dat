@@ -1,0 +1,22 @@
+0 Hose Reel  2 x  4 x  2 Holder with Fire Shield Pattern
+0 Name: 4209p70.dat
+0 Author: Michael Heidemann [mikeheide]
+0 !LDRAW_ORG Part UPDATE 2015-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2011-06-19 [Steffen] removed unnecessary color 16 border from pattern
+0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4209s02.dat
+1 16 40 25.36 0 0 0 -1 0 1.24 0 1.333 0 0 s\4209p70a.dat
+4 16 40 11.1 -14.996 40 11.1 14.996 40 0 20 40 0 -20
+4 16 40 11.1 14.996 40 36.21 14.996 40 48 20 40 0 20
+4 16 40 0 -20 40 48 -20 40 36.21 -14.996 40 11.1 -14.996
+4 16 40 48 -20 40 48 20 40 36.21 14.996 40 36.21 -14.996
+1 16 -40 25.36 0 0 0 1 0 1.24 0 -1.333 0 0 s\4209p70a.dat
+4 16 -40 11.1 14.996 -40 11.1 -14.996 -40 0 -20 -40 0 20
+4 16 -40 11.1 -14.996 -40 36.21 -14.996 -40 48 -20 -40 0 -20
+4 16 -40 0 20 -40 48 20 -40 36.21 14.996 -40 11.1 14.996
+4 16 -40 48 20 -40 48 -20 -40 36.21 -14.996 -40 36.21 14.996

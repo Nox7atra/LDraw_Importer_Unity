@@ -1,0 +1,20 @@
+0 _Figure Fabuland Goat  2 with Body White/White/White
+0 Name: u590p02c02.dat
+0 Author: Steffen [Steffen]
+0 !LDRAW_ORG Shortcut Physical_Colour UPDATE 2011-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Set 3637
+0 !KEYWORDS Gertrude Goat, Zensie Ziege
+
+0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+
+1 15 0 -67 4 1 0 0 0 1 0 0 0 1 u590p02c01.dat
+1 15 0 -37 4 1 0 0 0 1 0 0 0 1 u9102.dat
+1 15 23 -63 4 1 0 0 0 1 0 0 0 1 u9101.dat
+1 15 -23 -63 4 -1 0 0 0 1 0 0 0 -1 u9101.dat
+1 15 -10 -37 4 1 0 0 0 1 0 0 0 1 u9100.dat
+1 15 10 -37 4 1 0 0 0 1 0 0 0 1 u9100.dat
+1 4 0 -37 4 1 0 0 0 1 0 0 0 1 u9103.dat

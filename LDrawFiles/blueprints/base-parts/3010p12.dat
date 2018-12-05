@@ -1,0 +1,17 @@
+0 Brick  1 x  4 with Envelope on Red Background, Left Pattern
+0 Name: 3010p12.dat
+0 Author: Michael Heidemann [mikeheide]
+0 !LDRAW_ORG Part UPDATE 2010-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3010s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3010p12a.dat
+4 16 -40 0 -10 -40 24 -10 -38 23 -10 -38 1 -10
+4 16 16.5 1 -10 16.5 23 -10 40 24 -10 40 0 -10
+4 16 -38 23 -10 -40 24 -10 40 24 -10 16.5 23 -10
+4 16 -40 0 -10 -38 1 -10 16.5 1 -10 40 0 -10
+

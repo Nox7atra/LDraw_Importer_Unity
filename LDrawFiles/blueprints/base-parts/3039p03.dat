@@ -1,0 +1,15 @@
+0 Slope Brick 45  2 x  2 with Palm Tree Pattern
+0 Name: 3039p03.dat
+0 Author: Damien Roux [Darats]
+0 !LDRAW_ORG Part UPDATE 2015-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3039s01.dat
+1 16 0 3.03 -13.03 0.5 0 0 0 0.353553 0.707107 0 -0.353553 0.707107 s\4864ap04s01.dat
+4 16 -20 20 -30 -10 20 -30 -10 3.02944 -13.0294 -20 0 -10
+4 16 10 3.02944 -13.0294 10 20 -30 20 20 -30 20 0 -10
+4 16 -10 3.02944 -13.0294 10 3.02944 -13.0294 20 0 -10 -20 0 -10

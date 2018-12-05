@@ -1,0 +1,17 @@
+0 _Flag  6 x  4 with Jolly Roger Pattern
+0 Name: 81427.dat
+0 Author: [PTadmin]
+0 !LDRAW_ORG Part Physical_Colour UPDATE 2009-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CW
+
+0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
+0 !HISTORY 2007-10-12 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2008-07-07 [cwdee] Update for underlying part renumber (2007-08-02)
+0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
+
+1 15 0 0 0 1 0 0 0 1 0 0 0 1 2525p31.dat
+0
+

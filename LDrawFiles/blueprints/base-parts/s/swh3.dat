@@ -1,0 +1,8 @@
+0 ~Obsolete file
+0 Name: s\swh3.dat
+0 Author: [PTadmin]
+0 !LDRAW_ORG Primitive UPDATE 2008-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HELP This subpart is no longer used by any part, so this is a placeholder 
+0 !HELP file to avoid application problems with headerless files

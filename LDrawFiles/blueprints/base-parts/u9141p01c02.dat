@@ -1,0 +1,20 @@
+0 _Figure Fabuland Cow with Body Blue/White/White
+0 Name: u9141p01c02.dat
+0 Author: Steffen [Steffen]
+0 !LDRAW_ORG Shortcut Physical_Colour UPDATE 2011-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Set 801, Set 3665, Set 3707
+0 !KEYWORDS Clara Cow, Clover Cow, Coba Koe, Rosa Kuh
+
+0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
+
+1 484 0 -67 4 1 0 0 0 1 0 0 0 1 u9141p01c01.dat
+1 1 0 -37 4 1 0 0 0 1 0 0 0 1 u9102.dat
+1 15 23 -63 4 1 0 0 0 1 0 0 0 1 u9101.dat
+1 15 -23 -63 4 -1 0 0 0 1 0 0 0 -1 u9101.dat
+1 15 -10 -37 4 1 0 0 0 1 0 0 0 1 u9100.dat
+1 15 10 -37 4 1 0 0 0 1 0 0 0 1 u9100.dat
+1 4 0 -37 4 1 0 0 0 1 0 0 0 1 u9103.dat

@@ -1,0 +1,16 @@
+0 _Brick  4 x  4 Round with Holes Yellow
+0 Name: 4256738.dat
+0 Author: [PTadmin]
+0 !LDRAW_ORG Part Physical_Colour UPDATE 2010-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CW
+
+0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
+
+0 // This file is a "shortcut" with the correct number for the actual
+0 // colouring of the part (Yellow). Used in 2004.
+
+
+1 14 0 0 0 1 0 0 0 1 0 0 0 1 6222.dat
+0

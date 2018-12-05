@@ -1,0 +1,23 @@
+0 _Figure Fabuland Elephant  2 w Body Red/Red/Grey with Braces
+0 Name: u588p02c03.dat
+0 Author: Steffen [Steffen]
+0 !LDRAW_ORG Shortcut Physical_Colour UPDATE 2011-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Set 1516, Set 3668, Set 3674, Set 3676
+0 !KEYWORDS Edward Elephant, Edward Elefant, Pirouette l'éléphant, Léon l'éléphant
+0 !KEYWORDS Eduardo el Elefante, Ollie Olifant, エドワードエレファント
+0 !KEYWORDS Suspenders
+
+0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
+
+1 7 0 -67 4 1 0 0 0 1 0 0 0 1 u588p02c01.dat
+1 4 0 -37 4 1 0 0 0 1 0 0 0 1 u9102p15.dat
+1 4 23 -63 4 1 0 0 0 1 0 0 0 1 u9101.dat
+1 4 -23 -63 4 -1 0 0 0 1 0 0 0 -1 u9101.dat
+1 7 -10 -37 4 1 0 0 0 1 0 0 0 1 u9100.dat
+1 7 10 -37 4 1 0 0 0 1 0 0 0 1 u9100.dat
+1 4 0 -37 4 1 0 0 0 1 0 0 0 1 u9103.dat
+

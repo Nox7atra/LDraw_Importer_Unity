@@ -1,0 +1,27 @@
+0 ~Electric Switch: Key Left with Left Rotating Arrow Pattern
+0 Name: u9001p05.dat
+0 Author: Steffen [Steffen]
+0 !LDRAW_ORG Part UPDATE 2011-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HELP to put this part into a pressed-down state, rotate it 4.3 degrees
+0 !HELP around the x-axis
+
+0 BFC CERTIFY CCW
+0 !KEYWORDS Set 1039, DACTA, Technic, Control
+
+0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\u9001s01.dat
+1 0 0 -31 -40 10.6066 0 10.6066 0 2 0 -10.6066 0 10.6066 3-4ring1.dat
+1 16 0 -31 -40 10.6066 0 10.6066 0 2 0 -10.6066 0 10.6066 3-4disc.dat
+1 0 0 -31 -40 2.8284 0 2.8284 0 2 0 -2.8284 0 2.8284 3-4ring7.dat
+1 16 0 -31 -40 32 0 0 0 32 0 0 0 32 2-4ndis.dat
+1 16 0 -31 -40 -32 0 0 0 32 0 0 0 -32 1-8ndis.dat
+1 16 0 -31 -40 32 0 0 0 32 0 0 0 -32 1-8ndis.dat
+3 0 -32 -31 -72 0 -31 -72 0 -31 -40
+3 16 0 -31 -40 0 -31 -72 32 -31 -72
+4 16 -32 -31 -8 32 -31 -8 40 -31 0 -40 -31 0
+4 16 40 -31 0 32 -31 -8 32 -31 -72 40 -31 -160
+4 16 -40 -31 -160 40 -31 -160 32 -31 -72 -32 -31 -72
+4 16 -32 -31 -8 -40 -31 0 -40 -31 -160 -32 -31 -72

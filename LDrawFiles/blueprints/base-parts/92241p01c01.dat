@@ -1,0 +1,15 @@
+0 Figure Friends Girl Torso with Arms with White Halter Top, Pink Stars Pattern
+0 Name: 92241p01c01.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Shortcut UPDATE 2016-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
+0 !HISTORY 2016-11-02 [cwdee] Update description
+0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+
+1 16 0 -12.8 3.9 1 0 0 0 1 0 0 0 1 92241p01.dat
+1 16 11 -12.8 3.9 1 0 0 0 1 0 0 0 1 92244.dat
+1 16 -11 -12.8 3.9 1 0 0 0 1 0 0 0 1 92245.dat

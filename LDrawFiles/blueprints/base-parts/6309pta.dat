@@ -1,0 +1,38 @@
+0 Duplo Tile  2 x  2 with "A" Pattern
+0 Name: 6309pta.dat
+0 Author: Tony Hafner [hafhead]
+0 !LDRAW_ORG Part UPDATE 2004-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CW
+
+0 !HISTORY 2004-09-15 [PTadmin] Official Update 2004-03
+0 !HISTORY 2007-07-16 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6309s01.dat
+
+0 Old solid face
+0 4 16 -40 0 -40 -40 0 40 40 0 40 40 0 -40
+
+0 Letter
+3 0 -22 0 -24 -9 0 -14 -12 0 -24
+3 0 22 0 -24 12 0 -24 9 0 -14
+4 0 -22 0 -24 -6 0 24 -6 0 -6 -9 0 -14
+4 0 22 0 -24 9 0 -14 6 0 -6 6 0 24
+3 0 -6 0 24 0 0 14 -6 0 -6
+3 0 6 0 24 6 0 -6 0 0 14
+3 0 -6 0 24 6 0 24 0 0 14
+4 0 -6 0 -6 6 0 -6 9 0 -14 -9 0 -14
+
+0 Surround
+3 16 -40 0 -40 -22 0 -24 -12 0 -24
+3 16 40 0 -40 12 0 -24 22 0 -24
+4 16 -40 0 -40 -40 0 40 -6 0 24 -22 0 -24
+4 16 40 0 -40 22 0 -24 6 0 24 40 0 40
+4 16 -40 0 40 40 0 40 6 0 24 -6 0 24
+3 16 0 0 14 6 0 -6 -6 0 -6
+4 16 -9 0 -14 9 0 -14 12 0 -24 -12 0 -24
+4 16 -40 0 -40 -12 0 -24 12 0 -24 40 0 -40
+
+0

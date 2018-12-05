@@ -1,0 +1,22 @@
+0 _Figure Fabuland Fox  2 w Body Red/Red/Blue Dungarees and Hat
+0 Name: u589p02c03.dat
+0 Author: Steffen [Steffen]
+0 !LDRAW_ORG Shortcut Physical_Colour UPDATE 2011-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Set 3675, Set 3683
+0 !KEYWORDS Freddy Fox, Freddy Fuchs
+
+0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+
+0 // needs work: head color not yet confirmed to be correct
+
+1 462 0 -67 4 1 0 0 0 1 0 0 0 1 u589p02c02.dat
+1 4 0 -37 4 1 0 0 0 1 0 0 0 1 u9102p14.dat
+1 4 23 -63 4 1 0 0 0 1 0 0 0 1 u9101.dat
+1 4 -23 -63 4 -1 0 0 0 1 0 0 0 -1 u9101.dat
+1 1 -10 -37 4 1 0 0 0 1 0 0 0 1 u9100.dat
+1 1 10 -37 4 1 0 0 0 1 0 0 0 1 u9100.dat
+1 4 0 -37 4 1 0 0 0 1 0 0 0 1 u9103.dat

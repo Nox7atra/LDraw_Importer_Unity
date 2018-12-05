@@ -1,0 +1,18 @@
+0 Minifig Leg Left with Leather Straps (Red Studs) Pattern
+0 Name: 3817p4f.dat
+0 Author: Franklin W. Cain [fwcain]
+0 !LDRAW_ORG Part UPDATE 2010-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+0 !KEYWORDS Castle, Knights Kingdom, set 4817, armor, leggings, belt, archer, knight
+0 !CMDLINE -c0
+
+0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04
+0 !HISTORY 2007-07-27 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2009-08-24 [PTadmin] Renamed from 972p4f
+0 !HISTORY 2010-12-29 [Steffen] replaced contents by mirrored version of Leg Right
+0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
+
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 3816p4f.dat

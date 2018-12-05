@@ -1,0 +1,35 @@
+0 Duplo Tile  2 x  2 with Addition Pattern
+0 Name: 6309pul.dat
+0 Author: Tony Hafner [hafhead]
+0 !LDRAW_ORG Part UPDATE 2004-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CW
+
+0 !HISTORY 2004-09-15 [PTadmin] Official Update 2004-03
+0 !HISTORY 2007-07-16 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6309s01.dat
+
+0 Old solid face
+0 4 16 -40 0 -40 -40 0 40 40 0 40 40 0 -40
+
+0 Symbol
+4 0 -3.5 0 3.5 3.5 0 3.5 3.5 0 -3.5 -3.5 0 -3.5
+4 0 -16.5 0 3.5 -3.5 0 3.5 -3.5 0 -3.5 -16.5 0 -3.5
+4 0 16.5 0 -3.5 3.5 0 -3.5 3.5 0 3.5 16.5 0 3.5
+4 0 -3.5 0 16.5 3.5 0 16.5 3.5 0 3.5 -3.5 0 3.5
+4 0 3.5 0 -16.5 -3.5 0 -16.5 -3.5 0 -3.5 3.5 0 -3.5
+
+0 Surround
+4 16 -40 0 40 -3.5 0 16.5 -3.5 0 3.5 -16.5 0 3.5
+4 16 40 0 40 16.5 0 3.5 3.5 0 3.5 3.5 0 16.5
+4 16 40 0 -40 3.5 0 -16.5 3.5 0 -3.5 16.5 0 -3.5
+4 16 -40 0 -40 -16.5 0 -3.5 -3.5 0 -3.5 -3.5 0 -16.5
+4 16 -40 0 40 40 0 40 3.5 0 16.5 -3.5 0 16.5
+4 16 40 0 -40 -40 0 -40 -3.5 0 -16.5 3.5 0 -16.5
+4 16 -40 0 40 -16.5 0 3.5 -16.5 0 -3.5 -40 0 -40
+4 16 40 0 -40 16.5 0 -3.5 16.5 0 3.5 40 0 40
+
+0

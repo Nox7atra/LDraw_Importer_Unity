@@ -1,0 +1,19 @@
+0 Fillet Reinforced 3 LDU Inter-Stud
+0 Name: filletr0s.dat
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Primitive UPDATE 2013-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
+1 16 -11 0 0 1 0 0 0 20 0 0 0 1.5 box3u8p.dat
+1 16 -8.75 10 1.5 -1.25 0 0 0 0 10 0 2.5 0 box4-2p.dat
+4 16 -7.5 20 -1.5 -10 20 -1.5 -10 20 1.5 -7.5 20 1.5
+1 16 -8.75 10 -1.5 1.25 0 0 0 0 10 0 -2.5 0 box4-2p.dat
+1 16 0 0 0 7.5 0 0 0 20 0 0 0 1.5 box3u8p.dat
+1 16 8.75 10 1.5 -1.25 0 0 0 0 10 0 2.5 0 box4-2p.dat
+4 16 7.5 20 1.5 10 20 1.5 10 20 -1.5 7.5 20 -1.5
+1 16 8.75 10 -1.5 1.25 0 0 0 0 10 0 -2.5 0 box4-2p.dat
+1 16 11 0 0 -1 0 0 0 20 0 0 0 -1.5 box3u8p.dat

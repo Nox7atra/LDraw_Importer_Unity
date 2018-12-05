@@ -1,0 +1,38 @@
+0 ~Roadsign Old with Dangerous Intersection Sign (Obsolete)
+0 Name: 747p02.dat
+0 Author: Tore Eriksson [Tore_Eriksson]
+0 !LDRAW_ORG Part UPDATE 2010-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+0 !CMDLINE -c15
+
+0 !HISTORY 2003-08-01 [PTadmin] Official Update 2003-02
+0 !HISTORY 2007-07-22 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2010-04-23 [cwdee] Obsoleted by 747p09 with main colour background; BFCd
+0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\747s01.dat
+
+4 4 -15 -44 -2 15 -44 -2 10 -48 -2 -10 -48 -2
+4 4 15 -44 -2 0 -74 -2 0 -68 -2 10 -48 -2
+4 4 0 -74 -2 -15 -44 -2 -10 -48 -2 0 -68 -2
+4 15 3 -59 -2 0 -68 -2 -3 -59 -2 0 -56 -2
+4 0  0 -56 -2  -3 -59 -2  -5  -57 -2  -2 -54 -2
+4 0 3 -49 -2 5 -51 -2 2 -54 -2 0 -52 -2
+4 15  -3 -49 -2  0 -48 -2  3 -49 -2  0 -52 -2
+4 0  -5 -51 -2  -3 -49 -2  5  -57 -2  3 -59 -2
+3 15 -5 -57 -2 -3 -59 -2 0 -68 -2
+3 15  0 -68 -2  3 -59 -2  5 -57 -2
+3 15 -10 -48 -2 -5 -57 -2 0 -68 -2
+3 15  0 -68 -2  5 -57 -2  10 -48 -2
+3 15  -2 -54 -2  -5 -57 -2  -5 -51 -2
+3 15 5 -51 -2 5 -57 -2 2 -54 -2
+3 15 -5 -51 -2 -5 -57 -2 -10 -48 -2
+3 15  10 -48 -2  5 -57 -2  5 -51 -2
+3 15  -10 -48 -2  -3 -49 -2  -5 -51 -2
+3 15 5 -51 -2 3 -49 -2 10 -48 -2
+3 15  -10 -48 -2  0 -48 -2  -3 -49 -2
+3 15 3 -49 -2 0 -48 -2 10 -48 -2
+0

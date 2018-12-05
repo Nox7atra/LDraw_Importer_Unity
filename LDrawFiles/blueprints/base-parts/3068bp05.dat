@@ -1,0 +1,44 @@
+0 Tile  2 x  2 with Diagonal Arrow on Blue Disc Pattern
+0 Name: 3068bp05.dat
+0 Author: Tore Eriksson [Tore_Eriksson]
+0 !LDRAW_ORG Part UPDATE 2009-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2002-10-14 [grapeape] Secondary author
+0 !HISTORY 2002-10-15 [BrickCaster] groove, L3P compliant
+0 !HISTORY 2003-10-28 [Steffen] BFCed, added 1 ring primitive, changed part name
+0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
+0 !HISTORY 2007-06-13 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2009-10-17 [anathema] Improved pattern; BFC'd
+0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3068bs01.dat
+1 16 0 0 0 18 0 0 0 1 0 0 0 18 4-4ndis.dat
+1 1 0 0 0 0 0 -18 0 1 0 18 0 0 1-4chrd.dat
+1 1 0 0 0 0 0 18 0 1 0 -18 0 0 1-4chrd.dat
+1 1 0 0 0 -12.728 0 12.728 0 1 0 -12.728 0 -12.728 1-8chrd.dat
+1 1 0 0 0 -18 0 0 0 1 0 0 0 -18 1-8chrd.dat
+1 1 0 0 0 12.728 0 -12.728 0 1 0 12.728 0 12.728 1-8chrd.dat
+1 1 0 0 0 18 0 0 0 1 0 0 0 18 1-8chrd.dat
+4 16 18 0 18 20 0 20 -20 0 20 -18 0 18
+4 16 -18 0 18 -20 0 20 -20 0 -20 -18 0 -18
+4 16 -18 0 -18 -20 0 -20 20 0 -20 18 0 -18
+4 16 18 0 -18 20 0 -20 20 0 20 18 0 18
+3 16 9.6 0 1 10.8 0 10.8 7 0 5
+4 1 10.8 0 10.8 9.6 0 1 18 0 0 12.728 0 12.728
+3 1 9.6 0 1 0 0 -18 18 0 0
+3 1 0 0 18 -18 0 0 1 0 9.6
+3 1 -8.2 0 -11 -12.728 0 -12.728 0 0 -18
+3 1 -18 0 0 -12.728 0 -12.728 -11 0 -8.2
+3 1 -11 0 -8.2 -12.728 0 -12.728 -9.6 0 -9.6
+3 1 -9.6 0 -9.6 -12.728 0 -12.728 -8.2 0 -11
+4 1 10.8 0 10.8 12.728 0 12.728 0 0 18 1 0 9.6
+4 16 -8.2 0 -11 7 0 5 10.8 0 10.8 -9.6 0 -9.6
+4 1 0 0 -18 9.6 0 1 7 0 5 -8.2 0 -11
+4 1 -11 0 -8.2 5 0 7 1 0 9.6 -18 0 0
+3 16 5 0 7 10.8 0 10.8 1 0 9.6
+4 16 -9.6 0 -9.6 10.8 0 10.8 5 0 7 -11 0 -8.2
+0

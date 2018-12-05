@@ -1,0 +1,21 @@
+0 Ring 39 x 0.25
+0 Name: 1-4rin39.dat
+0 Author: Paul Easter [pneaster]
+0 !LDRAW_ORG Primitive UPDATE 2015-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2001-12-31 [PTadmin] Official Update 2001-03
+0 !HISTORY 2007-06-22 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2012-02-16 [Philo] Changed to CCW
+0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
+0 !HISTORY 2014-12-25 [MMR1988] Fixed a rounding issue
+0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+
+4 16 40 0 0 36.956 0 15.308 36.0321 0 14.9253 39 0 0
+4 16 36.956 0 15.308 28.284 0 28.284 27.5769 0 27.5769 36.0321 0 14.9253
+4 16 28.284 0 28.284 15.308 0 36.956 14.9253 0 36.0321 27.5769 0 27.5769
+4 16 15.308 0 36.956 0 0 40 0 0 39 14.9253 0 36.0321
+0 // Build by Primitive Generator 2

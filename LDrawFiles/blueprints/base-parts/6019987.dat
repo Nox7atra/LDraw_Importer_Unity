@@ -1,0 +1,14 @@
+0 _Plate  1 x  2 with Offset Peghole [72]
+0 Name: 6019987.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Part Physical_Colour UPDATE 2012-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
+
+0 // This file is a "shortcut" with the correct number for the actual
+0 // colouring of the part (Dark Bluish Gray).
+
+1 72 0 0 0 1 0 0 0 1 0 0 0 1 11458.dat

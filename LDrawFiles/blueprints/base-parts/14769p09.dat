@@ -1,0 +1,20 @@
+0 Tile  2 x  2 Round with Round Underside Stud with Archery Target Pattern
+0 Name: 14769p09.dat
+0 Author: Evert-Jan Boer [ejboer]
+0 !LDRAW_ORG Part UPDATE 2017-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS BrickLink 14769pb086, Arrow
+
+0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\14769s01.dat
+
+1 14 0 0 0 3.3333 0 0 0 1 0 0 0 3.3333 4-4disc.dat
+1 16 0 0 0 3.3333 0 0 0 1 0 0 0 3.3333 4-4ring1.dat
+1 4 0 0 0 3.3333 0 0 0 1 0 0 0 3.3333 4-4ring2.dat
+1 16 0 0 0 3.3333 0 0 0 1 0 0 0 3.3333 4-4ring3.dat
+1 1 0 0 0 3.3333 0 0 0 1 0 0 0 3.3333 4-4ring4.dat
+1 16 0 0 0 3.3333 0 0 0 1 0 0 0 3.3333 4-4ring5.dat

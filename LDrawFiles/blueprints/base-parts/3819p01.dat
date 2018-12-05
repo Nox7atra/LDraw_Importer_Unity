@@ -1,0 +1,19 @@
+0 Minifig Arm Left with Short Sleeve and Yellow Arm Pattern
+0 Name: 3819p01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2014-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HELP Place at 15.552 9 0 relative to torso
+0 !HELP Then rotate about x axis to give require elevation of arm
+0 !HELP 0 = upper arm vertical
+0 !HELP -45 = lower arm horizontal
+0 !HELP -90 = upper arm horizontal
+0 !HELP -135 = lower arm vertical
+0 !HELP Then rotate -9.782 about z axis to align with slope of torso
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
+
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 3818p01.dat

@@ -1,0 +1,26 @@
+0 Stud Tube Open with  2 Fillets Narrow Adjacent
+0 Name: stud4f5n.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Primitive UPDATE 2012-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2009-01-24 [Philo] Creation, based on William Howard stud4f series
+0 !HISTORY 2012-04-06 [MagFors] subfiled fillet
+0 !HISTORY 2012-08-09 [PTadmin] Official Update 2012-02
+
+1 16 0 -4 0 6 0 0 0 1 0 0 0 -6 4-4edge.dat
+1 16 0 -4 0 3.0616 0 7.3912 0 1 0 7.3912 0 -3.0616 1-8edge.dat
+1 16 0 -4 0 7.3912 0 -3.0616 0 1 0 -3.0616 0 -7.3912 5-8edge.dat
+1 16 0 0 0 3.0616 0 7.3912 0 1 0 7.3912 0 -3.0616 1-8edge.dat
+1 16 0 0 0 7.3912 0 -3.0616 0 1 0 -3.0616 0 -7.3912 5-8edge.dat
+0 BFC INVERTNEXT
+1 16 0 -4 0 6 0 0 0 4 0 0 0 -6 4-4cyli.dat
+1 16 0 -4 0 3.0616 0 7.3912 0 4 0 7.3912 0 -3.0616 1-8cyli.dat
+1 16 0 -4 0 7.3912 0 -3.0616 0 4 0 -3.0616 0 -7.3912 5-8cyli.dat
+1 16 0 -4 0 1.8478 0 -0.7654 0 1 0 0.7654 0 1.8478 1-8ring3.dat
+1 16 0 -4 0 -0.7654 0 -1.8478 0 1 0 1.8478 0 -0.7654 2-4ring3.dat
+1 16 0 -4 0 0.7654 0 1.8478 0 1 0 -1.8478 0 0.7654 1-8ring3.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 st4jfil2.dat
+1 16 0 0 0 0 0 -1 0 1 0 1 0 0 st4jfil2.dat

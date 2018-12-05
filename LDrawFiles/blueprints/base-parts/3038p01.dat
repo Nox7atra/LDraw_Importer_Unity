@@ -1,0 +1,23 @@
+0 Slope Brick 45  2 x  3 with Yellow Line and Black Border Pattern
+0 Name: 3038p01.dat
+0 Author: Mark Chittenden [mdublade]
+0 !LDRAW_ORG Part UPDATE 2011-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Star Wars, T-16, Skyhopper
+
+0 !HISTORY 2011-06-12 [Darats] Modified title
+0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3038S01.DAT
+4 16 -3 20 -30 -3 0 -10 -30 0 -10 -30 20 -30
+4 16 3 1 -11 3 0 -10 -3 0 -10 -3 1 -11
+4 0 2 2 -12 3 1 -11 -3 1 -11 -2 2 -12
+4 0 -2 18 -28 -2 2 -12 -3 1 -11 -3 19 -29
+4 14 2 18 -28 2 2 -12 -2 2 -12 -2 18 -28
+4 0 3 19 -29 3 1 -11 2 2 -12 2 18 -28
+4 0 3 19 -29 2 18 -28 -2 18 -28 -3 19 -29
+4 16 3 20 -30 3 19 -29 -3 19 -29 -3 20 -30
+4 16 30 20 -30 30 0 -10 3 0 -10 3 20 -30

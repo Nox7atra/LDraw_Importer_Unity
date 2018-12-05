@@ -1,0 +1,42 @@
+0 Minifig Chain 17L (Complete)
+0 Name: 30104.dat
+0 Author: Matt Schild [mschild]
+0 !LDRAW_ORG Shortcut UPDATE 2010-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CW
+0 !CATEGORY Minifig Accessory
+
+0 !HISTORY 2003-11-29 [Steffen] BFCed
+0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
+0 !HISTORY 2007-05-04 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2008-07-07 [Steffen] BFCed (2003-11-29)
+0 !HISTORY 2008-07-08 [sbliss] Corrected overall size, number (21) and positions of links (2005-03-17)
+0 !HISTORY 2008-07-09 [PTadmin] Renamed from 208c01 (2007-10-10)
+0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
+
+1 16 0 0 326 -1 0 0 0 1 0 0 0 -1 208.dat
+1 16 0 1.5 306.548 0 0 1 1 0 0 0 1 0 209.dat
+1 16 0 1.5 292.643 -1 0 0 0 0 1 0 1 0 209.dat
+1 16 0 1.5 278.738 0 0 1 1 0 0 0 1 0 209.dat
+1 16 0 1.5 264.833 -1 0 0 0 0 1 0 1 0 209.dat
+1 16 0 1.5 250.929 0 0 1 1 0 0 0 1 0 209.dat
+1 16 0 1.5 237.024 -1 0 0 0 0 1 0 1 0 209.dat
+1 16 0 1.5 223.119 0 0 1 1 0 0 0 1 0 209.dat
+1 16 0 1.5 209.214 -1 0 0 0 0 1 0 1 0 209.dat
+1 16 0 1.5 195.310 0 0 1 1 0 0 0 1 0 209.dat
+1 16 0 1.5 181.405 -1 0 0 0 0 1 0 1 0 209.dat
+1 16 0 1.5 167.500 0 0 1 1 0 0 0 1 0 209.dat
+1 16 0 1.5 153.595 -1 0 0 0 0 1 0 1 0 209.dat
+1 16 0 1.5 139.690 0 0 1 1 0 0 0 1 0 209.dat
+1 16 0 1.5 125.786 -1 0 0 0 0 1 0 1 0 209.dat
+1 16 0 1.5 111.881 0 0 1 1 0 0 0 1 0 209.dat
+1 16 0 1.5 97.976 -1 0 0 0 0 1 0 1 0 209.dat
+1 16 0 1.5 84.071 0 0 1 1 0 0 0 1 0 209.dat
+1 16 0 1.5 70.167 -1 0 0 0 0 1 0 1 0 209.dat
+1 16 0 1.5 56.262 0 0 1 1 0 0 0 1 0 209.dat
+1 16 0 1.5 42.357 -1 0 0 0 0 1 0 1 0 209.dat
+1 16 0 1.5 28.452 0 0 1 1 0 0 0 1 0 209.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 208.dat
+0

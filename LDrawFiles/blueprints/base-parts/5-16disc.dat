@@ -1,0 +1,19 @@
+0 Disc 0.3125
+0 Name: 5-16disc.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Primitive UPDATE 2011-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
+
+3 16 0 0 0 1 0 0 0.9239 0 0.3827
+3 16 0 0 0 0.9239 0 0.3827 0.7071 0 0.7071
+3 16 0 0 0 0.7071 0 0.7071 0.3827 0 0.9239
+3 16 0 0 0 0.3827 0 0.9239 0 0 1
+3 16 0 0 0 0 0 1 -0.3827 0 0.9239
+
+0 end of file
+
+

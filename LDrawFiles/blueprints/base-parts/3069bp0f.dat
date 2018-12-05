@@ -1,0 +1,16 @@
+0 Tile  1 x  2 with Light Grey Bedroll Pattern
+0 Name: 3069bp0f.dat
+0 Author: Alex Taylor [anathema]
+0 !LDRAW_ORG Part UPDATE 2014-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
+0 !HISTORY 2014-01-18 [smr] moved bedroll from 3069bp0f to s\3069p0fs01.dat
+0 !HISTORY 2014-01-18 [smr] moved bedroll frame from 3069bp0f to s\3069p0fs02.dat
+0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3069bs01.dat
+1 7 0 0 0 1 0 0 0 1 0 0 0 1 s\3069p0fs01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3069p0fs02.dat

@@ -1,0 +1,25 @@
+0 Minifig Suitcase
+0 Name: 4449.dat
+0 Author: Franklin W. Cain [fwcain]
+0 !LDRAW_ORG Part UPDATE 2003-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HELP uncomment for "closed" and level with "floor": 
+0 !HELP 1 16   0  -1   0  1  0  0  0  1  0  0  0  1  x286.dat
+0 !HELP 1 16   0 -13   0  1  0  0  0  0 -1  0  1  0  x287.dat
+0 !HELP 1 16   0 -13   0 -1  0  0  0  0 -1  0 -1  0  x288.dat
+
+0 !CATEGORY Minifig Accessory
+0 !KEYWORDS Trains, Town, container, luggage, baggage, suitcase
+0 !KEYWORDS briefcase, attache case, valise
+
+0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
+0 !HISTORY 2007-07-04 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // "closed" and centered on handle: 
+ 1 16   0  28   0  1  0  0  0  1  0  0  0  1  286.dat
+ 1 16   0  16   0  1  0  0  0  0 -1  0  1  0  287.dat
+ 1 16   0  16   0 -1  0  0  0  0 -1  0 -1  0  288.dat
+
+0 end of file

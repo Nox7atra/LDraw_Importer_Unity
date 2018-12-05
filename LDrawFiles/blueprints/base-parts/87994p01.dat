@@ -1,0 +1,21 @@
+0 Bar  3L with White Ends Pattern
+0 Name: 87994p01.dat
+0 Author: Chris Dee [cwdee]
+0 !LDRAW_ORG Part UPDATE 2015-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CW
+0 !KEYWORDS magic wand, magician, magic man
+
+0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
+0 !HISTORY 2015-07-09 [cwdee] Adjusted description
+0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+
+1 16 0 0 0 4 0 0 0 1 0 0 0 4 4-4edge.dat
+1 15 0 0 0 4 0 0 0 1 0 0 0 4 4-4disc.dat
+1 15 0 0 0 4 0 0 0 10 0 0 0 4 4-4cyli.dat
+1 16 0 10 0 4 0 0 0 40 0 0 0 4 4-4cyli.dat
+1 15 0 50 0 4 0 0 0 10 0 0 0 4 4-4cyli.dat
+1 16 0 60 0 4 0 0 0 1 0 0 0 4 4-4edge.dat
+1 15 0 60 0 -4 0 0 0 -1 0 0 0 4 4-4disc.dat
+0

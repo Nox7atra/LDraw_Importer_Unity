@@ -1,0 +1,18 @@
+0 Monorail Track Curve Short Right
+0 Name: 2891.dat
+0 Author: Bernd Broich [bbroich]
+0 !LDRAW_ORG Part UPDATE 2013-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HELP Use the following transformation matrices for the 1 x 4 Plates
+0 !HELP 1 16 -27.65 10 27.65 0.707107 0.707107 0 0 0 1 0.707107 -0.707107 0 3710.DAT
+0 !HELP 1 16 27.65 10 -27.65 -0.707107 -0.707107 0 0 0 1 -0.707107 0.707107 0 3710.DAT
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2011-07-28 [Philo] Subparted, some improvements
+0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+
+1 16 400 0 160 -1 0 0 0 1 0 0 0 -1 s\2670s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\2892s02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2891s01.dat

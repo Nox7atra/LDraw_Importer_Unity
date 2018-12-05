@@ -1,0 +1,36 @@
+0 Brick  1 x  2 with Three-Spot Face
+0 Name: 3004p51.dat
+0 Author: Chris Dee [cwdee]
+0 !LDRAW_ORG Part UPDATE 2003-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CW
+
+0 !HISTORY 1998-03-23 [PTadmin] Official Update 1998-03
+0 !HISTORY 2002-12-10 [hafhead] Redid pattern and outer box
+0 !HISTORY 2003-07-01 [Steffen] reworked part to use s\3004s01.dat
+0 !HISTORY 2003-07-01 [Steffen] BFCed
+0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
+0 !HISTORY 2007-05-07 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3004s01.dat
+1 4 0 16 -10 4 0 0 0 0 4 0 1 0 4-4disc.dat
+1 16 0 16 -10 4 0 0 0 0 4 0 1 0 4-4ndis.dat
+1 0 -8 6 -10 3 0 0 0 0 3 0 1 0 4-4disc.dat
+1 16 -8 6 -10 3 0 0 0 0 3 0 1 0 4-4ndis.dat
+1 0 8 6 -10 3 0 0 0 0 3 0 1 0 4-4disc.dat
+1 16 8 6 -10 3 0 0 0 0 3 0 1 0 4-4ndis.dat
+4 16 -20 0 -10 20 0 -10 5 3 -10 -5 3 -10
+3 16 -20 0 -10 -5 3 -10 -11 3 -10
+3 16 11 3 -10 5 3 -10 20 0 -10
+4 16 -20 0 -10 -11 3 -10 -11 9 -10 -20 24 -10
+4 16 11 9 -10 11 3 -10 20 0 -10 20 24 -10
+4 16 -20 24 -10 -11 9 -10 -5 9 -10 -4 12 -10
+4 16 5 9 -10 11 9 -10 20 24 -10 4 12 -10
+3 16 -20 24 -10 -4 12 -10 -4 20 -10
+3 16 4 20 -10 4 12 -10 20 24 -10
+4 16 -20 24 -10 -4 20 -10 4 20 -10 20 24 -10
+4 16 -5 3 -10 5 3 -10 5 9 -10 -5 9 -10
+4 16 -4 12 -10 -5 9 -10 5 9 -10 4 12 -10
+0

@@ -1,0 +1,32 @@
+0 ~Technic Ribbed Hose Mid Segment
+0 Name: 80.dat
+0 Author: William Howard [WilliamH]
+0 !LDRAW_ORG Part UPDATE 2011-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HELP To model a Ribbed Technic Hose, see the example of 71944.dat
+0 !HELP For a hose with N ribs, you need a 79.dat subpart, (N-2) 80.dat subparts
+0 !HELP  and a final 79.dat subpart. 
+0 !HELP The distance between each 79-80 or 80-80 subparts is 6.2LDU
+0 !HELP For a hose with an odd number of ribs, the middle rib should be at x=0
+0 !HELP  with other subparts at +/- 6.2, 12.4, 18.6, 24.8, 31.0 etc
+0 !HELP For a hose with an even number of ribs, the middle two ribs should be at
+0 !HELP  x=+/-3.1 with other subparts at +/- 9.3, 15.5, 21.7, 27.9, 34.1 etc
+0 !HELP The rotation matrix to use for each subpart is (0 1 0 1 0 0 0 0 1), 
+0 !HELP  except the left hand 79.dat, for which it is (0 -1 0 1 0 0 0 0 1)
+0 !HELP The subparts will overlap slightly, this is to allow for creating curved
+0 !HELP  hoses
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+
+0 BFC INVERTNEXT
+1 16 0 -2.5 0 6 0 0 0 -0.8 0 0 0 6 4-4cyli.dat
+1 16 0 -2.5 0 6.5 0 0 0 -0.8 0 0 0 6.5 4-4cyli.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\78s01.dat
+1 16 0 0 0 1 0 0 0 -1 0 0 0 1 s\78s01.dat
+0 BFC INVERTNEXT
+1 16 0 2.5 0 6 0 0 0 0.8 0 0 0 6 4-4cyli.dat
+1 16 0 2.5 0 6.5 0 0 0 0.8 0 0 0 6.5 4-4cyli.dat
+0

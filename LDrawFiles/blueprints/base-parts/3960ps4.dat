@@ -1,0 +1,29 @@
+0 Dish  4 x  4 Inverted with Dark Bluish Grey Octagonal Cockpit Pattern
+0 Name: 3960ps4.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Part UPDATE 2017-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3960s01.dat
+
+0 BFC NOCLIP
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3960ps4s01.dat
+1 16 0 0 0 0.707107 0 0.707107 0 1 0 0.707107 0 -0.707107 s\3960ps4s01.dat
+1 16 0 0 0 0.707107 0 -0.707107 0 1 0 0.707107 0 0.707107 s\3960ps4s01.dat
+1 16 0 0 0 0 0 1 0 1 0 1 0 0 s\3960ps4s01.dat
+1 16 0 0 0 0 0 -1 0 1 0 1 0 0 s\3960ps4s01.dat
+1 16 0 0 0 -0.707107 0 0.707107 0 1 0 0.707107 0 0.707107 s\3960ps4s01.dat
+1 16 0 0 0 -0.707107 0 -0.707107 0 1 0 0.707107 0 -0.707107 s\3960ps4s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3960ps4s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\3960ps4s01.dat
+1 16 0 0 0 -0.707107 0 -0.707107 0 1 0 -0.707107 0 0.707107 s\3960ps4s01.dat
+1 16 0 0 0 -0.707107 0 0.707107 0 1 0 -0.707107 0 -0.707107 s\3960ps4s01.dat
+1 16 0 0 0 0 0 -1 0 1 0 -1 0 0 s\3960ps4s01.dat
+1 16 0 0 0 0 0 1 0 1 0 -1 0 0 s\3960ps4s01.dat
+1 16 0 0 0 0.707107 0 -0.707107 0 1 0 -0.707107 0 -0.707107 s\3960ps4s01.dat
+1 16 0 0 0 0.707107 0 0.707107 0 1 0 -0.707107 0 0.707107 s\3960ps4s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\3960ps4s01.dat

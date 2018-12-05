@@ -1,0 +1,90 @@
+0 Baseplate 24 x 32 with Set 363 Dots Pattern
+0 Name: 10p01.dat
+0 Author: James Jessiman
+0 !LDRAW_ORG Part UPDATE 2013-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2007-05-04 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2013-02-02 [MMR1988] Add BFC, used studgroups, used 10s01.dat
+0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\10s01.dat
+
+1 16 -230 0 -130 1 0 0 0 1 0 0 0 1 stug-9x9.dat
+1 16 -260 0 20 1 0 0 0 1 0 0 0 1 stug-6x6.dat
+1 16 -260 0 140 1 0 0 0 1 0 0 0 1 stug-6x6.dat
+1 16 -260 0 210 1 0 0 0 1 0 0 0 1 stug-1x6.dat
+1 16 -250 0 230 1 0 0 0 1 0 0 0 1 stug-1x5.dat
+1 16 -170 0 150 1 0 0 0 1 0 0 0 1 stug-3x3.dat
+1 16 -170 0 210 1 0 0 0 1 0 0 0 1 stug-3x3.dat
+1 16 -60 0 160 1 0 0 0 1 0 0 0 1 stug-6x6.dat
+1 16 -130 0 210 1 0 0 0 1 0 0 0 1 stug-3x1.dat
+1 16 -60 0 230 1 0 0 0 1 0 0 0 1 stug-1x6.dat
+1 16 10 0 210 1 0 0 0 1 0 0 0 1 stug-3x1.dat
+1 16 80 0 180 1 0 0 0 1 0 0 0 1 stug-6x6.dat
+1 16 200 0 180 1 0 0 0 1 0 0 0 1 stug-6x6.dat
+1 16 200 0 110 1 0 0 0 1 0 0 0 1 stug-1x6.dat
+1 16 270 0 180 1 0 0 0 1 0 0 0 1 stug-6x1.dat
+1 16 290 0 120 1 0 0 0 1 0 0 0 1 stug-12x1.dat
+1 16 310 0 100 1 0 0 0 1 0 0 0 1 stug-12x1.dat
+1 16 -50 0 -130 1 0 0 0 1 0 0 0 1 stug-9x9.dat
+1 16 130 0 -130 1 0 0 0 1 0 0 0 1 stug-9x9.dat
+1 16 270 0 -170 1 0 0 0 1 0 0 0 1 stug-5x5.dat
+1 16 270 0 -70 1 0 0 0 1 0 0 0 1 stug-5x5.dat
+1 16 -130 0 -10 1 0 0 0 1 0 0 0 1 stug-1x7.dat
+1 16 -130 0 -30 1 0 0 0 1 0 0 0 1 stug-1x7.dat
+1 16 0 0 20 1 0 0 0 1 0 0 0 1 stug-6x6.dat
+1 16 140 0 -30 1 0 0 0 1 0 0 0 1 stug-1x8.dat
+1 16 180 0 -10 1 0 0 0 1 0 0 0 1 stug-1x12.dat
+1 16 210 0 50 1 0 0 0 1 0 0 0 1 stug-5x5.dat
+1 16 150 0 50 1 0 0 0 1 0 0 0 1 stug-5x1.dat
+1 16 100 0 60 1 0 0 0 1 0 0 0 1 stug-4x4.dat
+1 16 -140 0 60 1 0 0 0 1 0 0 0 1 stug-4x4.dat
+1 16 -80 0 40 1 0 0 0 1 0 0 0 1 stug-2x2.dat
+1 16 -80 0 80 1 0 0 0 1 0 0 0 1 stug-2x2.dat
+1 16 0 0 90 1 0 0 0 1 0 0 0 1 stug-1x6.dat
+1 16 -180 0 -230 1 0 0 0 1 0 0 0 1 stug-1x12.dat
+1 16 180 0 -230 1 0 0 0 1 0 0 0 1 stug-1x12.dat
+1 16 0 0 -230 1 0 0 0 1 0 0 0 1 stug-1x6.dat
+
+1 16   10 0 170 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16 -130 0 170 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16   10 0 150 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16 -130 0 150 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16   10 0 130 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16 -130 0 130 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16  270 0 110 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16  130 0 110 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16  110 0 110 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16   90 0 110 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16   70 0 110 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16   50 0 110 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16   30 0 110 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16   10 0 110 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16 -130 0 110 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16 -150 0 110 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16 -170 0 110 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16 -190 0 110 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16  270 0 90 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16 -190 0 90 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16  270 0 70 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16 -190 0 70 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16  270 0 50 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16 -190 0 50 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16  270 0 30 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16 -190 0 30 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16  270 0 10 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16  130 0 10 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16  110 0 10 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16   90 0 10 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16   70 0 10 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16  -70 0 10 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16  -90 0 10 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16 -110 0 10 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16 -130 0 10 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16 -150 0 10 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16 -170 0 10 1 0 0 0 1 0 0 0 1 studp01.dat
+1 16 -190 0 10 1 0 0 0 1 0 0 0 1 studp01.dat

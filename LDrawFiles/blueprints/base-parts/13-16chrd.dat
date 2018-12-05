@@ -1,0 +1,25 @@
+0 Chord 0.8125
+0 Name: 13-16chrd.dat
+0 Author: Alex Taylor [anathema]
+0 !LDRAW_ORG Primitive UPDATE 2014-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
+0 !HISTORY 2014-08-13 [PTadmin] Renamed from 13-16chr
+0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
+
+3 16 1 0 0 0.9239 0 0.3827 0.7071 0 0.7071
+3 16 1 0 0 0.7071 0 0.7071 0.3827 0 0.9239
+3 16 1 0 0 0.3827 0 0.9239 0 0 1
+3 16 1 0 0 0 0 1 -0.3827 0 0.9239
+3 16 1 0 0 -0.3827 0 0.9239 -0.7071 0 0.7071
+3 16 1 0 0 -0.7071 0 0.7071 -0.9239 0 0.3827
+3 16 1 0 0 -0.9239 0 0.3827 -1 0 0
+3 16 1 0 0 -1 0 0 -0.9239 0 -0.3827
+3 16 1 0 0 -0.9239 0 -0.3827 -0.7071 0 -0.7071
+3 16 1 0 0 -0.7071 0 -0.7071 -0.3827 0 -0.9239
+3 16 1 0 0 -0.3827 0 -0.9239 0 0 -1
+3 16 1 0 0 0 0 -1 0.3827 0 -0.9239
+0

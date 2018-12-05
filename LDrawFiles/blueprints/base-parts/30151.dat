@@ -1,0 +1,47 @@
+0 Cylinder  2 x  2 x  1.667 with Dome Top
+0 Name: 30151.dat
+0 Author: Steve Bliss [sbliss]
+0 !LDRAW_ORG Part UPDATE 2016-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS container, adventurers, bell jar, crystal, glass
+
+0 !HISTORY 1999-02-01 [PTadmin] Official Update 1999-01
+0 !HISTORY 2007-06-06 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2014-11-21 [roland]  Auto-corrected with libfix version of LDCad 1.4
+0 !HISTORY 2016-09-08 [MagFors] Made bfc, primitive substitution
+0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30151s01.dat
+1 16 0 0 0 0 0 -1 0 1 0 -1 0 0 s\30151s01.dat
+1 16 0 0 0 0 0 -1 0 1 0 1 0 0 s\30151s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\30151s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\30151s01.dat
+1 16 0 0 0 0 0 1 0 1 0 1 0 0 s\30151s01.dat
+1 16 0 0 0 0 0 1 0 1 0 -1 0 0 s\30151s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\30151s01.dat
+
+0 BFC INVERTNEXT
+1 16 0 36 0 1 0 0 0 -25 0 0 0 1 4-4con15.dat
+0 BFC INVERTNEXT
+1 16 0 11 0 0 0 8 0 -8 0 8 0 0 t04o8750.dat
+0 BFC INVERTNEXT
+1 16 0 11 0 -8 0 0 0 -8 0 0 0 8 t04o8750.dat
+0 BFC INVERTNEXT
+1 16 0 11 0 0 0 -8 0 -8 0 -8 0 0 t04o8750.dat
+0 BFC INVERTNEXT
+1 16 0 11 0 8 0 0 0 -8 0 0 0 -8 t04o8750.dat
+1 16 0 4 0 -4 0 0 0 -1 0 0 0 4 4-4ring1.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 filstud3.dat
+
+1 16 0 36 0 1 0 0 0 -25 0 0 0 1 4-4con19.dat
+1 16 0 11 0 8 0 0 0 -8 0 0 0 8 r04o1375.dat
+1 16 0 11 0 0 0 -8 0 -8 0 8 0 0 r04o1375.dat
+1 16 0 11 0 -8 0 0 0 -8 0 0 0 -8 r04o1375.dat
+1 16 0 11 0 0 0 8 0 -8 0 -8 0 0 r04o1375.dat
+1 16 0 0 0 2 0 0 0 1 0 0 0 2 4-4ring3.dat
+1 16 0 0 0 6 0 0 0 1 0 0 0 6 4-4edge.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 stud2a.dat

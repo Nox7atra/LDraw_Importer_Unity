@@ -1,0 +1,19 @@
+0 _Window  1 x  2 x  2 Classic Red
+0 Name: 7026c.dat
+0 Author: Chris Dee [cwdee]
+0 !LDRAW_ORG Part Physical_Colour UPDATE 2009-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
+
+0 // Suffix letter added to maintain backward compatibility of 7026.dat
+0 // which has been incorrectly used since 1998-06 for the open colour part.
+
+
+
+
+
+1 4 0 0 0 1 0 0 0 1 0 0 0 1 3081cc01.DAT
+0

@@ -1,0 +1,17 @@
+0 Slope Brick Curved  2 x  4 with 2 Gold Stripes Pattern
+0 Name: 61068p01.dat
+0 Author: J.C. Tchang [tchang]
+0 !LDRAW_ORG Part UPDATE 2012-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\61068s01.dat
+1 16 39 24.97 20 0 1 0 -40.96 0 0 0 0 -56.58 48\1-8cyli.dat
+1 82 36.2 24.97 20 0 2.8 0 -40.96 0 0 0 0 -56.58 48\1-8cyli.dat
+1 16 -36.2 24.97 20 0 72.4 0 -40.96 0 0 0 0 -56.58 48\1-8cyli.dat
+1 82 -39 24.97 20 0 2.8 0 -40.96 0 0 0 0 -56.58 48\1-8cyli.dat
+1 16 -40 24.97 20 0 1 0 -40.96 0 0 0 0 -56.58 48\1-8cyli.dat
+

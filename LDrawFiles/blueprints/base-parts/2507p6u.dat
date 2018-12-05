@@ -1,0 +1,16 @@
+0 Windscreen 10 x  4 x  2.333 Canopy with UFO Pattern
+0 Name: 2507p6u.dat
+0 Author: Nils Schmidt [BlackBrick89]
+0 !LDRAW_ORG Part UPDATE 2011-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2507s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2507p6us01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\2507p6us01.dat
+1 16 5.46 24.6542 -144.77 1.6406 0 0 0 1.7678 -0.7368 0 0.7368 1.7678 s\2507p6us02.dat
+1 12 -5.46 24.6542 -144.77 1.6406 0 0 0 1.7678 -0.7368 0 0.7368 1.7678 s\2507p6us02.dat
+4 16 20 52 -196 20 46 -196 -20 46 -196 -20 52 -196

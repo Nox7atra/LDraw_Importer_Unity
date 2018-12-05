@@ -1,0 +1,31 @@
+0 Figure Friends Legs with Layered Skirt with Light Flesh Legs and White Shoes Pattern
+0 Name: 92250p08.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2014-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HELP Hips Rotation point: Y=-47.4, Z=2.7
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\92250s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\92250s01.dat
+2 24 4 -37.6 9.4 -4 -37.6 9.4
+1 16 0 -40.8 -3.5 -4 0 0 0 1 -0.1 0 0 -0.4 rect2p.dat
+4 16 4 -40.7 -3.1 4 -39.4 -0.8 -4 -39.4 -0.8 -4 -40.7 -3.1
+4 16 4 -39.4 -0.8 4 -38.2 3.1 -4 -38.2 3.1 -4 -39.4 -0.8
+4 16 4 -38.2 3.1 4 -37.6 9.4 -4 -37.6 9.4 -4 -38.2 3.1
+5 24 4 -39.4 -0.8 -4 -39.4 -0.8 4 -38.2 3.1 4 -40.7 -3.1
+5 24 4 -38.2 3.1 -4 -38.2 3.1 4 -37.5 10.4 4 -39.4 -0.8
+1 78 0 0 0 1 0 0 0 1 0 0 0 1 s\92252s03.dat
+1 78 0 0 0 -1 0 0 0 1 0 0 0 1 s\92252s03.dat
+1 78 0 0 0 1 0 0 0 1 0 0 0 1 s\92252s04.dat
+1 78 0 0 0 -1 0 0 0 1 0 0 0 1 s\92252s04.dat
+1 78 0 0 0 1 0 0 0 1 0 0 0 1 s\92251p04s02.dat
+1 78 0 0 0 -1 0 0 0 1 0 0 0 1 s\92251p04s02.dat
+1 15 0 0 0 1 0 0 0 1 0 0 0 1 s\92251p04s01.dat
+1 15 0 0 0 -1 0 0 0 1 0 0 0 1 s\92251p04s01.dat
+1 15 0 0 0 1 0 0 0 1 0 0 0 1 s\92251p04s03.dat
+1 15 0 0 0 -1 0 0 0 1 0 0 0 1 s\92251p04s03.dat

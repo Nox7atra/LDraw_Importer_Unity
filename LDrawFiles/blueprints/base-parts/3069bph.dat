@@ -1,0 +1,12 @@
+0 Tile  1 x  2 with Black Top without Lower-Left Corner Pattern
+0 Name: 3069bph.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Part UPDATE 2017-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3069bs01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3069bphs01.dat

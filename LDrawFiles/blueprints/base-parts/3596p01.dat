@@ -1,0 +1,26 @@
+0 Flag on Flagpole with Vertical Black/White/Blue/Red/Yellow Stripes Pattern
+0 Name: 3596p01.dat
+0 Author: Chris Dee [cwdee]
+0 !LDRAW_ORG Part UPDATE 2015-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 1998-07-15 [PTadmin] Official Update 1998-07
+0 !HISTORY 2007-06-25 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2014-11-21 [roland]  Auto-corrected with libfix version of LDCad 1.4
+0 !HISTORY 2015-01-16 [Steffen] BFCed, used subfile
+0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3596s01.dat
+4 0 2 -108 4 2 -108 16 2 -156 16 2 -156 4
+4 15 2 -108 16 2 -108 28 2 -156 28 2 -156 16
+4 1 2 -108 28 2 -108 40 2 -156 40 2 -156 28
+4 4 2 -108 40 2 -108 52 2 -156 52 2 -156 40
+4 14 2 -108 52 2 -108 64 2 -156 64 2 -156 52
+4 0 -2 -108 16 -2 -108 4 -2 -156 4 -2 -156 16
+4 15 -2 -108 28 -2 -108 16 -2 -156 16 -2 -156 28
+4 1 -2 -108 40 -2 -108 28 -2 -156 28 -2 -156 40
+4 4 -2 -108 52 -2 -108 40 -2 -156 40 -2 -156 52
+4 14 -2 -108 64 -2 -108 52 -2 -156 52 -2 -156 64

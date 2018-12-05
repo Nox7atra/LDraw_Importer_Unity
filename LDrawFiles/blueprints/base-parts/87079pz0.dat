@@ -1,0 +1,15 @@
+0 Tile  2 x  4 with Groove with Brickheadz Series Number "1" Pattern
+0 Name: 87079pz0.dat
+0 Author: Damien Roux [Darats]
+0 !LDRAW_ORG Part UPDATE 2017-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS BrickLink 87079pb388
+
+0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\87079s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\87079pz0s01.dat
+1 15 0 0 0 1 0 0 0 1 0 0 0 1 s\87079pz0s02.dat

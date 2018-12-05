@@ -1,0 +1,17 @@
+0 Brick  1 x  6 with Bold Black "POLICE" Pattern
+0 Name: 3009p27.dat
+0 Author: Peter Lind [peterlinddk]
+0 !LDRAW_ORG Part UPDATE 2011-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3009s01.dat
+1 16 -0.5 11.25 -10 1 0 0 0 0 -1 0 1 0 s\3009p27a.dat
+4 16 -60 24 -10 -45.5 20 -10 -45.5 2.5 -10 -60 0 -10
+4 16 60 0 -10 44.5 2.5 -10 44.5 20 -10 60 24 -10
+4 16 60 24 -10 44.5 20 -10 -45.5 20 -10 -60 24 -10
+4 16 -60 0 -10 -45.5 2.5 -10 44.5 2.5 -10 60 0 -10
+0

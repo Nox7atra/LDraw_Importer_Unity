@@ -1,0 +1,69 @@
+0 ~Train Wheel Spoked with Beveled Hub
+0 Name: 244.dat
+0 Author: Niels Karsdorp [nielsk]
+0 !LDRAW_ORG Part UPDATE 2013-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CW
+
+0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+
+0 // Axle connector
+
+1 16 0 0 -8 -4 0 0 0 0 4 0 -4 0 4-4disc.dat
+0 BFC INVERTNEXT
+1 16 0 0 10 4 0 0 0 0 4 0 -18 0 4-4cyli.dat
+1 16 0 0 10 8 0 0 0 0 8 0 -2 0 4-4cyli.dat
+1 16 0 0 10 -4 0 0 0 0 4 0 -4 0 4-4ring1.dat
+1 16 0 0 -8 4 0 0 0 0 4 0 4 0 4-4edge.dat
+1 16 0 0 10 4 0 0 0 0 4 0 4 0 4-4edge.dat
+1 16 0 0 10 8 0 0 0 0 8 0 8 0 4-4edge.dat
+0 Wheel 'flens' rear
+1 16 0 0 8 -4 0 0 0 0 4 0 -4 0 4-4ring2.dat
+1 16 0 0 8 -2 0 0 0 0 2 0 -2 0 4-4ring6.dat
+1 16 0 0 8 -14 0 0 0 0 14 0 -14 0 4-4ring1.dat
+1 16 0 0 8 8 0 0 0 0 8 0 8 0 4-4edge.dat
+1 16 0 0 8 28 0 0 0 0 28 0 28 0 4-4edge.dat
+0 Wheel 'flens' edge
+1 16 0 0 8 28 0 0 0 0 28 0 -2 0 4-4cyli.dat
+1 16 0 0 6 28 0 0 0 0 28 0 28 0 4-4edge.dat
+0 Wheel 'flens' cone
+1 16 0 0 4.8 6 0 0 0 0 6 0 -1.8 0 4-4con3.dat
+1 16 0 0 6 4 0 0 0 0 4 0 -1.2 0 4-4con6.dat
+0 Wheel edge 'loopvlak' cone
+1 16 0 0 -12 2 0 0 0 0 2 0 15 0 4-4con9.dat
+1 16 0 0 3 18 0 0 0 0 18 0 18 0 4-4edge.dat
+1 16 0 0 -12 20 0 0 0 0 20 0 20 0 4-4edge.dat
+0 Wheel front
+1 16 0 0 -12 0 0 1 -1 0 0 0 1 0 1-4rin19.dat
+1 16 0 0 -12 -1 0 0 0 0 -1 0 1 0 1-4rin19.dat
+1 16 0 0 -12 0 0 -1 1 0 0 0 1 0 1-4rin19.dat
+1 16 0 0 -12 1 0 0 0 0 1 0 1 0 1-4rin19.dat
+1 16 0 0 -12 19 0 0 0 0 19 0 19 0 4-4edge.dat
+0 BFC INVERTNEXT
+1 16 0 0 -10.6667 2 0 0 0 0 2 0 2.6667 0 4-4con8.dat
+0 BFC INVERTNEXT
+1 16 0 0 -12 1 0 0 0 0 1 0 1.3333 0 4-4con18.dat
+0 Wheel inside
+0 BFC INVERTNEXT
+1 16 0 0 3 16 0 0 0 0 16 0 -11 0 4-4cyli.dat
+1 16 0 0 3 8 0 0 0 0 8 0 8 0 4-4ring1.dat
+1 16 0 0 3 8 0 0 0 0 8 0 -15 0 4-4cyli.dat
+1 16 0 0 -12 8 0 0 0 0 8 0 8 0 4-4disc.dat
+1 16 0 0 -8 16 0 0 0 0 16 0 16 0 4-4edge.dat
+1 16 0 0 3 16 0 0 0 0 16 0 16 0 4-4edge.dat
+1 16 0 0 3 8 0 0 0 0 8 0 8 0 4-4edge.dat
+1 16 0 0 -12 8 0 0 0 0 8 0 8 0 4-4edge.dat
+1 16 0 0 -12 1 0 0 0 0 -1 0 1 0 stud.dat
+0 Spokes
+1 16 0 12 3 0 0 1 4 0 0 0 -11 0 box3u2p.dat
+1 16 7.053 9.708 3 -2.35114 0 -0.809017 -3.23607 0 0.587785 0 -11 0 box3u2p.dat
+1 16 11.413 3.708 3 -3.80423 0 -0.309017 -1.23607 0 0.951057 0 -11 0 box3u2p.dat
+1 16 11.413 -3.708 3 -3.80423 0 0.309017 1.23607 0 0.951057 0 -11 0 box3u2p.dat
+1 16 7.053 -9.708 3 -2.35114 0 0.809017 3.23607 0 0.587785 0 -11 0 box3u2p.dat
+1 16 0 -12 3 0 0 1 4 0 0 0 -11 0 box3u2p.dat
+1 16 -7.053 -9.708 3 -2.35114 0 -0.809017 -3.23607 0 0.587785 0 -11 0 box3u2p.dat
+1 16 -11.413 -3.708 3 -3.80423 0 -0.309017 -1.23607 0 0.951057 0 -11 0 box3u2p.dat
+1 16 -11.413 3.708 3 -3.80423 0 0.309017 1.23607 0 0.951057 0 -11 0 box3u2p.dat
+1 16 -7.053 9.708 3 -2.35114 0 0.809017 3.23607 0 0.587785 0 -11 0 box3u2p.dat
+0

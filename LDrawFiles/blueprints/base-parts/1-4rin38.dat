@@ -1,0 +1,18 @@
+0 Ring 38 x 0.25
+0 Name: 1-4rin38.dat
+0 Author: Paul Easter [pneaster]
+0 !LDRAW_ORG Primitive UPDATE 2012-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2001-12-31 [PTadmin] Official Update 2001-03
+0 !HISTORY 2007-06-22 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2012-02-16 [Philo] Changed to CCW
+0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
+
+4 16 39 0 0 36.0313 0 14.9247 35.1074 0 14.542 38 0 0
+4 16 36.0313 0 14.9247 27.5772 0 27.5772 26.8701 0 26.8701 35.1074 0 14.542
+4 16 27.5772 0 27.5772 14.9247 0 36.0313 14.542 0 35.1074 26.8701 0 26.8701
+4 16 14.9247 0 36.0313 0 0 39 0 0 38 14.542 0 35.1074

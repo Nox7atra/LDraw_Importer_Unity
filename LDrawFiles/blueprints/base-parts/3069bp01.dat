@@ -1,0 +1,32 @@
+0 Tile  1 x  2 with Letter Pattern
+0 Name: 3069bp01.dat
+0 Author: James Jessiman
+0 !LDRAW_ORG Part UPDATE 2009-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CW
+
+0 !HISTORY 2003-06-03 [Steffen] changed blue lines to quads, BFCed
+0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
+0 !HISTORY 2007-06-13 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2009-08-14 [anathema] Removed edge-lines from pattern
+0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3069bs01.dat
+4 1 -14 0 4 -4 0 4 -4 0 3.5 -14 0 3.5
+4 16 -4 0 4 12 0 4 12 0 3.5 -4 0 3.5
+4 1 -14 0 0 6 0 0 6 0 -0.5 -14 0 -0.5
+4 16 6 0 0 12 0 0 12 0 -0.5 6 0 -0.5
+4 1 -14 0 -4 0 0 -4 0 0 -4.5 -14 0 -4.5
+4 16 0 0 -4 12 0 -4 12 0 -4.5 0 0 -4.5
+4 16 20 0 10 18 0 8 12 0 8 12 0 10
+4 16 -14 0 4 -14 0 10 12 0 10 12 0 4
+4 4 12 0 0 12 0 8 18 0 8 18 0 0
+4 16 -14 0 10 -14 0 -10 -20 0 -10 -20 0 10
+4 16 -14 0 0 -14 0 3.5 12 0 3.5 12 0 0
+4 16 -14 0 -4 -14 0 -0.5 12 0 -0.5 12 0 -4
+4 16 -14 0 -10 -14 0 -4.5 12 0 -4.5 12 0 -10
+4 16 12 0 -10 12 0 0 18 0 0 20 0 -10
+4 16 20 0 -10 18 0 0 18 0 8 20 0 10
+0

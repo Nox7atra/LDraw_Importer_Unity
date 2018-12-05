@@ -1,0 +1,17 @@
+0 Windscreen  4 x  7 x  1.667 with SW Pattern White/LightBluishGrey
+0 Name: 30372ps0.dat
+0 Author: Daniel Goerner [TK-949]
+0 !LDRAW_ORG Part UPDATE 2013-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30372s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30372p79s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\30372p79s01.dat
+1 15 0 0 0 1 0 0 0 1 0 0 0 1 s\30372p79s02.dat
+1 15 0 0 0 -1 0 0 0 1 0 0 0 1 s\30372p79s02.dat
+1 71 0 0 0 1 0 0 0 1 0 0 0 1 s\30372p79s03.dat
+1 71 0 0 0 -1 0 0 0 1 0 0 0 1 s\30372p79s03.dat

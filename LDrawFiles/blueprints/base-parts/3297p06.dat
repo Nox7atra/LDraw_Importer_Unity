@@ -1,0 +1,21 @@
+0 Slope Brick 33  3 x  4 with Green Stripes Pattern
+0 Name: 3297p06.dat
+0 Author: Michael Heidemann [mikeheide]
+0 !LDRAW_ORG Part UPDATE 2009-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CW
+
+0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3297s01.dat
+4 16 40 0 -10 40 20 -50 34 20 -50 34 0 -10
+4 16 26 0 -10 26 20 -50 14 20 -50 14 0 -10
+4 16 6 0 -10 6 20 -50 -6 20 -50 -6 0 -10
+4 16 -14 0 -10 -14 20 -50 -26 20 -50 -26 0 -10
+4 16 -34 0 -10 -34 20 -50 -40 20 -50 -40 0 -10
+4 2 34 0 -10 34 20 -50 26 20 -50 26 0 -10
+4 2 14 0 -10 14 20 -50 6 20 -50 6 0 -10
+4 2 -6 0 -10 -6 20 -50 -14 20 -50 -14 0 -10
+4 2 -26 0 -10 -26 20 -50 -34 20 -50 -34 0 -10
+0

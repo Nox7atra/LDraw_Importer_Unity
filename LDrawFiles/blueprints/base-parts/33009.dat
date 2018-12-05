@@ -1,0 +1,27 @@
+0 Minifig Book
+0 Name: 33009.dat
+0 Author: Franklin W. Cain [fwcain]
+0 !LDRAW_ORG Part UPDATE 2004-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC NOCERTIFY
+0 !CATEGORY Minifig Accessory
+0 !KEYWORDS Container, Belville, Castle, Harry Potter, hollow book
+0 !KEYWORDS library, bookcase, bookshelf, journal, log, diary, dictionary
+0 !KEYWORDS atlas, encyclopedia, encyclopaedia, spellbook, libram, tome
+0 !KEYWORDS wizard, sorceror, magic
+
+0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
+0 !HISTORY 2007-06-25 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // This piece is a "container."  It easily holds a 1x2 tile with room to spare.
+
+ 1 16   0   0   0  1  0  0  0  1  0  0  0  1  466a.dat
+ 1 16   6   0   1  0  0 -1  0  1  0  1  0  0  466b.dat
+ 1 16  -6   0   1  0  0  1  0  1  0 -1  0  0  466c.dat
+0
+ 1 16   0   0   0 -1  0  0  0 -1  0  0  0  1  466d.dat
+ 1 16   0   0   0  1  0  0  0  1  0  0  0  1  466d.dat
+0
+0 end of file

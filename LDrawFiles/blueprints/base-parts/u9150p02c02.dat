@@ -1,0 +1,13 @@
+0 Figure Fabuland Lion Head  2 with Neck and White Boater
+0 Name: u9150p02c02.dat
+0 Author: Steffen [Steffen]
+0 !LDRAW_ORG Shortcut UPDATE 2011-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+0 !KEYWORDS hat
+
+0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 u9150p02c01.dat
+1 15 -2.7 -48.5 2 1 0.07 0 -0.07 0.99 -0.085 -0.002 0.08 1 u9152.dat

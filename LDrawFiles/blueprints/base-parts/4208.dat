@@ -1,0 +1,45 @@
+0 Hose Reel  2 x  4 x  2 Drum (Needs work)
+0 Name: 4208.dat
+0 Author: James Jessiman
+0 !LDRAW_ORG Part UPDATE 2010-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2007-07-04 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2008-07-07 [PTadmin] Moved from 4208 (2007-10-21)
+0 !HISTORY 2009-07-04 [Eldar] BFC'ed, removed gaps, used primitives
+0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
+
+0 // Needs work : teeth to be added
+
+
+1 16 36 0 0 0 1 0 14 0 0 0 0 14 4-4edge.dat
+1 16 34 0 0 0 1 0 16 0 0 0 0 16 4-4edge.dat
+1 16 30 0 0 0 1 0 16 0 0 0 0 16 4-4edge.dat
+1 16 30 0 0 0 1 0 6 0 0 0 0 6 4-4edge.dat
+1 16 -30 0 0 0 1 0 6 0 0 0 0 6 4-4edge.dat
+1 16 -30 0 0 0 1 0 16 0 0 0 0 16 4-4edge.dat
+1 16 -34 0 0 0 1 0 16 0 0 0 0 16 4-4edge.dat
+1 16 -36 0 0 0 1 0 14 0 0 0 0 14 4-4edge.dat
+1 16 30 0 0 0 1 0 16 0 0 0 0 16 4-4disc.dat
+1 16 -30 0 0 0 -1 0 16 0 0 0 0 16 4-4disc.dat
+1 16 34 0 0 0 -4 0 16 0 0 0 0 16 4-4cyli.dat
+1 16 30 0 0 0 -60 0 6 0 0 0 0 6 4-4cyli.dat
+1 16 -34 0 0 0 4 0 16 0 0 0 0 16 4-4cyli.dat
+0 BFC INVERTNEXT
+1 16 36 0 0 0 1 0 1 0 0 0 0 1 stud3.dat
+0 BFC INVERTNEXT
+1 16 -36 0 0 0 -1 0 1 0 0 0 0 1 stud3.dat
+
+1 16 34 0 0 0 2 0 2 0 0 0 0 2 4-4con7.dat
+1 16 -34 0 0 0 -2 0 2 0 0 0 0 2 4-4con7.dat
+
+1 16 36 0 0 0 -1 0 4 0 0 0 0 -4 4-4ring1.dat
+1 16 36 0 0 0 -1 0 4 0 0 0 0 -4 4-4ring2.dat
+1 16 36 0 0 0 -1 0 2 0 0 0 0 -2 4-4ring6.dat
+1 16 -36 0 0 0 1 0 4 0 0 0 0 4 4-4ring1.dat
+1 16 -36 0 0 0 1 0 4 0 0 0 0 4 4-4ring2.dat
+1 16 -36 0 0 0 1 0 2 0 0 0 0 2 4-4ring6.dat
+0

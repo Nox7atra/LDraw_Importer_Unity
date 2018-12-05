@@ -1,0 +1,14 @@
+0 Hi-Res Torus Outside  1 x 0.2000 x 1
+0 Name: 48\t01o2000.dat
+0 Author: Alex Taylor [anathema]
+0 !LDRAW_ORG 48_Primitive UPDATE 2012-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 48\t04o2000.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 48\t04o2000.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 48\t04o2000.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 48\t04o2000.dat

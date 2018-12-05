@@ -1,0 +1,33 @@
+0 Dish  8 x  8 Inverted
+0 Name: 3961.dat
+0 Author: Lutz Uhlmann [El-Lutzo]
+0 !LDRAW_ORG Part UPDATE 2010-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+0 !KEYWORDS Space, Radar Dish, Round
+
+0 !HISTORY 1999-05-17 [PTadmin] Official Update 1999-03
+0 !HISTORY 2003-06-08 [jriley] BFC compliant
+0 !HISTORY 2003-09-27 [OrionP] Moved guts to subpart
+0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
+0 !HISTORY 2007-06-30 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2010-05-09 [cwdee] Remove CATEGORY Round
+0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3961s01.dat
+
+1 16 0 3 0 20 0 0 0 -3 0 0 0 20 48\1-4con1.dat
+1 16 0 3 0 0 0 20 0 -3 0 -20 0 0 48\1-4con1.dat
+1 16 0 3 0 -20 0 0 0 -3 0 0 0 -20 48\1-4con1.dat
+1 16 0 3 0 0 0 -20 0 -3 0 20 0 0 48\1-4con1.dat
+1 16 0 9 0 20 0 0 0 -6 0 0 0 20 48\1-4con2.dat
+1 16 0 9 0 0 0 20 0 -6 0 -20 0 0 48\1-4con2.dat
+1 16 0 9 0 -20 0 0 0 -6 0 0 0 -20 48\1-4con2.dat
+1 16 0 9 0 0 0 -20 0 -6 0 20 0 0 48\1-4con2.dat
+1 16 0 16 0 20 0 0 0 -7 0 0 0 20 48\1-4con3.dat
+1 16 0 16 0 0 0 20 0 -7 0 -20 0 0 48\1-4con3.dat
+1 16 0 16 0 -20 0 0 0 -7 0 0 0 -20 48\1-4con3.dat
+1 16 0 16 0 0 0 -20 0 -7 0 20 0 0 48\1-4con3.dat
+0

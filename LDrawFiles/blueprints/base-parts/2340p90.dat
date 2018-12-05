@@ -1,0 +1,31 @@
+0 Tail  4 x  1 x  3 with Classic Space Logo Pattern
+0 Name: 2340p90.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LDRAW_ORG Part UPDATE 2014-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CW
+
+0 !HISTORY 2003-08-01 [PTadmin] Official Update 2003-02
+0 !HISTORY 2007-05-08 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2008-07-07 [nielsk]  Made BFC compliant (2005-11-04)
+0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
+0 !HISTORY 2013-08-10 [Steffen] replaced gold color by 82
+0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2340s01.dat
+4 16 -2 4 -20 -2 21 -37 -2 21 3 -2 4 20
+3 16 -2 64 -80 -2 45 -37 -2 21 -37
+4 16 -2 45 -37 -2 64 -80 -2 64 0 -2 45 3
+3 16 -2 45 3 -2 64 0 -2 4 20
+3 16 -2 21 3 -2 45 3 -2 4 20
+4 16 2 4 20 2 21 3 2 21 -37 2 4 -20
+3 16 2 21 -37 2 45 -37 2 64 -80
+4 16 2 45 3 2 64 0 2 64 -80 2 45 -37
+3 16 2 4 20 2 64 0 2 45 3
+3 16 2 4 20 2 45 3 2 21 3
+1 16 -2 21 -17 0 0 1 0 1 0 -1 0 0 s\3004p90a.dat
+1 16 2 21 -17 0 0 -1 0 1 0 1 0 0 s\3004p90a.dat
+1 82 -2 21 -17 0 0 1 0 1 0 -1 0 0 s\3004p90b.dat
+1 82 2 21 -17 0 0 -1 0 1 0 1 0 0 s\3004p90b.dat

@@ -1,0 +1,25 @@
+0 Tile  8 x  8 Round with  2 x  2 Studs and Grille Pattern
+0 Name: 6177ps1.dat
+0 Author: Steve Bliss [sbliss]
+0 !LDRAW_ORG Part UPDATE 2015-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+0 !KEYWORDS Star Wars, Episode 1, The Phantom Menace, Watto's Junkyard
+0 !KEYWORDS Pod Racer, engine intake, grate, vents, plate
+
+0 !HISTORY 2004-03-02 [PTadmin] Official Update 2004-01
+0 !HISTORY 2007-07-16 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2012-05-30 [cwdee]   Title change
+0 !HISTORY 2012-08-09 [PTadmin] Official Update 2012-02
+0 !HISTORY 2015-06-22 [MagFors] removed dithered colour, closed gaps
+0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6177s01.dat
+0 // pattern
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6177ps1a.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\6177ps1a.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\6177ps1a.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\6177ps1a.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 stug-2x2.dat

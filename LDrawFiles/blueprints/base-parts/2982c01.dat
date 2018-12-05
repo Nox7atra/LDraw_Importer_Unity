@@ -1,0 +1,14 @@
+0 Electric Light Sensor (Complete Assembly Shortcut)
+0 Name: 2982c01.dat
+0 Author: John Van Zwieten [jvan]
+0 !LDRAW_ORG Shortcut UPDATE 1999-05
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 1999-07-05 [PTadmin] Official Update 1999-05
+0 !HISTORY 2007-05-23 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+1 8 0 0 0 1 0 0 0 1 0 0 0 1 2982.DAT
+1 16 0 -24 0 1 0 0 0 1 0 0 0 1 880.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 881.dat
+0

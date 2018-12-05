@@ -1,0 +1,44 @@
+0 Door  1 x  3 x  3 Left with Window
+0 Name: 801.dat
+0 Author: Arne Hackstein
+0 !LDRAW_ORG Part UPDATE 1998-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 1998-03-23 [PTadmin] Official Update 1998-03
+0 !HISTORY 2007-07-23 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+ 1 47 0 72 0 6 0 0 0 0 0 0 0 6 4-4edge.dat
+ 2 24 6 72 10 6 72 50
+ 2 24 6 72 50 10 72 50
+ 2 24 10 72 50 10 72 0
+ 1 47 0 72 0 10 0 0 0 0 0 0 0 -10 3-4edge.dat
+ 2 24 0 72 10 6 72 10
+
+ 1 47 0 4 0 6 0 0 0 0 0 0 0 6 4-4edge.dat
+ 2 24 6 0 10 6 0 50
+ 2 24 6 0 50 10 0 50
+ 2 24 10 0 50 10 0 0
+ 1 47 0 0 0 10 0 0 0 0 0 0 0 -10 3-4edge.dat
+ 2 24 0 0 10 6 0 10
+
+ 2 24 6 0 10 6 72 10
+ 2 24 6 0 50 6 72 50
+ 2 24 10 0 50 10 72 50
+
+ 1 16 12 32 42 2 0 0 0 4 0 0 0 1 box.dat
+ 1 47 0 4 0 6 0 0 0 68 0 0 0 6 4-4cyli.dat
+ 1 47 0 4 0 6 0 0 0 0 0 0 0 6 4-4disc.dat
+
+ 4 47 6 72 10 6 0 10 6 0 50 6 72 50
+ 4 47 6 72 50 6 0 50 10 0 50 10 72 50
+ 4 47 10 24 0 10 0 0 10 0 50 10 24 50
+ 4 16 10 72 0 10 24 0 10 24 50 10 72 50
+ 1 47 0 0 0 10 0 0 0 24 0 0 0 -10 3-4cyli.dat
+ 1 16 0 24 0 10 0 0 0 48 0 0 0 -10 3-4cyli.dat
+
+ 1 47 0 0 0 10 0 0 0 0 0 0 0 -10 3-4disc.dat
+ 4 47 0 0 0 0 0 10 10 0 10 10 0 0
+ 4 47 6 0 10 6 0 50 10 0 50 10 0 10
+
+ 1 47 0 0 0 1 0 0 0 1 0 0 0 1 stud.dat

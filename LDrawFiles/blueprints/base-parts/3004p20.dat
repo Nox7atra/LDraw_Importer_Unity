@@ -1,0 +1,29 @@
+0 Brick  1 x  2 with White Down Arrow Pattern
+0 Name: 3004p20.dat
+0 Author: Tore Eriksson [Tore_Eriksson]
+0 !LDRAW_ORG Part UPDATE 2003-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 1997-09-29 [PTadmin] Official Update 1997-15
+0 !HISTORY 2003-06-08 [jriley] BFC compliant
+0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
+0 !HISTORY 2007-05-07 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3004s01.dat
+4 15 0 21 -10 9 12 -10 9 6 -10 3 12 -10
+4 15 0 21 -10 -3 12 -10 -9 6 -10 -9 12 -10
+3 15 0 21 -10 3 12 -10 -3 12 -10
+4 15 3 3 -10 -3 3 -10 -3 12 -10 3 12 -10
+4 16 -20 0 -10 -9 6 -10 -3 3 -10 0 0 -10
+3 16 0 0 -10 -3 3 -10 3 3 -10
+4 16 0 0 -10 3 3 -10 9 6 -10 20 0 -10
+4 16 20 0 -10 9 6 -10 9 12 -10 20 24 -10
+4 16 20 24 -10 9 12 -10 0 21 -10 0 24 -10
+4 16 0 24 -10 0 21 -10 -9 12 -10 -20 24 -10
+4 16 -20 24 -10 -9 12 -10 -9 6 -10 -20 0 -10
+3 16 -9 6 -10 -3 12 -10 -3 3 -10
+3 16 3 3 -10 3 12 -10 9 6 -10
+0

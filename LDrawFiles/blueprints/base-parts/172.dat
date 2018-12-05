@@ -1,0 +1,17 @@
+0 ~Technic Gearbox  4.5V Output Shaft
+0 Name: 172.dat
+0 Author: Ross Crawford [rosco]
+0 !LDRAW_ORG Part UPDATE 2009-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
+
+1 16 0 0 -59 1 0 0 0 0 1 0 5 0 axle.dat
+1 16 0 0 -49 1 0 0 0 0 1 0 9 0 axle.dat
+1 16 0 0 -40 6 0 0 0 0 6 0 1 0 4-4disc.dat
+1 16 0 0 -54 2.5 0 0 0 0 2.5 0 5 0 4-4cyli.dat
+1 16 0 0 -54 2.5 0 0 0 0 2.5 0 1 0 4-4edge.dat
+1 16 0 0 -49 2.5 0 0 0 0 2.5 0 1 0 4-4edge.dat
+0
+
+0

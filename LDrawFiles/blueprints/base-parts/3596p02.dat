@@ -1,0 +1,24 @@
+0 Flag on Flagpole Type 5 with LEGO Logo Closed "O" Pattern
+0 Name: 3596p02.dat
+0 Author: J.C. Tchang [tchang]
+0 !LDRAW_ORG Part UPDATE 2017-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CW
+
+0 !HISTORY 2011-12-13 [tchang] Suppress useless CATEGORY
+0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3596s01.dat
+0 //
+1 14 2 -132 34 0 0 -1 0 1 0 1 0 0 s\003432s1.dat
+4 4 2 -144.5 8 2 -119.5 8 2 -108 4 2 -156 4
+4 4 2 -119.5 60 2 -108 64 2 -108 4 2 -119.5 8
+4 4 2 -156 64 2 -108 64 2 -119.5 60 2 -144.5 60
+4 4 2 -156 4 2 -156 64 2 -144.5 60 2 -144.5 8
+0 //
+1 14 -2 -132 34 0 0 1 0 1 0 -1 0 0 s\003432s1.dat
+4 4 -2 -156 4 -2 -108 4 -2 -119.5 8 -2 -144.5 8
+4 4 -2 -119.5 8 -2 -108 4 -2 -108 64 -2 -119.5 60
+4 4 -2 -144.5 60 -2 -119.5 60 -2 -108 64 -2 -156 64
+4 4 -2 -144.5 8 -2 -144.5 60 -2 -156 64 -2 -156 4

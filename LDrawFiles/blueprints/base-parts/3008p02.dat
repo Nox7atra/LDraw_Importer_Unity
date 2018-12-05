@@ -1,0 +1,23 @@
+0 Brick  1 x  8 with Red Cross Lower Half Pattern
+0 Name: 3008p02.dat
+0 Author: Arne Hackstein
+0 !LDRAW_ORG Part UPDATE 2004-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 1998-03-23 [PTadmin] Official Update 1998-03
+0 !HISTORY 2004-03-11 [westrate] BFCed, subfiled
+0 !HISTORY 2004-09-15 [PTadmin] Official Update 2004-03
+0 !HISTORY 2007-06-06 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\3008s01.DAT
+4 16 18 6 10 18 0 10 80 0 10 80 24 10
+4 16 -80 0 10 -18 0 10 -18 6 10 -80 24 10
+4 16 6 18 10 6 6 10 18 6 10 80 24 10
+4 16 -18 6 10 -6 6 10 -6 18 10 -80 24 10
+4 16 -80 24 10 -6 18 10 6 18 10 80 24 10
+4 4 -18 6 10 -18 0 10 18 0 10 18 6 10
+4 4 -6 18 10 -6 6 10 6 6 10 6 18 10
+0

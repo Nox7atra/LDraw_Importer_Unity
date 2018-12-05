@@ -1,0 +1,21 @@
+0 Hi-Res Chord 0.3333
+0 Name: 48\1-3chrd.dat
+0 Author: Mark Kennedy [mkennedy]
+0 !LDRAW_ORG 48_Primitive UPDATE 2015-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2006-06-28 [WilliamH] changed to CCW
+0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+0 !HISTORY 2014-11-21 [roland] Auto-corrected with libfix version of LDCad 1.4
+0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+
+4 16 -.3827 0 .9239 -.5 0 .866 1 0 0 .9914 0 .1305
+4 16 -.2588 0 .9659 -.3827 0 .9239 .9914 0 .1305 .9659 0 .2588
+4 16 -.1305 0 .9914 -.2588 0 .9659 .9659 0 .2588 .9239 0 .3827
+4 16 0 0 1 -.1305 0 .9914 .9239 0 .3827 .866 0 .5
+4 16 .1305 0 .9914 0 0 1 .866 0 .5 .7934 0 .6088
+4 16 .2588 0 .9659 .1305 0 .9914 .7934 0 .6088 .7071 0 .7071
+4 16 .3827 0 .9239 .2588 0 .9659 .7071 0 .7071 .6088 0 .7934
+3 16 0.3827 0 0.9239 0.6088 0 0.7934 0.5 0 0.866

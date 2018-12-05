@@ -1,0 +1,13 @@
+0 Slope Brick 33  3 x  6 with SW ARC-170 Right Pattern
+0 Name: 3939ps2.dat
+0 Author: Taylor Bangs [DoomTay]
+0 !LDRAW_ORG Part UPDATE 2013-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CW
+
+0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3939s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3939ps1a.dat
+0

@@ -1,0 +1,18 @@
+0 Dish  6 x  6 Inverted with SW TIE Advanced Hatch Pattern
+0 Name: 44375p02.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2012-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Space, Radar Dish, Round, Star Wars
+
+0 !HISTORY 2012-08-09 [PTadmin] Official Update 2012-02
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\44375s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 stug2-2x2.dat
+1 16 0 0 0 0 0 1 0 1 0 -1 0 0 s\44375p02s01.dat
+1 16 0 0 0 0 0 -1 0 1 0 -1 0 0 s\44375p02s01.dat
+4 72 -17.6 3.047 -36 -20.4 3.42 -36 -20.4 4.66 -40.6 -17.6 4.287 -40.6
+4 16 17.6 4.287 -40.6 20.4 4.66 -40.6 20.4 3.42 -36 17.6 3.047 -36

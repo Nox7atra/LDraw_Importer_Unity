@@ -1,0 +1,30 @@
+0 Minifig Torso with Red on Bottom and Fringe Pattern
+0 Name: 973pwd.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LDRAW_ORG Part UPDATE 2012-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS wild west, indian, american native, western
+0 !KEYWORDS set 6746, set 6748, set 6766, set 6763
+
+0 !HISTORY 2012-08-09 [PTadmin] Official Update 2012-02
+
+0 // Torso without pattern
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
+
+0 // Back
+4 16 19 29 10 19 32 10 -19 32 10 -19 29 10
+4 16 -14.345 2 10 14.345 2 10 19 29 10 -19 29 10
+4 16 -14.345 2 10 -12 0 10 12 0 10 14.345 2 10
+
+0 // Neckmark
+1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
+
+0 // Pattern right
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973pwds1.dat
+
+0 // Pattern left
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\973pwds1.dat

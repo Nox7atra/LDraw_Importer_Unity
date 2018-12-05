@@ -1,0 +1,20 @@
+0 _Figure Fabuland Hippo  2 w Body Yellow/Red/Red Necklace Pat.
+0 Name: u9109p02c02.dat
+0 Author: Steffen [Steffen]
+0 !LDRAW_ORG Shortcut Physical_Colour UPDATE 2011-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Set 3622, Set 3662, Set 3675, Set 3798
+0 !KEYWORDS Hippopotamus, Hannah Hippopotamus, Nessie Nilpferd
+
+0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
+
+1 7 0 -67 4 1 0 0 0 1 0 0 0 1 u9109p02c01.dat
+1 14 0 -37 4 1 0 0 0 1 0 0 0 1 u9102p07.dat
+1 4 23 -63 4 1 0 0 0 1 0 0 0 1 u9101.dat
+1 4 -23 -63 4 -1 0 0 0 1 0 0 0 -1 u9101.dat
+1 4 -10 -37 4 1 0 0 0 1 0 0 0 1 u9100.dat
+1 4 10 -37 4 1 0 0 0 1 0 0 0 1 u9100.dat
+1 4 0 -37 4 1 0 0 0 1 0 0 0 1 u9103.dat

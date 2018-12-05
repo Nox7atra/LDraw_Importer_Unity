@@ -1,0 +1,28 @@
+0 Figure Friends Legs with Wrap-around Skirt with Blue Layer, Light Flesh Legs and Sandals with Ornamented Silver Straps Pattern
+0 Name: 11244p04.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2017-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HELP Hips Rotation point: Y=-47.4, Z=2.7
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\11244p04s01.dat
+1 1 0 0 0 1 0 0 0 1 0 0 0 1 s\11244p04s04.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\11244p04s05.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\11244p04s06.dat
+
+1 1 0 0 0 1 0 0 0 1 0 0 0 1 s\11244p04s02.dat
+
+1 78 0 0 0 1 0 0 0 1 0 0 0 1 s\11244s02.dat
+1 78 0 0 0 1 0 0 0 1 0 0 0 1 s\92252s03.dat
+1 78 0 0 0 1 0 0 0 1 0 0 0 1 s\11244p04s03.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\20380p01s03.dat
+
+1 78 0 0 0 -1 0 0 0 1 0 0 0 1 s\11244s02.dat
+1 78 0 0 0 -1 0 0 0 1 0 0 0 1 s\92252s03.dat
+1 78 0 0 0 -1 0 0 0 1 0 0 0 1 s\11244p04s03.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\20380p01s03.dat

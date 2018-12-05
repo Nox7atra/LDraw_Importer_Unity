@@ -1,0 +1,32 @@
+0 Minifig Torso with TV Logo Pattern Small
+0 Name: 973p1k.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LDRAW_ORG Part UPDATE 2005-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CW
+0 !KEYWORDS News, Crisis, 6553, Television, Helicopter, Cameraman, Reporter, Van
+
+0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
+0 !HISTORY 2007-07-28 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
+
+0 Neck mark
+1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4CYLI.DAT
+
+0 Plain back
+4 16 -19 32 10 19 32 10 19 29 10 -19 29 10
+4 16 14.345 2 10 -14.345 2 10 -19 29 10 19 29 10 
+4 16 12 0 10 -12 0 10 -14.345 2 10 14.345 2 10
+
+0 Patterned front
+1 16 6.898 15.925 -10 0.333 0 0 0 0 -0.333 0 1 0 s\71472s01.dat
+4 16 14.345 2 -10 -14.345 2 -10 -12 0 -10 12 0 -10 
+4 16 13.797 9.796 -10 0 9.796 -10 -14.345 2 -10 14.345 2 -10
+4 16 13.797 22.054 -10 13.797 9.796 -10 14.345 2 -10 19 29 -10
+4 16 19 29 -10 -19 29 -10 0 22.054 -10 13.797 22.054 -10 
+4 16 -19 29 -10 -14.345 2 -10 0 9.796 -10 0 22.054 -10 
+4 16 -19 29 -10 19 29 -10 19 32 -10 -19 32 -10 
+0
