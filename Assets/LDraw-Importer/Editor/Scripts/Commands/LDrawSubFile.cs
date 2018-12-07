@@ -48,10 +48,10 @@ namespace LDraw
 			var name = Path.GetFileNameWithoutExtension(args[14]);
 			_Model = LDrawModel.Create(name, LDrawConfig.Instance.GetPartPath(name));
 			_Matrix = new Matrix4x4(
-				new Vector4(param[3], param[4], param[5], param[0]),
-				new Vector4(param[6], param[7], param[8], param[1]),
-				new Vector4(param[9], param[10], param[11], param[2]),
-				new Vector4(0, 0, 0, 1)
+				new Vector4(param[3], param[6], param[9],  0),
+				new Vector4(param[4], param[7], param[10], 0),
+				new Vector4(param[5], param[8], param[11], 0),
+				new Vector4(param[0], param[1], param[2],  1)
 			);
 		}
 

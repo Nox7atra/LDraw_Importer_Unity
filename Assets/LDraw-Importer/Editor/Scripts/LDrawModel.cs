@@ -2,12 +2,13 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.IO;
+using System.Linq;
 using System.Text.RegularExpressions;
 using UnityEngine;
 
 namespace LDraw
 {
-    public partial class LDrawModel
+    public class LDrawModel
     {
         private const string FileFormatVersion = "1.0.2";
 
@@ -26,18 +27,7 @@ namespace LDraw
 
         private string _Name;
         private Material _Material;
-        private Mesh[] _Meshes;
-
-        public string Name
-        {
-            get { return _Name; }
-        }
-
-        public Mesh[] Meshes
-        {
-            get { return _Meshes; }
-        }
-
+        private bool _IsGenerateBackFace = true;
         private List<LDrawCommand> _Commands;
         private List<string> _SubModels;
 
@@ -46,7 +36,7 @@ namespace LDraw
 
         #region service methods
 
-        public void Init(string name, string path)
+        private void Init(string name, string path)
         {
             _Material = new Material(Shader.Find("Diffuse"));
             _Name = name;
@@ -73,10 +63,9 @@ namespace LDraw
             }
         }
 
-        public GameObject CreateMeshGameObject(Matrix4x4 hgsm, Transform parent = null)
+        public void CreateMeshGameObject(Matrix4x4 trs, Transform parent = null)
         {
-            if (_Commands.Count == 0)
-                return null;
+            if (_Commands.Count == 0) return;
             GameObject go = new GameObject(_Name);
 
             var triangles = new List<int>();
@@ -90,69 +79,68 @@ namespace LDraw
                 else
                 {
                     sfCommand.GetModelGameObject(go.transform);
-                    
                 }
             }
 
-            PrepareMeshes(verts, triangles);
-
-            for (int i = 0; i < _Meshes.Length; i++)
+            if (verts.Count > 0)
             {
-                var visualGO = new GameObject("mesh " + i);
+                var visualGO = new GameObject("mesh");
 
                 visualGO.transform.SetParent(go.transform);
                 var mf = visualGO.AddComponent<MeshFilter>();
 
-                mf.sharedMesh = _Meshes[i];
+                mf.sharedMesh = PrepareMesh(verts, triangles);
                 var mr = visualGO.AddComponent<MeshRenderer>();
 
                 mr.sharedMaterial = _Material;
-                visualGO.AddComponent<BoxCollider>();
             }
-
-            ;
-            go.transform.localPosition = hgsm.GetRow(3);
-            go.transform.localRotation = Quaternion.LookRotation(hgsm.GetRow(2), hgsm.GetRow(1));
-            go.transform.localScale = new Vector3(
-                hgsm.GetRow(0).magnitude,
-                hgsm.GetRow(1).magnitude,
-                hgsm.GetRow(2).magnitude);
+        
+            go.transform.position = trs.ExtractPosition();
+            go.transform.rotation = trs.ExtractRotation();
+            go.transform.localScale = trs.ExtractScale();
 
             go.transform.SetParent(parent);
-            return go;
         }
 
-        protected void PrepareMeshes(List<Vector3> verts, List<int> triangles)
+        private Mesh PrepareMesh(List<Vector3> verts, List<int> triangles)
         {
-            _Meshes = new Mesh[2];
-            _Meshes[0] = new Mesh();
-            _Meshes[0].name = _Name;
-            _Meshes[0].SetVertices(verts);
-            _Meshes[0].SetTriangles(triangles, 0);
-            _Meshes[0].RecalculateNormals();
-            _Meshes[0].RecalculateBounds();
+            var frontVertsCount = verts.Count;
+            Mesh mesh = new Mesh();
+      
+            mesh.name = _Name;
 
-            _Meshes[1] = Mesh.Instantiate(_Meshes[0]);
-            Vector3[] normals = _Meshes[1].normals;
-            for (int i = 0; i < normals.Length; i++)
-                normals[i] = -normals[i];
-            _Meshes[1].normals = normals;
-
-            for (int m = 0; m < _Meshes[1].subMeshCount; m++)
+            if (_IsGenerateBackFace)
             {
-                int[] tris = _Meshes[1].GetTriangles(m);
+                verts.AddRange(verts);
+                int[] tris = new int[triangles.Count];
+                triangles.CopyTo(tris);
                 for (int i = 0; i < tris.Length; i += 3)
                 {
-                    int temp = tris[i + 0];
-                    tris[i + 0] = tris[i + 1];
+                    int temp = tris[i];
+                    tris[i] = tris[i + 1];
                     tris[i + 1] = temp;
                 }
 
-                _Meshes[1].SetTriangles(tris, m);
+                for (int i = 0; i < tris.Length; i++)
+                {
+                    tris[i] = tris[i] + frontVertsCount;
+                }
+                triangles.AddRange(tris);
             }
+            
+            mesh.SetVertices(verts);
+            mesh.SetTriangles(triangles, 0);
+            
+            mesh.RecalculateNormals();
+            mesh.RecalculateBounds();
+            return mesh;
         }
 
         #endregion
 
+        private LDrawModel()
+        {
+            
+        }
     }
 }

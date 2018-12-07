@@ -11,5 +11,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c6d445e9bb880bd4f8a1a9fa07c7b1ce, type: 3}
   m_Name: Config
   m_EditorClassIdentifier: 
-  _BlueprintsPath: /LDrawFiles/blueprints/
-  _ColorConfigPath: /LDrawFiles/ldcfgalt.ldr
+  _BlueprintsPath: LDrawFiles/blueprints/
+  _ColorConfigPath: LDrawFiles/ldcfgalt.ldr
+  _Scale: 0.01

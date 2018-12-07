@@ -23,7 +23,6 @@ namespace LDraw
             if (Int32.TryParse(serialized[0].ToString(), out type))
             {
                 var commandType = (CommandType)type;
-                Debug.Log("Deserializing " + commandType);
                 switch (commandType)
                 {
                     case CommandType.SubFile:

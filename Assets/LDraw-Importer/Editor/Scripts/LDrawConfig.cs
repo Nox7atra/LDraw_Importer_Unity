@@ -8,28 +8,23 @@ public class LDrawConfig : ScriptableObject
 {
     [SerializeField] private string _BlueprintsPath;
     [SerializeField] private string _ColorConfigPath;
+    [SerializeField] private float _Scale;
     private Dictionary<string, string> _PartsPaths;
-
-    public Dictionary<string, string> PartsPaths
+    
+    public Matrix4x4 ScaleMatrix
     {
-        get { return _PartsPaths; }
+        get { return Matrix4x4.Scale(new Vector3(_Scale, _Scale, _Scale)); }
     }
-
-    public string BlueprintsPath
-    {
-        get { return _BlueprintsPath; }
-    }
-
 
     public string GetPartPath(string name)
     {
         InitParts();
-        return _PartsPaths[name];
+        Debug.Log(name);
+        return _PartsPaths[name.ToLower()];
     }
 
     private void InitParts()
     {
-        if(_PartsPaths != null) return;
         _PartsPaths = new Dictionary<string, string>();
         var files = Directory.GetFiles(_BlueprintsPath, "*.*", SearchOption.AllDirectories);
         
@@ -55,5 +50,5 @@ public class LDrawConfig : ScriptableObject
             return _Instance;
         }
     }
-    private const string ConfigPath = "/Assets/Editor/LDraw-Importer/Editor/Config.asset";
+    private const string ConfigPath = "Assets/LDraw-Importer/Editor/Config.asset";
 }

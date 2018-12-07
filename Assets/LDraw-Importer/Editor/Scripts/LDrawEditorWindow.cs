@@ -30,15 +30,20 @@ public class LDrawEditorWindow : EditorWindow
 
     private void OnGUI()
     {
+       
         _CurrentPart = GUILayout.TextField(_CurrentPart);
         GenerateModelButton();
+        
+        if (Event.current.Equals(Event.KeyboardEvent("#v")))
+            _CurrentPart = EditorGUIUtility.systemCopyBuffer;
     }
 
     private void GenerateModelButton()
     {
         if (GUILayout.Button("Generate"))
         {
-            LDrawModel.Create(_CurrentPart, LDrawConfig.Instance.GetPartPath(_CurrentPart));
+            var model = LDrawModel.Create(_CurrentPart, LDrawConfig.Instance.GetPartPath(_CurrentPart));
+            model.CreateMeshGameObject(LDrawConfig.Instance.ScaleMatrix);
         }
     }
     private const string PathToModels = "Assets/LDraw-Importer/Editor/base-parts/";
