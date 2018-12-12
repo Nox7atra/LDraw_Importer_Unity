@@ -31,7 +31,7 @@ namespace LDraw
         private List<LDrawCommand> _Commands;
         private List<string> _SubModels;
 
-
+        public static Dictionary<string, LDrawModel> Models = new Dictionary<string, LDrawModel>();
         #endregion
 
         #region service methods
@@ -61,11 +61,20 @@ namespace LDraw
 
                 counter++;
             }
+
+            if (Models.ContainsKey(_Name))
+            {
+                Models[_Name] = this;
+            }
+            else
+            {
+                Models.Add(_Name, this);
+            }
         }
 
-        public void CreateMeshGameObject(Matrix4x4 trs, Transform parent = null)
+        public GameObject CreateMeshGameObject(Matrix4x4 trs, Transform parent = null)
         {
-            if (_Commands.Count == 0) return;
+            if (_Commands.Count == 0) return null;
             GameObject go = new GameObject(_Name);
 
             var triangles = new List<int>();
@@ -94,14 +103,12 @@ namespace LDraw
 
                 mr.sharedMaterial = _Material;
             }
-        
-            go.transform.position = trs.ExtractPosition();
-            go.transform.rotation = trs.ExtractRotation();
-            go.transform.localScale = trs.ExtractScale();
+            
+            go.transform.ApplyLocalTRS(trs);
 
             go.transform.SetParent(parent);
+            return go;
         }
-
         private Mesh PrepareMesh(List<Vector3> verts, List<int> triangles)
         {
             var frontVertsCount = verts.Count;

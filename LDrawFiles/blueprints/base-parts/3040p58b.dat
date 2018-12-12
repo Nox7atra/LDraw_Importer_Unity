@@ -1,0 +1,17 @@
+0 ~Slope Brick 45 2 x 1 with Targetting Screen - Gold
+0 Name: s\3040p58b.dat
+0 Author: Orion Pobursky [OrionP]
+0 !LDRAW_ORG Subpart UPDATE 2004-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 2004-03-02 [PTadmin] Official Update 2004-01
+0 !HISTORY 2007-08-30 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+4 16 4.5 15.5563 -25.5563 4.5 15.9099 -25.9099 7.5 15.9099 -25.9099 7.5 15.5563 -25.5563
+4 16 5 16.2635 -26.2635 5 16.617 -26.617 8 16.617 -26.617 8 16.2635 -26.2635
+4 16 7.5 16.9706 -26.9706 7.5 17.3241 -27.3241 4.5 17.3241 -27.3241 4.5 16.9706 -26.9706
+4 16 -8 1.4142 -11.4142 -8 2.8284 -12.8284 -6 2.8284 -12.8284 -6 1.4142 -11.4142
+1 16 7 2.121 -12.121 1 0 0 0 0.7071 0.7071 0 0.7071 -0.7071 4-4disc.dat
+1 16 7 5.657 -15.657 1 0 0 0 0.7071 0.7071 0 0.7071 -0.7071 4-4disc.dat
+0

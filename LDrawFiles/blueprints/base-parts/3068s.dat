@@ -1,0 +1,18 @@
+0 ~Tile  2 x  2 without top face
+0 Name: s\3068s.dat
+0 Author: John Van Zwieten [jvan]
+0 !LDRAW_ORG Subpart UPDATE 1999-06
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 1999-12-31 [PTadmin] Official Update 1999-06
+0 !HISTORY 2007-08-30 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+1 16 0 4 0 1 0 0 0 -1 0 0 0 1 stud4.dat
+1 16 0 8 0 16 0 0 0 -4 0 0 0 16 box5.dat
+4 16 20 8 20 16 8 16 -16 8 16 -20 8 20
+4 16 20 8 -20 16 8 -16 -16 8 -16 -20 8 -20
+4 16 20 8 20 16 8 16 16 8 -16 20 8 -20
+4 16 -20 8 20 -16 8 16 -16 8 -16 -20 8 -20
+1 16 0 8 0 20 0 0 0 -8 0 0 0 20 box4.dat
+0

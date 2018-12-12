@@ -1,0 +1,28 @@
+0 ~Baseplate 32 x 32 Island with River Pattern
+0 Name: s\309p02a.dat
+0 Author: Imre Papp [ampi]
+0 !LDRAW_ORG Subpart UPDATE 2000-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
+0 !HISTORY 2007-08-30 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // 4-4edge.dat primitive modified  
+
+ 2 16 1 0 0 0.9239 0 0.3827
+ 2 16 0.9239 0 0.3827 0.7071 0 0.7071
+ 2 16 0.7071 0 0.7071 0.3827 0 0.9239
+ 2 16 0.3827 0 0.9239 0 0 1
+ 2 16 0 0 1 -0.3827 0 0.9239
+ 2 16 -0.3827 0 0.9239 -0.7071 0 0.7071
+ 2 16 -0.7071 0 0.7071 -0.9239 0 0.3827
+ 2 16 -0.9239 0 0.3827 -1 0 -0
+ 2 16 -1 0 -0 -0.9239 0 -0.3827
+ 2 16 -0.9239 0 -0.3827 -0.7071 0 -0.7071
+ 2 16 -0.7071 0 -0.7071 -0.3827 0 -0.9239
+ 2 16 -0.3827 0 -0.9239 0 0 -1
+ 2 16 0 0 -1 0.3827 0 -0.9239
+ 2 16 0.3827 0 -0.9239 0.7071 0 -0.7071
+ 2 16 0.7071 0 -0.7071 0.9239 0 -0.3827
+ 2 16 0.9239 0 -0.3827 1 0 0

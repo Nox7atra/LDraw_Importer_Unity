@@ -1,0 +1,21 @@
+0 ~Minifig Torso SW A-Wing Pilot - Silver Detail
+0 Name: s\973ps0a.dat
+0 Author: Franklin W. Cain [fwcain]
+0 !LDRAW_ORG Subpart UPDATE 2002-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04
+0 !HISTORY 2007-09-14 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+ 4 16 -7 10.500 -10 7 10.500 -10 8 13.500 -10 -8 13.500 -10
+0
+ 4 16 0 17.500 -10 -4 17.500 -10 -4 18.500 -10 0 18.500 -10
+0
+ 4 16 -12.250 28.500 -10 -17.750 28.500 -10 -18.500 29.500 -10 -11.500 29.500 -10
+ 4 16 -11.500 29.500 -10 -18.500 29.500 -10 -18.500 30.500 -10 -11.500 30.500 -10
+ 4 16 -11.500 30.500 -10 -18.500 30.500 -10 -17.750 31.500 -10 -12.250 31.500 -10
+0
+ 4 16 12.250 28.250 -10 14 28.250 -10 14 31.750 -10 12.250 31.750 -10
+0
+0 COMMENT end of file

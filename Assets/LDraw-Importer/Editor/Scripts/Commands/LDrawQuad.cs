@@ -28,7 +28,7 @@ namespace LDraw
 			for (int i = 0; i < indexes.Length; i++)
 			{
 				verts.Add(v[indexes[i]]);
-			}
+			} 
 		}
     
 		public override void Deserialize(string serialized)

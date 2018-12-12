@@ -1,0 +1,16 @@
+0 ~Minifig Torso with Blue and Mint Green Stripes Pattern - Green
+0 Name: s\973p2ea.dat
+0 Author: Chris Dee [cwdee]
+0 !LDRAW_ORG Subpart UPDATE 2004-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
+0 !HISTORY 2007-09-13 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+4 16 7.5 6 -10 15.035 6 -10 15.207 7 -10 6.75 7 -10
+4 16 -15.207 7 -10 -15.035 6 -10 -7.5 6 -10 -6.75 7 -10
+4 16 -16.414 14 -10 16.414 14 -10 16.586 15 -10 -16.586 15 -10
+4 16 -17.793 22 -10 17.793 22 -10 17.966 23 -10 -17.966 23 -10
+4 16 -19 30 -10 19 30 -10 19 31 -10 -19 31 -10
+0

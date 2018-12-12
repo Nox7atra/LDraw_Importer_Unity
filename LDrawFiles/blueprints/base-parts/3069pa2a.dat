@@ -1,0 +1,25 @@
+0 ~Tile  1 x  2 with Stingray Control Panel - Gold details
+0 Name: s\3069pa2a.dat
+0 Author: Franklin W. Cain [fwcain]
+0 !LDRAW_ORG Subpart UPDATE 2003-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 2003-03-12 [PTadmin] Official Update 2003-01
+0 !HISTORY 2007-08-30 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+ 4 16 -5.75 0 -5.375 5.75 0 -5.375 5.75 0 -10 -5.75 0 -10
+ 4 16 -5.75 0 5.375 5.75 0 5.375 5.75 0 10 -5.75 0 10
+0
+ 4 16 -4 0 -0.625 -4 0 0.625 -5.75 0 0.625 -5.75 0 -0.625
+ 4 16 4 0 -0.625 4 0 0.625 5.75 0 0.625 5.75 0 -0.625
+ 4 16 4 0 -2.375 4 0 -3.625 5.75 0 -3.625 5.75 0 -2.375
+ 4 16 -4 0 2.375 -4 0 3.625 -5.75 0 3.625 -5.75 0 2.375
+ 4 16 4 0 2.375 4 0 5.375 5.75 0 5.375 5.75 0 2.375
+ 4 16 -4 0 -2.375 -4 0 -5.375 -5.75 0 -5.375 -5.75 0 -2.375
+0
+ 4 16 -4 0 0.625 -4 0 -0.625 4 0 -3.625 4 0 -2.375
+ 4 16 4 0 -0.625 4 0 0.625 -4 0 3.625 -4 0 2.375
+ 3 16 -4 0 -2.375 -4 0 -5.375 4 0 -5.375
+ 3 16 4 0 2.375 4 0 5.375 -4 0 5.375
+0
