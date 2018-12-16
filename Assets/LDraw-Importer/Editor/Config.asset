@@ -4,7 +4,8 @@
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -14,3 +15,4 @@ MonoBehaviour:
   _BasePartsPath: LDrawFiles/blueprints/base-parts/
   _ColorConfigPath: LDrawFiles/ldcfgalt.ldr
   _Scale: 0.01
+  _DefaultMaterial: {fileID: 2100000, guid: d5ddcbb5d94685f4b9ba040a31cc17ce, type: 2}

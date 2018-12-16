@@ -15,7 +15,7 @@ namespace LDraw
 
 		public void GetModelGameObject(Transform parent)
 		{
-			_Model.CreateMeshGameObject(_Matrix, parent);
+			_Model.CreateMeshGameObject(_Matrix, LDrawConfig.Instance.GetColoredMaterial(_ColorCode), parent);
 		}
 
 		public override void PrepareMeshData(List<int> triangles, List<Vector3> verts)
@@ -28,7 +28,7 @@ namespace LDraw
 			var args = serialized.Split(' ');
 			float[] param = new float[12];
 
-			_Name = Path.GetFileNameWithoutExtension(GetFileName(args));
+			_Name = LDrawConfig.GetFileName(args, 14);
 
 			for (int i = 0; i < param.Length; i++)
 			{
@@ -44,8 +44,8 @@ namespace LDraw
 				}
 			}
 
-			_Model = LDrawModel.Models.ContainsKey(_Name) ? LDrawModel.Models[_Name] 
-				: LDrawModel.Create(_Name, LDrawConfig.Instance.GetModelPath(_Name));
+			_Model = LDrawModel.Create(_Name, LDrawConfig.Instance.GetSerializedPart(_Name));
+			
 			_Matrix = new Matrix4x4(
 				new Vector4(param[3], param[6], param[9],  0),
 				new Vector4(param[4], param[7], param[10], 0),
@@ -53,16 +53,7 @@ namespace LDraw
 				new Vector4(param[0], param[1], param[2],  1)
 			);
 		}
-		private string GetFileName(string[] args)
-		{
-			string name = string.Empty;
-			for (int i = 14; i < args.Length; i++)
-			{
-				name += args[i];
-			}
-
-			return name;
-		}
+		
 	}
 
 }

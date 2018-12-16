@@ -10,7 +10,7 @@ namespace LDraw
 {
     public class LDrawModel
     {
-        private const string FileFormatVersion = "1.0.2";
+        /// FileFormatVersion 1.0.2;
 
         #region factory
 
@@ -18,6 +18,7 @@ namespace LDraw
         {
             var model = new LDrawModel();
             model.Init(name, path);
+          
             return model;
         }
 
@@ -26,29 +27,24 @@ namespace LDraw
         #region fields and properties
 
         private string _Name;
-        private Material _Material;
         private bool _IsGenerateBackFace = true;
         private List<LDrawCommand> _Commands;
         private List<string> _SubModels;
-
-        public static Dictionary<string, LDrawModel> Models = new Dictionary<string, LDrawModel>();
         #endregion
 
         #region service methods
 
-        private void Init(string name, string path)
+        private void Init(string name, string serialized)
         {
-            _Material = new Material(Shader.Find("Diffuse"));
             _Name = name;
             _Commands = new List<LDrawCommand>();
             int counter = 0;
-            using (StreamReader reader = new StreamReader(path))
+            using (StringReader reader = new StringReader(serialized))
             {
                 string line;
                 while ((line = reader.ReadLine()) != null)
                 {
-                    RegexOptions options = RegexOptions.None;
-                    Regex regex = new Regex("[ ]{2,}", options);
+                    Regex regex = new Regex("[ ]{2,}", RegexOptions.None);
                     line = regex.Replace(line, " ").Trim();
 
                     if (!String.IsNullOrEmpty(line))
@@ -61,18 +57,9 @@ namespace LDraw
 
                 counter++;
             }
-
-            if (Models.ContainsKey(_Name))
-            {
-                Models[_Name] = this;
-            }
-            else
-            {
-                Models.Add(_Name, this);
-            }
         }
 
-        public GameObject CreateMeshGameObject(Matrix4x4 trs, Transform parent = null)
+        public GameObject CreateMeshGameObject(Matrix4x4 trs, Material mat = null, Transform parent = null)
         {
             if (_Commands.Count == 0) return null;
             GameObject go = new GameObject(_Name);
@@ -84,7 +71,9 @@ namespace LDraw
             {
                 var sfCommand = _Commands[i] as LDrawSubFile;
                 if (sfCommand == null)
+                {
                     _Commands[i].PrepareMeshData(triangles, verts);
+                }
                 else
                 {
                     sfCommand.GetModelGameObject(go.transform);
@@ -94,14 +83,13 @@ namespace LDraw
             if (verts.Count > 0)
             {
                 var visualGO = new GameObject("mesh");
-
                 visualGO.transform.SetParent(go.transform);
                 var mf = visualGO.AddComponent<MeshFilter>();
 
                 mf.sharedMesh = PrepareMesh(verts, triangles);
                 var mr = visualGO.AddComponent<MeshRenderer>();
 
-                mr.sharedMaterial = _Material;
+                mr.sharedMaterial = mat ? mat : LDrawConfig.Instance.GetColoredMaterial(LDrawConfig.DefaultMaterialCode);
             }
             
             go.transform.ApplyLocalTRS(trs);

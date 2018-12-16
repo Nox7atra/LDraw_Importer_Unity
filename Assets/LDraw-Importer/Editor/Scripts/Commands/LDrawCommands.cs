@@ -15,24 +15,30 @@ namespace LDraw
 
     public abstract class LDrawCommand
     {
+        protected int _ColorCode;
         protected LDrawModel _Parent;
-        public static LDrawCommand DeserializeCommand(string serialized, LDrawModel parent)
+        public static LDrawCommand DeserializeCommand(string line, LDrawModel parent)
         {
             LDrawCommand command = null;
             int type;
-            if (Int32.TryParse(serialized[0].ToString(), out type))
+            var args = line.Split(' ');
+            if (Int32.TryParse(args[0], out type))
             {
                 var commandType = (CommandType)type;
+             
                 switch (commandType)
                 {
                     case CommandType.SubFile:
                         command = new LDrawSubFile();
+                        command._ColorCode = Int32.Parse(args[1]);
                         break;
                     case CommandType.Triangle:
                         command = new LDrawTriangle();
+                        command._ColorCode = Int32.Parse(args[1]);
                         break;
                     case CommandType.Quad:
                         command = new LDrawQuad();
+                        command._ColorCode = Int32.Parse(args[1]);
                         break;
                 }
             }
@@ -40,7 +46,7 @@ namespace LDraw
             if (command != null)
             {
                 command._Parent = parent;
-                command.Deserialize(serialized);
+                command.Deserialize(line);
             }
 
             return command;
