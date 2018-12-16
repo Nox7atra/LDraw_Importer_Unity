@@ -16,6 +16,7 @@ namespace LDraw
 
         public static LDrawModel Create(string name, string path)
         {
+            if (_models.ContainsKey(name)) return _models[name];
             var model = new LDrawModel();
             model.Init(name, path);
           
@@ -27,9 +28,9 @@ namespace LDraw
         #region fields and properties
 
         private string _Name;
-        private bool _IsGenerateBackFace = true;
         private List<LDrawCommand> _Commands;
         private List<string> _SubModels;
+        private static Dictionary<string, LDrawModel> _models = new Dictionary<string, LDrawModel>();
         #endregion
 
         #region service methods
@@ -38,7 +39,6 @@ namespace LDraw
         {
             _Name = name;
             _Commands = new List<LDrawCommand>();
-            int counter = 0;
             using (StringReader reader = new StringReader(serialized))
             {
                 string line;
@@ -54,8 +54,11 @@ namespace LDraw
                             _Commands.Add(command);
                     }
                 }
+            }
 
-                counter++;
+            if (!_models.ContainsKey(name))
+            {
+                _models.Add(name, this);
             }
         }
 
@@ -80,6 +83,15 @@ namespace LDraw
                 }
             }
 
+            if (mat != null)
+            {
+                var childMrs = go.transform.GetComponentsInChildren<MeshRenderer>();
+                foreach (var meshRenderer in childMrs)
+                {
+                    meshRenderer.material = mat;
+                }
+            }
+      
             if (verts.Count > 0)
             {
                 var visualGO = new GameObject("mesh");
@@ -88,8 +100,11 @@ namespace LDraw
 
                 mf.sharedMesh = PrepareMesh(verts, triangles);
                 var mr = visualGO.AddComponent<MeshRenderer>();
-
-                mr.sharedMaterial = mat ? mat : LDrawConfig.Instance.GetColoredMaterial(LDrawConfig.DefaultMaterialCode);
+                if (mat != null)
+                {
+                    mr.sharedMaterial = mat;
+                  
+                }
             }
             
             go.transform.ApplyLocalTRS(trs);
@@ -98,39 +113,43 @@ namespace LDraw
             return go;
         }
         private Mesh PrepareMesh(List<Vector3> verts, List<int> triangles)
-        {
-            var frontVertsCount = verts.Count;
-            Mesh mesh = new Mesh();
+        {  
+            
+            Mesh mesh = LDrawConfig.Instance.GetMesh(_Name);
+            if (mesh != null) return mesh;
+            
+          
+            mesh = new Mesh();
       
             mesh.name = _Name;
-
-            if (_IsGenerateBackFace)
+            var frontVertsCount = verts.Count;
+            //backface
+            verts.AddRange(verts);
+            int[] tris = new int[triangles.Count];
+            triangles.CopyTo(tris);
+            for (int i = 0; i < tris.Length; i += 3)
             {
-                verts.AddRange(verts);
-                int[] tris = new int[triangles.Count];
-                triangles.CopyTo(tris);
-                for (int i = 0; i < tris.Length; i += 3)
-                {
-                    int temp = tris[i];
-                    tris[i] = tris[i + 1];
-                    tris[i + 1] = temp;
-                }
-
-                for (int i = 0; i < tris.Length; i++)
-                {
-                    tris[i] = tris[i] + frontVertsCount;
-                }
-                triangles.AddRange(tris);
+                int temp = tris[i];
+                tris[i] = tris[i + 1];
+                tris[i + 1] = temp;
             }
+
+            for (int i = 0; i < tris.Length; i++)
+            {
+                tris[i] = tris[i] + frontVertsCount;
+            }
+            triangles.AddRange(tris);
+            //end backface
             
             mesh.SetVertices(verts);
             mesh.SetTriangles(triangles, 0);
             
             mesh.RecalculateNormals();
             mesh.RecalculateBounds();
+            LDrawConfig.Instance.SaveMesh(mesh);
             return mesh;
         }
-
+  
         #endregion
 
         private LDrawModel()
