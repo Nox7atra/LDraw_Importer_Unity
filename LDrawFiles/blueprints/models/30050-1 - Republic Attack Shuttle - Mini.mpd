@@ -1,0 +1,143 @@
+0 FILE 30050 - Republic Attack Shuttle.ldr
+0 Republic Attack Shuttle
+0 Name: 30050 - Republic Attack Shuttle.ldr
+0 Author: Jude Parrill
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Star Wars
+0 !KEYWORDS Star Wars,  Space,  MINI,  Prequel,  Republic
+0 !KEYWORDS Attack Shuttle
+
+0 !HISTORY 2011-12-29 [theJudeAbides] Initial file created.
+0 !HISTORY 2016-02-22 [legolijntje] Updated ~moved references
+
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 30050 - m-1.ldr
+
+0 FILE 30050 - m-1.ldr
+0 m-1
+0 Name: 30050 - m-1.ldr
+0 Author: Jude Parrill
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !THEME Star Wars
+0 !KEYWORDS Star Wars,  Space,  MINI,  Prequel,  Republic
+0 !KEYWORDS Attack Shuttle
+0 !HISTORY 2011-12-29 [theJudeAbides] Initial file created.
+0 ROTSTEP 35 125 0 ABS
+1 15 -30 0 0 0 0 1 0 1 0 -1 0 0 3020.dat
+1 15 10 0 0 0 0 1 0 1 0 -1 0 0 3020.dat
+0 STEP
+1 15 -10 -8 -10 0 0 1 0 1 0 -1 0 0 3021.dat
+1 4 -40 -8 -30 0 0 1 0 1 0 -1 0 0 4081b.dat
+1 4 20 -8 -30 0 0 -1 0 1 0 1 0 0 4081b.dat
+1 15 20 -8 20 0 0 -1 0 1 0 1 0 0 60470a.dat
+1 15 -40 -8 20 0 0 1 0 1 0 -1 0 0 60470a.dat
+0 STEP
+1 15 -30 -16 20 0 0 1 0 1 0 -1 0 0 3020.dat
+1 15 10 -16 20 0 0 1 0 1 0 -1 0 0 3020.dat
+1 15 -10 -16 -30 1 0 0 0 1 0 0 0 1 3710.dat
+0 STEP
+1 15 -60 -6 64 1 0 0 0 0 -1 0 1 0 3957a.dat
+1 15 40 -6 64 1 0 0 0 0 -1 0 1 0 3957a.dat
+1 43 -60 -6 72 1 0 0 0 0 -1 0 1 0 6141.dat
+1 43 40 -6 72 1 0 0 0 0 -1 0 1 0 6141.dat
+0 STEP
+1 0 -10 -24 -30 1 0 0 0 1 0 0 0 1 2436a.dat
+1 0 -10 -24 50 -1 0 0 0 1 0 0 0 -1 2436a.dat
+1 320 -40 -16 -30 0 0 1 0 1 0 -1 0 0 54200.dat
+1 320 20 -16 -30 0 0 -1 0 1 0 1 0 0 54200.dat
+1 15 20 -16 50 0 0 -1 0 1 0 1 0 0 54200.dat
+1 15 -40 -16 50 0 0 1 0 1 0 -1 0 0 54200.dat
+0 STEP
+1 15 -30 -24 10 0 0 1 0 1 0 -1 0 0 3021.dat
+1 15 10 -24 10 0 0 1 0 1 0 -1 0 0 3021.dat
+1 43 -40 -14 72 0 0 1 -1 0 0 0 -1 0 6141.dat
+1 43 -20 -14 72 0 0 1 -1 0 0 0 -1 0 6141.dat
+1 43 0 -14 72 0 0 1 -1 0 0 0 -1 0 6141.dat
+1 43 20 -14 72 0 0 1 -1 0 0 0 -1 0 6141.dat
+0 STEP
+0 ROTSTEP 35 55 0 ABS
+1 15 -10 -32 -10 0 0 1 0 1 0 -1 0 0 3021.dat
+1 15 -10 -32 40 0 0 1 0 1 0 -1 0 0 3022.dat
+1 4 -60 -6 -42 -1 0 0 0 0 1 0 1 0 4592.dat
+1 4 40 -6 -42 -1 0 0 0 0 1 0 1 0 4592.dat
+1 0 -60 -6 -42 -1 0 0 0 0 1 0 1 0 4593.dat
+1 0 40 -6 -42 -1 0 0 0 0 1 0 1 0 4593.dat
+0 STEP
+1 15 -10 -40 50 -1 0 0 0 1 0 0 0 -1 3794a.dat
+1 15 -10 -40 30 -1 0 0 0 1 0 0 0 -1 3794a.dat
+1 15 -10 -40 10 -1 0 0 0 1 0 0 0 -1 3794a.dat
+1 15 -10 -40 -10 -1 0 0 0 1 0 0 0 -1 3794a.dat
+1 4 -10 -40 -30 1 0 0 0 1 0 0 0 1 2540.dat
+0 STEP
+1 15 -10 -48 40 0 0 1 0 1 0 -1 0 0 3710.dat
+1 320 -10 -40 -10 1 0 0 0 1 0 0 0 1 54200.dat
+1 15 -10 -56 40 0 0 1 0 1 0 -1 0 0 2431.dat
+0 STEP
+1 15 -10 -38 -50 1 0 0 0 0.939693 -0.34202 0 0.34202 0.939693 30050 - m-1a.ldr
+0 STEP
+0 ROTSTEP 35 -45 0 ABS
+1 15 -60 -6 30 0 -1 0 1 0 0 0 0 1 30050 - m-1b.ldr
+0 STEP
+0 ROTSTEP 35 55 0 ABS
+1 15 40 -6 30 0 1 0 -1 0 0 0 0 1 30050 - m-1c.ldr
+
+0 FILE 30050 - m-1a.ldr
+0 m-1a
+0 Name: 30050 - m-1a.ldr
+0 Author: Jude Parrill
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !THEME Star Wars
+0 !KEYWORDS Star Wars,  Space,  MINI,  Prequel,  Republic
+0 !KEYWORDS Attack Shuttle
+0 !HISTORY 2011-12-29 [theJudeAbides] Initial file created.
+0 ROTSTEP 35 55 0 ABS
+1 0 0 -2 -20 -1 0 0 0 1 0 0 0 -1 6019.dat
+1 71 0 6 -30 1 0 0 0 1 0 0 0 1 4595.dat
+0 STEP
+1 320 0 16 -66 1 0 0 0 0 1 0 -1 0 3024.dat
+1 320 0 -2 -50 0 0 -1 0 1 0 1 0 0 3023.dat
+0 STEP
+1 47 0 -2 -40 1 0 0 0 1 0 0 0 1 54200.dat
+1 320 0 -2 -20 -1 0 0 0 1 0 0 0 -1 54200.dat
+0 STEP
+1 15 18 2 -40 0 -1 0 1 0 0 0 0 1 43722.dat
+1 15 -18 2 -40 0 1 0 -1 0 0 0 0 1 43723.dat
+
+0 FILE 30050 - m-1b.ldr
+0 m-1b
+0 Name: 30050 - m-1b.ldr
+0 Author: Jude Parrill
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !THEME Star Wars
+0 !KEYWORDS Star Wars,  Space,  MINI,  Prequel,  Republic
+0 !KEYWORDS Attack Shuttle
+0 !HISTORY 2011-12-29 [theJudeAbides] Initial file created.
+0 ROTSTEP 35 -45 0 ABS
+1 320 -70 14 10 0 0 1 0 1 0 -1 0 0 54384.dat
+0 STEP
+1 15 -30 6 0 1 0 0 0 1 0 0 0 1 41769.dat
+1 14 -60 6 30 1 0 0 0 1 0 0 0 1 3070b.dat
+0 STEP
+1 15 -20 -2 0 0 0 -1 0 1 0 1 0 0 60470a.dat
+
+0 FILE 30050 - m-1c.ldr
+0 m-1c
+0 Name: 30050 - m-1c.ldr
+0 Author: Jude Parrill
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !THEME Star Wars
+0 !KEYWORDS Star Wars,  Space,  MINI,  Prequel,  Republic
+0 !KEYWORDS Attack Shuttle
+0 !HISTORY 2011-12-29 [theJudeAbides] Initial file created.
+0 ROTSTEP 35 55 0 ABS
+1 320 70 14 10 0 0 -1 0 1 0 1 0 0 54383.dat
+0 STEP
+1 15 30 6 0 1 0 0 0 1 0 0 0 1 41770.dat
+1 14 60 6 30 1 0 0 0 1 0 0 0 1 3070b.dat
+0 STEP
+1 15 20 -2 0 0 0 1 0 1 0 -1 0 0 60470a.dat

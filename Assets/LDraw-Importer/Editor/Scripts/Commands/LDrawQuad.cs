@@ -12,7 +12,7 @@ namespace LDraw
 			var v = _Verts;
 			var nA = Vector3.Cross(v[1] - v[0], v[2] - v[0]);
 			var nB = Vector3.Cross(v[1] - v[0], v[2] - v[0]);
-    
+		
 			var vertLen = verts.Count;
 			triangles.AddRange(new[]
 			{
@@ -23,12 +23,12 @@ namespace LDraw
 				vertLen + 3,
 				vertLen + 2
 			});
-                
+				
 			var indexes = Vector3.Dot(nA, nB) > 0 ? new int[] {0, 1, 3, 2} : new int[] {0, 1, 2, 3};
 			for (int i = 0; i < indexes.Length; i++)
 			{
 				verts.Add(v[indexes[i]]);
-			} 
+			}
 		}
     
 		public override void Deserialize(string serialized)

@@ -1,0 +1,69 @@
+0 FILE 30053 - Republic Attack Cruiser.ldr
+0 Republic Attack Cruiser
+0 Name: 30053 - Republic Attack Cruiser.ldr
+0 Author: Jude Parrill
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Star Wars
+0 !KEYWORDS Star Wars, Space, MINI, Prequel, Republic, Attack Cruiser
+
+0 !HISTORY 2011-12-20 [theJudeAbides] Initial file created.
+0 !HISTORY 2016-02-22 [legolijntje] Updated ~moved references
+
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 30053 - Mini Cruiser.ldr
+
+0 FILE 30053 - Mini Cruiser.ldr
+0 Mini Cruiser
+0 Name: 30053 - Mini Cruiser.ldr
+0 Author: Jude Parrill
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 ROTSTEP 35 55 0 ABS
+1 72 0 0 0 0 0 1 0 1 0 -1 0 0 3034.dat
+1 72 -10 -8 70 0 0 1 0 1 0 -1 0 0 4081b.dat
+1 72 10 -8 70 0 0 -1 0 1 0 1 0 0 4081b.dat
+0 STEP
+1 71 0 -8 30 1 0 0 0 1 0 0 0 1 2419.dat
+1 71 0 -8 -20 -1 0 0 0 1 0 0 0 -1 51739.dat
+1 71 -20 -8 -80 1 0 0 0 1 0 0 0 1 41769.dat
+1 71 20 -8 -80 1 0 0 0 1 0 0 0 1 41770.dat
+1 71 0 -16 70 -1 0 0 0 1 0 0 0 -1 2436a.dat
+0 STEP
+1 71 0 -16 -70 -1 0 0 0 1 0 0 0 -1 3794a.dat
+1 71 0 -16 -50 -1 0 0 0 1 0 0 0 -1 3794a.dat
+1 71 0 -16 -30 -1 0 0 0 1 0 0 0 -1 3794a.dat
+1 71 0 -16 -10 -1 0 0 0 1 0 0 0 -1 3794a.dat
+1 71 0 -16 10 -1 0 0 0 1 0 0 0 -1 3794a.dat
+1 0 0 -16 40 -1 0 0 0 1 0 0 0 -1 4032b.dat
+1 320 -30 -16 40 0 0 -1 0 1 0 1 0 0 2412b.dat
+1 320 30 -16 40 0 0 -1 0 1 0 1 0 0 2412b.dat
+1 72 -30 -6 92 -1 0 0 0 0 -1 0 -1 0 6141.dat
+1 72 30 -6 92 -1 0 0 0 0 -1 0 -1 0 6141.dat
+1 72 -10 -6 108 -1 0 0 0 0 -1 0 -1 0 3062b.dat
+1 72 10 -6 108 -1 0 0 0 0 -1 0 -1 0 3062b.dat
+0 STEP
+1 43 -30 -6 100 -1 0 0 0 0 -1 0 -1 0 6141.dat
+1 43 -10 -6 116 -1 0 0 0 0 -1 0 -1 0 6141.dat
+1 43 10 -6 116 -1 0 0 0 0 -1 0 -1 0 6141.dat
+1 43 30 -6 100 -1 0 0 0 0 -1 0 -1 0 6141.dat
+1 71 0 -24 70 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 0 -24 40 1 0 0 0 1 0 0 0 1 3022.dat
+1 71 0 -24 0 0 0 1 0 1 0 -1 0 0 3023.dat
+1 320 0 -24 -50 0 0 1 0 1 0 -1 0 0 63864.dat
+0 STEP
+1 71 0 -16 -90 -1 0 0 0 1 0 0 0 -1 3794a.dat
+1 71 0 -16 -110 -1 0 0 0 1 0 0 0 -1 3794a.dat
+1 71 0 -32 30 -1 0 0 0 1 0 0 0 -1 3794a.dat
+1 71 0 -32 50 -1 0 0 0 1 0 0 0 -1 3794a.dat
+1 71 0 -32 90 0 0 -1 0 1 0 1 0 0 3623.dat
+0 STEP
+1 71 0 -40 50 0 0 -1 0 1 0 1 0 0 3623.dat
+1 72 0 -24 0 1 0 0 0 1 0 0 0 1 61409.dat
+1 320 0 -24 -110 0 0 1 0 1 0 -1 0 0 63864.dat
+1 71 0 -16 -130 0 0 1 0 1 0 -1 0 0 3024.dat
+0 STEP
+1 71 0 -40 30 1 0 0 0 1 0 0 0 1 54200.dat
+1 71 0 -32 90 -1 0 0 0 1 0 0 0 -1 54200.dat
+1 71 0 -64 50 -1 0 0 0 1 0 0 0 -1 3040b.dat
+1 72 0 -68 50 1 0 0 0 1 0 0 0 1 30162.dat

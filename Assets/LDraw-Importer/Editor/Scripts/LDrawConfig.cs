@@ -23,8 +23,9 @@ namespace LDraw
         private Dictionary<string, string> _Parts;
         private Dictionary<string, string> _Models;
         
-        private Dictionary<int, Material> _Colors;
-
+        private Dictionary<int, Material> _MainColors;
+        private Dictionary<string, Material> _CustomColors;
+        private Dictionary<string, string> _ModelFileNames;
         public Matrix4x4 ScaleMatrix
         {
             get { return Matrix4x4.Scale(new Vector3(_Scale, _Scale, _Scale)); }
@@ -32,12 +33,41 @@ namespace LDraw
 
         public Material GetColoredMaterial(int code)
         {
-            return _Colors[code];
+            return _MainColors[code];
+        }
+        public Material GetColoredMaterial(string colorString)
+        {
+            if (_CustomColors.ContainsKey(colorString))
+                return _CustomColors[colorString];
+            var path = _MaterialsPath + colorString + ".mat";
+            if (File.Exists(path))
+            {
+                _CustomColors.Add(colorString, AssetDatabase.LoadAssetAtPath<Material>(path));
+            }
+            else
+            {
+                var mat = new Material(_DefaultOpaqueMaterial);
+                 
+                mat.name = colorString;
+                Color color;
+                if (ColorUtility.TryParseHtmlString(colorString, out color))
+                    mat.color = color;
+                            
+                AssetDatabase.CreateAsset(mat, path);
+                AssetDatabase.SaveAssets();
+                _CustomColors.Add(colorString, mat);
+            }
+
+            return _CustomColors[colorString];
+        }
+        public string[] ModelFileNames
+        {
+            get { return _ModelFileNames.Keys.ToArray(); }
         }
 
-        public string[] ModelNames
+        public string GetModelByFileName(string modelFileName)
         {
-            get { return _Models.Keys.ToArray(); }
+            return _ModelFileNames[modelFileName];
         }
         public string GetSerializedPart(string name)
         {
@@ -48,7 +78,7 @@ namespace LDraw
                 var serialized = _Parts.ContainsKey(name) ? File.ReadAllText(_Parts[name]) : _Models[name]; 
                 return serialized;
             }
-            catch (Exception e)
+            catch
             {
                 Debug.Log("http://www.ldraw.org/library/tracker/");
                 EditorUtility.DisplayDialog("Error!", "Missing part or wrong part " + name 
@@ -79,7 +109,7 @@ namespace LDraw
 
         private void ParseColors()
         {
-            _Colors = new Dictionary<int, Material>();
+            _MainColors = new Dictionary<int, Material>();
             using (StreamReader reader = new StreamReader(_ColorConfigPath))
             {
                 string line;
@@ -93,7 +123,7 @@ namespace LDraw
                         var path =_MaterialsPath + args[2] + ".mat";
                         if (File.Exists(path))
                         {
-                            _Colors.Add(int.Parse(args[4]), AssetDatabase.LoadAssetAtPath<Material>(path));
+                            _MainColors.Add(int.Parse(args[4]), AssetDatabase.LoadAssetAtPath<Material>(path));
                         }
                         else
                         {
@@ -107,7 +137,7 @@ namespace LDraw
                                     : color;
                             
                                 AssetDatabase.CreateAsset(mat, path);
-                                _Colors.Add(int.Parse(args[4]), mat);
+                                _MainColors.Add(int.Parse(args[4]), mat);
                             }
                         }
                     
@@ -119,6 +149,7 @@ namespace LDraw
         
         private void PrepareModels()
         {
+            _ModelFileNames = new Dictionary<string, string>();
             var files = Directory.GetFiles(_ModelsPath, "*.*", SearchOption.AllDirectories);
             _Models = new Dictionary<string, string>();
             foreach (var file in files)
@@ -127,7 +158,8 @@ namespace LDraw
                 {
                     string line;
                     string filename = String.Empty;
-          
+
+                    bool isFirst = true;
                     while ((line = reader.ReadLine()) != null)
                     {
                         Regex regex = new Regex("[ ]{2,}", RegexOptions.None);
@@ -135,7 +167,14 @@ namespace LDraw
                         var args = line.Split(' ');
                         if (args.Length  > 1 && args[1] == "FILE")
                         {
+                           
                             filename = GetFileName(args, 2);
+                            if (isFirst)
+                            {
+                                _ModelFileNames.Add(Path.GetFileNameWithoutExtension(file), filename);
+                                isFirst = false;
+                            }
+                            
                             if(_Models.ContainsKey(filename))
                                 filename = String.Empty;
                             else
@@ -178,7 +217,16 @@ namespace LDraw
 
             return Path.GetFileNameWithoutExtension(name).ToLower();
         }
-        
+        public static string GetExtension(string[] args, int filenamePos)
+        {
+            string name = string.Empty;
+            for (int i = filenamePos; i < args.Length; i++)
+            {
+                name += args[i] + ' ';
+            }
+         
+            return Path.GetExtension(name).Trim();
+        }
         private static LDrawConfig _Instance;
 
         public static LDrawConfig Instance

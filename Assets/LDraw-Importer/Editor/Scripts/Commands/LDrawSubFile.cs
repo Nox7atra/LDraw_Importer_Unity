@@ -1,7 +1,5 @@
 ﻿using System;
-using System.Collections;
 using System.Collections.Generic;
-using System.IO;
 using UnityEngine;
 
 namespace LDraw
@@ -10,17 +8,18 @@ namespace LDraw
 	public class LDrawSubFile : LDrawCommand
 	{
 		private string _Name;
+		private string _Extension;
 		private Matrix4x4 _Matrix;
 		private LDrawModel _Model;
 
 		public void GetModelGameObject(Transform parent)
 		{
-			_Model.CreateMeshGameObject(_Matrix, LDrawConfig.Instance.GetColoredMaterial(_ColorCode), parent);
+			_Model.CreateMeshGameObject(_Matrix, GetMaterial(), parent);
 		}
 
 		public override void PrepareMeshData(List<int> triangles, List<Vector3> verts)
 		{
-			
+			 
 		}
 
 		public override void Deserialize(string serialized)
@@ -29,7 +28,7 @@ namespace LDraw
 			float[] param = new float[12];
 
 			_Name = LDrawConfig.GetFileName(args, 14);
-
+			_Extension = LDrawConfig.GetExtension(args, 14);
 			for (int i = 0; i < param.Length; i++)
 			{
 				int argNum = i + 2;
@@ -52,6 +51,14 @@ namespace LDraw
 				new Vector4(param[5], param[8], param[11], 0),
 				new Vector4(param[0], param[1], param[2],  1)
 			);
+		}
+
+		private Material GetMaterial()
+		{
+			if(_Extension == ".ldr") return  null;
+			if (_ColorCode > 0) return LDrawConfig.Instance.GetColoredMaterial(_ColorCode);
+			if (_Color != null) return LDrawConfig.Instance.GetColoredMaterial(_Color);
+			return LDrawConfig.Instance.GetColoredMaterial(0);
 		}
 		
 	}

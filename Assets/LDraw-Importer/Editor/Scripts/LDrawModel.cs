@@ -31,6 +31,11 @@ namespace LDraw
         private List<LDrawCommand> _Commands;
         private List<string> _SubModels;
         private static Dictionary<string, LDrawModel> _models = new Dictionary<string, LDrawModel>();
+        
+        public string Name
+        {
+            get { return _Name; }
+        }
         #endregion
 
         #region service methods
@@ -66,10 +71,10 @@ namespace LDraw
         {
             if (_Commands.Count == 0) return null;
             GameObject go = new GameObject(_Name);
-
+        
             var triangles = new List<int>();
             var verts = new List<Vector3>();
-
+        
             for (int i = 0; i < _Commands.Count; i++)
             {
                 var sfCommand = _Commands[i] as LDrawSubFile;
@@ -82,7 +87,7 @@ namespace LDraw
                     sfCommand.GetModelGameObject(go.transform);
                 }
             }
-
+        
             if (mat != null)
             {
                 var childMrs = go.transform.GetComponentsInChildren<MeshRenderer>();
@@ -91,13 +96,13 @@ namespace LDraw
                     meshRenderer.material = mat;
                 }
             }
-      
+        
             if (verts.Count > 0)
             {
                 var visualGO = new GameObject("mesh");
                 visualGO.transform.SetParent(go.transform);
                 var mf = visualGO.AddComponent<MeshFilter>();
-
+        
                 mf.sharedMesh = PrepareMesh(verts, triangles);
                 var mr = visualGO.AddComponent<MeshRenderer>();
                 if (mat != null)
@@ -108,7 +113,7 @@ namespace LDraw
             }
             
             go.transform.ApplyLocalTRS(trs);
-
+        
             go.transform.SetParent(parent);
             return go;
         }

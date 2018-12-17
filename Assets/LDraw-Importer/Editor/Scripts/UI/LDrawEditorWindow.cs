@@ -20,7 +20,7 @@ namespace LDraw
 
         private void OnEnable()
         {
-            _ModelNames = LDrawConfig.Instance.ModelNames;
+            _ModelNames = LDrawConfig.Instance.ModelFileNames;
         }
 
         private void OnGUI()
@@ -29,7 +29,7 @@ namespace LDraw
             if (GUILayout.Button("Update blueprints"))
             {
                 LDrawConfig.Instance.InitParts();
-                _ModelNames = LDrawConfig.Instance.ModelNames;
+                _ModelNames = LDrawConfig.Instance.ModelFileNames;
             }
             _CurrentType = (GeneratingType) EditorGUILayout.EnumPopup("Blueprint Type", _CurrentType);
             switch (_CurrentType)
@@ -49,7 +49,8 @@ namespace LDraw
         {
             if (GUILayout.Button("Generate"))
             {
-                _CurrentPart = _CurrentType == GeneratingType.ByName ? _CurrentPart : _ModelNames[_CurrentIndex]; 
+                _CurrentPart = _CurrentType == GeneratingType.ByName ? _CurrentPart 
+                    : LDrawConfig.Instance.GetModelByFileName(_ModelNames[_CurrentIndex]); 
                 // good test 949ac01
                 var model = LDrawModel.Create(_CurrentPart, LDrawConfig.Instance.GetSerializedPart(_CurrentPart));
                 var go = model.CreateMeshGameObject(LDrawConfig.Instance.ScaleMatrix);

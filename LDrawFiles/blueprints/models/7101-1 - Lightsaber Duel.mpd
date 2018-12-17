@@ -1,0 +1,158 @@
+0 FILE 7101 - Lightsaber Duel.ldr
+0 Lightsaber Duel
+0 Name: 7101 - Lightsaber Duel.ldr
+0 Author: Daniel Goerner [TK-949]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Star Wars
+0 !KEYWORDS Episode I, Qui-Gon Jinn, Darth Maul
+
+0 !HISTORY 2012-04-14 [TK-949] Creation
+0 !HISTORY 2016-02-21 [legolijntje] Updated ~moved files and swapped inlined parts for official versions
+
+1 16 20.1 -9.6 50 1 0 0 0 1 0 0 0 1 7101 - Sith Speeder.ldr
+1 16 20.1 -78.4 47.9 1 0 0 0 1 0 0 0 1 7101 - Minifig - Darth Maul.ldr
+1 16 -61 -57.6 -50 0 0 -1 0 1 0 1 0 0 7101 - Minifig - Qui-Gon Jinn.ldr
+1 16 -90 6.4 140 1 0 0 0 1 0 0 0 1 7101 - Vaporator.ldr
+
+
+0 FILE 7101 - Sith Speeder.ldr
+0 Sith Speeder
+0 Name: 7101 - Sith Speeder.ldr
+0 Author: Daniel Goerner [TK-949]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 7101 - Sith Speeder - Base.ldr
+1 16 0 -24 -40 1 0 0 0 1 0 0 0 1 7101 - Sith Speeder - Rod.ldr
+
+
+0 FILE 7101 - Sith Speeder - Base.ldr
+0 Sith Speeder - Base
+0 Name: 7101 - Sith Speeder - Base.ldr
+0 Author: Daniel Goerner [TK-949]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+1 8 0 0 0 0 0 -1 0 1 0 1 0 0 3021.dat
+1 19 0 -8 0 1 0 0 0 1 0 0 0 1 4598.dat
+0 STEP
+1 6 0 -16 -20 0 0 1 0 1 0 -1 0 0 3021.dat
+0 STEP
+1 8 0 -56 38 1 0 0 0 0 -1 0 1 0 3747a.dat
+
+
+0 FILE 7101 - Sith Speeder - Rod.ldr
+0 Sith Speeder - Rod
+0 Name: 7101 - Sith Speeder - Rod.ldr
+0 Author: Daniel Goerner [TK-949]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+1 8 0 0 0 -1 0 0 0 1 0 0 0 -1 2342.dat
+0 STEP
+1 19 0 -39.726 8.2 0 0 -1 0.37 0.93 0 0.93 -0.37 0 2555.dat
+0 STEP
+1 8 0 -45.326 10.4 1 0 0 0 0.82 0.58 0 -0.58 0.82 30031.dat
+
+
+0 FILE 7101 - Minifig - Darth Maul.ldr
+0 Minifig - Darth Maul
+0 Name: 7101 - Minifig - Darth Maul.ldr
+0 Author: Daniel Goerner [TK-949]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+1 0 0 32.464 3.307 1 0 0 0 0.96 0.28 0 -0.28 0.96 3815.dat
+1 0 0 44 0 1 0 0 0 0 1 0 -1 0 3816.dat
+1 0 0 44 0 1 0 0 0 0 1 0 -1 0 3817.dat
+0 STEP
+1 0 0 1.704 12.127 1 0 0 0 0.96 0.28 0 -0.28 0.96 973ps8.dat
+1 0 -15.552 10.358 9.648 0.98 -0.17 0 0.16 0.95 0.28 -0.05 -0.27 0.96 3818.dat
+1 0 15.552 10.358 9.648 0.98 0.17 0 0.01 -0.05 1 0.17 -0.98 -0.05 3819.dat
+1 0 -23.863 24.426 -5.125 1 0.05 0.03 -0.03 0.87 -0.49 -0.05 0.49 0.87 3820.dat
+1 0 23.863 -0.872 -7.384 -0.14 0.98 -0.16 -0.68 0.03 0.73 0.72 0.21 0.66 3820.dat
+0 STEP
+1 0 0 -0.217 12.68 1 0 0 0 0.96 0.28 0 -0.28 0.96 522.dat
+0 STEP
+1 0 0 -24.25 19.57 1 0 0 0 0.96 0.28 0 -0.28 0.96 3626bps8.dat
+0 STEP
+1 0 0 -24.25 19.57 1 0 0 0 0.96 0.28 0 -0.28 0.96 30381.dat
+0 STEP
+1 383 -25.152 14.286 -26.645 1 0.05 0.02 -0.03 0.73 -0.68 -0.05 0.68 0.73 577b.dat
+1 36 -25.152 14.286 -26.645 0.05 -0.05 -1 0.67 -0.74 0.07 -0.74 -0.67 0 30374.dat
+
+0 FILE 7101 - Minifig - Qui-Gon Jinn.ldr
+0 Minifig - Qui-Gon Jinn
+0 Name: 7101 - Minifig - Qui-Gon Jinn.ldr
+0 Author: Daniel Goerner [TK-949]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+1 6 0 44 0 1 0 0 0 1 0 0 0 1 3816.dat
+1 6 0 44 0 1 0 0 0 1 0 0 0 1 3817.dat
+1 6 0 32 0 1 0 0 0 1 0 0 0 1 3815.dat
+0 STEP
+1 19 0 0 0 1 0 0 0 1 0 0 0 1 973pr3.dat
+1 19 -15.552 9 0 0.98 -0.17 0 0.17 0.98 0 0 0 1 3818.dat
+1 19 15.552 9 0 0.98 0.17 0 -0.17 0.98 0 0 0 1 3819.dat
+1 14 -23.863 26.596 -10.321 0.98 -0.12 0.12 0.17 0.7 -0.7 0 0.71 0.71 3820.dat
+1 14 23.863 26.596 -10.321 0.98 0.12 -0.12 -0.17 0.7 -0.7 0 0.71 0.71 3820.dat
+0 STEP
+1 6 0 -2 0 1 0 0 0 1 0 0 0 1 522.dat
+0 STEP
+1 14 0 -26 0 1 0 0 0 1 0 0 0 1 3626bps9.dat
+0 STEP
+1 6 0 -26 0 1 0 0 0 1 0 0 0 1 92756.dat
+0 STEP
+1 383 -23.195 22.724 -33.822 0.98 -0.09 0.15 0.17 0.51 -0.84 0 0.86 0.51 577b.dat
+1 42 -23.195 22.724 -33.822 1 0.08 0.05 0 -0.51 0.86 0.1 -0.85 -0.51 30374.dat
+
+0 FILE 7101 - Vaporator.ldr
+0 Vaporator
+0 Name: 7101 - Vaporator.ldr
+0 Author: Daniel Goerner [TK-949]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+1 19 0 0 0 1 0 0 0 1 0 0 0 1 3958.dat
+1 8 0 -24 0 1 0 0 0 1 0 0 0 1 3003.dat
+0 STEP
+1 19 0 -48 0 1 0 0 0 1 0 0 0 1 3003.dat
+0 STEP
+1 7 -10 -56 -10 1 0 0 0 1 0 0 0 1 6019.dat
+1 7 10 -56 -10 1 0 0 0 1 0 0 0 1 6019.dat
+1 7 10 -56 10 -1 0 0 0 1 0 0 0 -1 6019.dat
+1 7 -10 -56 10 -1 0 0 0 1 0 0 0 -1 6019.dat
+0 STEP
+1 19 0 -80 0 1 0 0 0 1 0 0 0 1 3003.dat
+1 19 0 -104 0 1 0 0 0 1 0 0 0 1 3941.dat
+0 STEP
+1 19 -10 -128 -10 0 0 1 0 1 0 -1 0 0 4070.dat
+1 19 -10 -128 10 0 0 1 0 1 0 -1 0 0 4070.dat
+1 19 10 -128 10 0 0 -1 0 1 0 1 0 0 4070.dat
+1 19 10 -128 -10 0 0 -1 0 1 0 1 0 0 4070.dat
+0 STEP
+1 8 24 -118 0 0 -1 0 0 0 1 -1 0 0 3794a.dat
+1 8 -24 -118 0 0 1 0 0 0 -1 -1 0 0 3794a.dat
+1 6 0 -43.8 -30 0 -1 0 1 0 0 0 0 1 6016.dat
+1 8 0 -43.8 30 0 -1 0 1 0 0 0 0 1 6016.dat
+0 STEP
+1 7 10 -136 10 -1 0 0 0 1 0 0 0 -1 6019.dat
+1 7 -10 -136 10 -1 0 0 0 1 0 0 0 -1 6019.dat
+1 7 -10 -136 -10 1 0 0 0 1 0 0 0 1 6019.dat
+1 7 10 -136 -10 1 0 0 0 1 0 0 0 1 6019.dat
+0 STEP
+1 19 0 -160 0 1 0 0 0 1 0 0 0 1 3003.dat
+1 7 48 -118 0 0 -1 0 0 0 1 -1 0 0 4599a.dat
+1 7 -48 -118 0 0 1 0 0 0 1 1 0 0 4599a.dat
+0 STEP
+1 6 0 -123.8 30 0 1 0 1 0 0 0 0 -1 6016.dat
+1 8 0 -123.8 -30 0 1 0 1 0 0 0 0 -1 6016.dat
+1 7 0 -184 0 0 0 1 0 1 0 -1 0 0 4599a.dat
+0 STEP
+1 8 -50 -8 50 1 0 0 0 1 0 0 0 1 2569.dat
+1 8 50 -8 50 1 0 0 0 1 0 0 0 1 2569.dat
+1 8 50 -8 -50 1 0 0 0 1 0 0 0 1 2569.dat
+1 8 -50 -8 -50 1 0 0 0 1 0 0 0 1 2569.dat

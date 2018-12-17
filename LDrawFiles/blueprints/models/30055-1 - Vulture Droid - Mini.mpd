@@ -1,0 +1,115 @@
+0 FILE 30055 - Vulture Droid.ldr
+0 Vulture Droid
+0 Name: 30055 - Vulture Droid.ldr
+0 Author: Jude Parrill
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Star Wars / Mini / Star Wars Episode 1
+
+0 !HISTORY 2016-02-22 [legolijntje] Updated ~moved references
+
+0 ROTSTEP 40 50 0 ABS
+1 72 0 0 0 1 0 0 0 1 0 0 0 1 2419.dat
+1 272 -40 -8 30 1 0 0 0 1 0 0 0 1 3068b.dat
+1 272 40 -8 30 1 0 0 0 1 0 0 0 1 3068b.dat
+0 STEP
+1 71 -10 -8 20 0 0 -1 0 1 0 1 0 0 63864.dat
+1 71 10 -8 20 0 0 -1 0 1 0 1 0 0 63864.dat
+0 STEP
+0 ROTSTEP -145 130 0 ABS
+1 0 -40 0 40 -1 0 0 0 1 0 0 0 -1 63868.dat
+1 0 40 0 40 1 0 0 0 1 0 0 0 1 63868.dat
+0 STEP
+1 71 -40 8 30 1 0 0 0 1 0 0 0 1 2654.dat
+1 71 40 8 30 1 0 0 0 1 0 0 0 1 2654.dat
+0 STEP
+1 71 0 16 30 1 0 0 0 1 0 0 0 1 30055 - Bottom.ldr
+0 STEP
+0 ROTSTEP 40 50 0 ABS
+1 71 0 10 60 1 0 0 0 0.819152 0.573576 0 -0.573576 0.819152 30055 - Neck.ldr
+0 STEP
+1 71 70 2 40 0.258819 -0.965926 0 0.965926 0.258819 0 0 0 1 30055 - Wing.ldr
+1 71 -72 2 40 -0.258819 0.965926 0 -0.965926 -0.258819 0 0 0 1 30055 - Wing.ldr
+
+0 FILE 30055 - Bottom.ldr
+0 Bottom
+0 Name: 30055 - Bottom.ldr
+0 Author: Jude Parrill
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !THEME Star Wars / Mini / Star Wars Episode 1
+0 ROTSTEP 40 50 0 ABS
+1 71 0 0 0 1 0 0 0 1 0 0 0 1 2654.dat
+0 STEP
+1 272 0 -8 -10 1 0 0 0 1 0 0 0 1 3023.dat
+1 71 0 -8 10 -1 0 0 0 1 0 0 0 -1 2540.dat
+0 STEP
+1 43 -10 -16 10 -1 0 0 0 1 0 0 0 -1 6141.dat
+1 43 10 -16 10 -1 0 0 0 1 0 0 0 -1 6141.dat
+
+0 FILE 30055 - Neck.ldr
+0 Neck
+0 Name: 30055 - Neck.ldr
+0 Author: Jude Parrill
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !THEME Star Wars / Mini / Star Wars Episode 1
+0 ROTSTEP 125 0 -50 ABS
+1 0 0 -38 12 1 0 0 0 1 0 0 0 1 30377.dat
+0 STEP
+1 0 0 -38 12 1 0 0 0 0.819152 -0.573576 0 0.573576 0.819152 30055 - Head.ldr
+
+0 FILE 30055 - Head.ldr
+0 Head
+0 Name: 30055 - Head.ldr
+0 Author: Jude Parrill
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !THEME Star Wars / Mini / Star Wars Episode 1
+0 ROTSTEP 35 50 0 ABS
+1 72 0 -2 -30 0 0 -1 0 1 0 1 0 0 60478.dat
+1 72 0 -2 -20 -1 0 0 0 1 0 0 0 -1 54200.dat
+0 STEP
+1 272 0 -18 -60 1 0 0 0 1 0 0 0 1 50950.dat
+
+0 FILE 30055 - Wing.ldr
+0 Wing
+0 Name: 30055 - Wing.ldr
+0 Author: Jude Parrill
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !THEME Star Wars / Mini / Star Wars Episode 1
+0 ROTSTEP 45 55 0 ABS
+1 0 -20 -2 0 0 0 -1 0 1 0 1 0 0 48336.dat
+0 STEP
+1 272 -20 -10 -40 0 0 -1 0 1 0 1 0 0 3710.dat
+0 STEP
+1 72 -20 -18 20 -1 0 0 0 1 0 0 0 -1 61678.dat
+0 STEP
+1 272 -20 -2 -80 0 0 -1 0 1 0 1 0 0 3023.dat
+0 STEP
+1 72 -20 -18 -100 1 0 0 0 1 0 0 0 1 61678.dat
+1 71 -20 -18 -40 0 0 1 0 1 0 -1 0 0 2412b.dat
+0 STEP
+1 71 0 0 0 0.866025 -0.5 0 0.5 0.866025 0 0 0 1 30055 - Wing Bottom.ldr
+
+0 FILE 30055 - Wing Bottom.ldr
+0 Wing Bottom
+0 Name: 30055 - Wing Bottom.ldr
+0 Author: Jude Parrill
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !THEME Star Wars / Mini / Star Wars Episode 1
+0 ROTSTEP 45 55 0 ABS
+1 0 20 -2 0 0 0 1 0 1 0 -1 0 0 60470a.dat
+0 STEP
+1 272 20 -10 -40 0 0 1 0 1 0 -1 0 0 3710.dat
+0 STEP
+1 72 20 -18 20 -1 0 0 0 1 0 0 0 -1 61678.dat
+0 STEP
+1 272 20 -2 -80 0 0 -1 0 1 0 1 0 0 3023.dat
+0 STEP
+1 72 20 -18 -100 1 0 0 0 1 0 0 0 1 61678.dat
+1 71 20 -18 -40 0 0 1 0 1 0 -1 0 0 2412b.dat
+
