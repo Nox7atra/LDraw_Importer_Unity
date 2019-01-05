@@ -1,5 +1,7 @@
 # LDraw_Imporer_Unity
 
+Пример работы: https://habr.com/post/433364/
+
 Чтобы открыть плагин выберите - **Window -> LDrawImporter -> Open Importer**
 
 Плагин обладает двумя режимими: **ByName** и **Models**
