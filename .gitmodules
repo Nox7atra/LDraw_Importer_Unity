@@ -1,0 +1,3 @@
+[submodule "Assets/Triangle.Net-for-Unity"]
+	path = Assets/Triangle.Net-for-Unity
+	url = https://github.com/Nox7atra/Triangle.Net-for-Unity.git

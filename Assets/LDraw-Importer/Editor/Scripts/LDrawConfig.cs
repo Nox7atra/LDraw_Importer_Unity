@@ -101,6 +101,8 @@ namespace LDraw
                 {
                     string fileName = file.Replace(_BasePartsPath, "").Split('.')[0];
                    
+                    if (fileName.Contains("\\"))
+                       fileName = fileName.Split('\\')[1];
                     if (!_Parts.ContainsKey(fileName))
                         _Parts.Add(fileName, file);
                 }
